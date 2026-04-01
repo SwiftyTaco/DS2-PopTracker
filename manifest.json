@@ -1,0 +1,24 @@
+{
+  "name": "Dark Souls 2 Map Tracker",
+  "game_name": "Dark Souls 2",
+  "package_version": "1.0.0.0",
+  "package_uid": "template_pack",
+  "platform": "steam",
+  "author": "Cyb3R",
+  "min_poptracker_version": "0.25.9",
+  "target_poptracker_version": "0.1.0",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": [
+        "ap"
+      ]
+    },
+    "var_itemsonly": {
+      "display_name": "Items Only",
+      "flags": [
+        "ap"
+      ]
+    }
+  }
+}
