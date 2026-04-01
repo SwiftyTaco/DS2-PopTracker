@@ -1867,6 +1867,7 @@
         "y": 3499
       }
     ],
+    "access_rules": "flower",
     "sections": [
       {"name": "[DLC3] Aava drop"},
       {"name": "[DLC3] Ivory King drop"},
@@ -1959,6 +1960,7 @@
         "y": 2619
       }
     ],
+    "access_rules": "flower",
     "sections": [
       {"name": "[DLC3] Lud and Zallen drop"},
       {"name": "[DLC3] In the first house in Frigid Outskirts"},
