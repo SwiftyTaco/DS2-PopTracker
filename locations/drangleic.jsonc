@@ -81,22 +81,22 @@
 	    {"name": "[Maughlin the Armourer] Infantry Armor"},
 	    {"name": "[Maughlin the Armourer] Infantry Gloves"},
 	    {"name": "[Maughlin the Armourer] Infantry Boots"},
-      {"name": "[Maughlin the Armourer/Lost Sinner] Penal Mask", "access_rules": "@[SinnersRise] Lost Sinner drop"},
-      {"name": "[Maughlin the Armourer/Lost Sinner] Penal Straightjacket", "access_rules": "@[SinnersRise] Lost Sinner drop"},
-      {"name": "[Maughlin the Armourer/Lost Sinner] Penal Handcuffs", "access_rules": "@[SinnersRise] Lost Sinner drop"},
-      {"name": "[Maughlin the Armourer/Lost Sinner] Penal Skirt", "access_rules": "@[SinnersRise] Lost Sinner drop"},
-      {"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Helm", "access_rules": "@[IronKeep] Smelter Demon drop"},
-      {"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Armor", "access_rules": "@[IronKeep] Smelter Demon drop"},
-      {"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Gauntlets", "access_rules": "@[IronKeep] Smelter Demon drop"},
-      {"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Leggings", "access_rules": "@[IronKeep] Smelter Demon drop"},
-      {"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Mask", "access_rules": "@[Drangleic] Looking Glass Knight drop"},
-      {"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Armor", "access_rules": "@[Drangleic] Looking Glass Knight drop"},
-      {"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Gauntlets", "access_rules": "@[Drangleic] Looking Glass Knight drop"},
-      {"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Leggings", "access_rules": "@[Drangleic] Looking Glass Knight drop"},
-      {"name": "[Maughlin the Armourer/Velstadt] Velstadts Helm", "access_rules": "@[Velstadt] Velstadt drop"},
-      {"name": "[Maughlin the Armourer/Velstadt] Velstadts Armor", "access_rules": "@[Velstadt] Velstadt drop"},
-      {"name": "[Maughlin the Armourer/Velstadt] Velstadts Gauntlets", "access_rules": "@[Velstadt] Velstadt drop"},
-      {"name": "[Maughlin the Armourer/Velstadt] Velstadts Leggings", "access_rules": "@[Velstadt] Velstadt drop"},
+      {"name": "[Maughlin the Armourer/Lost Sinner] Penal Mask", "access_rules": "[SinnersRise] Lost Sinner drop"},
+      {"name": "[Maughlin the Armourer/Lost Sinner] Penal Straightjacket", "access_rules": "[SinnersRise] Lost Sinner drop"},
+      {"name": "[Maughlin the Armourer/Lost Sinner] Penal Handcuffs", "access_rules": "[SinnersRise] Lost Sinner drop"},
+      {"name": "[Maughlin the Armourer/Lost Sinner] Penal Skirt", "access_rules": "[SinnersRise] Lost Sinner drop"},
+      {"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Helm", "access_rules": "[IronKeep] Smelter Demon drop"},
+      {"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Armor", "access_rules": "[IronKeep] Smelter Demon drop"},
+      {"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Gauntlets", "access_rules": "[IronKeep] Smelter Demon drop"},
+      {"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Leggings", "access_rules": "[IronKeep] Smelter Demon drop"},
+      {"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Mask", "access_rules": "[Drangleic] Looking Glass Knight drop"},
+      {"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Armor", "access_rules": "[Drangleic] Looking Glass Knight drop"},
+      {"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Gauntlets", "access_rules": "[Drangleic] Looking Glass Knight drop"},
+      {"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Leggings", "access_rules": "[Drangleic] Looking Glass Knight drop"},
+      {"name": "[Maughlin the Armourer/Velstadt] Velstadts Helm", "access_rules": "[Velstadt] Velstadt drop"},
+      {"name": "[Maughlin the Armourer/Velstadt] Velstadts Armor", "access_rules": "[Velstadt] Velstadt drop"},
+      {"name": "[Maughlin the Armourer/Velstadt] Velstadts Gauntlets", "access_rules": "[Velstadt] Velstadt drop"},
+      {"name": "[Maughlin the Armourer/Velstadt] Velstadts Leggings", "access_rules": "[Velstadt] Velstadt drop"},
 	    {"name": "[Rosabeth of Melfia] Fireball", "access_rules": "rosa"},
 	    {"name": "[Rosabeth of Melfia] Fire Orb", "access_rules": "rosa"},
 	    {"name": "[Rosabeth of Melfia] Combustion", "access_rules": "rosa"},
@@ -261,8 +261,8 @@
       }
     ],
     "access_rules": [
-      "@[Wharf] Flexile Sentry drop",
-      "@[FOFG] Pursuer (in the proper arena)/drop"
+      "[Wharf] Flexile Sentry drop",
+      "[FOFG] Pursuer (in the proper arena)/drop"
     ],
     "sections": [
       {"name": "[Bastille] Metal chest behind in the dog/pursuer courtyard"},
@@ -436,6 +436,7 @@
         "y": 1776
       }
     ],
+    "access_rules": "[Heides] Dragonrider boss drop",
     "sections": [
       {"name": "[Wharf] Flexile Sentry drop"},
 	    {"name": "[Wharf] Wooden chest in the first house in Wharf"},
@@ -586,6 +587,7 @@
         "y": 1265
       }
     ],
+    "access_rules": "[ShadedWoods] Scorpioness Najka drop, pharStone",
     "sections": [
       {"name": "[Pharros] Royal Rat Authority drop"},
       {"name": "[Pharros] Wooden chest in room after using top Pharros contraption and dropping down near the toxic rats"},
@@ -622,6 +624,7 @@
         "y": 817
       }
     ],
+    "access_rules": "[ShadedWoods] Scorpioness Najka drop",
     "sections": [
       {"name": "[Tseldora] Prowling Magus and Congregation drop"},
 	    {"name": "[Tseldora] Dukes Dear Freja drop"},
@@ -801,7 +804,7 @@
         "y": 1475
       }
     ],
-    "access_rules": "[rotund]",
+    "access_rules": "rotund",
     "sections": [
       {"name": "[Copse] Skeleton Lords drop"},
       {"name": "[Copse] Skeleton Lords drop in NG+"},
@@ -850,7 +853,7 @@
         "y": 1528
       }
     ],
-    "access_rules": "[rotund]",
+    "access_rules": "rotund",
     "sections": [
       {"name": "[Chariot] Executioners Chariot drop"},
       {"name": "[Chariot] Executioners Chariot drop in NG+"},
@@ -877,6 +880,7 @@
         "y": 1022
       }
     ],
+    "access_rules": "rotund",
     "sections": [
       {"name": "[HarvestValley] Wooden chest inside the small cave where you meet Gavlan"},
       {"name": "[HarvestValley] Wooden chest inside the small cave where you meet Gavlan in NG+"},
@@ -949,6 +953,7 @@
         "y": 711
       }
     ],
+    "access_rules": "rotund",
     "sections": [
       {"name": "[EarthernPeak] Covetous Demon drop"},
       {"name": "[EarthernPeak] Mytha drop"},
@@ -1006,6 +1011,7 @@
         "y": 153
       }
     ],
+    "access_rules": "[EarthernPeak] Mytha drop",
     "sections": [
       {"name": "[IronKeep] Smelter Demon drop"},
       {"name": "[IronKeep] Old Iron King drop"},
@@ -1222,6 +1228,7 @@
         "y": 1423
       }
     ],
+    "access_rules": "[Drangleic] Looking Glass Knight drop",
     "sections": [
       {"name": "[Amana] Demon of Song drop"},
       {"name": "[Amana] Wooden chest on side path right through door a few steps below the first bonfire"},
@@ -1278,6 +1285,7 @@
         "y": 970
       }
     ],
+    "access_rules": "[Amana] Demon of Song drop",
     "sections": [
       {"name": "[Crypt] Velstadt drop"},
       {"name": "[Crypt] Velstadt drop in NG+"},
@@ -1386,6 +1394,7 @@
         "y": 169
       }
     ],
+    "access_rules": "[AldiasKeep] Guardian Dragon drop",
     "sections": [
       {"name": "[Aerie] On droppable small ledge before the third dragon nest"},
       {"name": "[Aerie] Corpse in the first dragon nest"},
@@ -1424,6 +1433,7 @@
         "y": 300
       }
     ],
+    "access_rules": "[AldiasKeep] Guardian Dragon drop",
     "sections": [
       {"name": "[DragonShrine] Ancient dragon drop"},
       {"name": "[DragonShrine] Gift from ancient dragon when speaking to him"},
@@ -1705,6 +1715,7 @@
         "y": 58
       }
     ],
+    "access_rules": "hevIronKey",
     "sections": [
       {"name": "[DLC2] Metal chest just above the second Ashen Idol guarded by possessed armor"},
       {"name": "[DLC2] Wooden chest outside just before the Upper Floor bonfire"},
@@ -1800,6 +1811,7 @@
         "y": 564
       }
     ],
+    "access_rules": ["hevIronKey, scepter"],
     "sections": [
       {"name": "[DLC2] Blue Smelter Demon drop"},
       {"name": "[DLC2] One elevator up from the Iron Passage bonfire"},
