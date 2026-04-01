@@ -1,0 +1,476 @@
+[
+    {
+        "name": "[Tseldora] Prowling Magus and Congregation drop",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Prowling Magus and Congregation drop", "ref": "Brightstone Cove Tseldora/[Tseldora] Prowling Magus and Congregation drop"}]
+    },
+
+	{
+        "name": "[Tseldora] Dukes Dear Freja drop",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Dukes Dear Freja drop", "ref": "Brightstone Cove Tseldora/[Tseldora] Dukes Dear Freja drop"}]
+    },
+
+	{
+        "name": "[Tseldora] Dukes Dear Freja drop in NG+",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Dukes Dear Freja drop in NG+", "ref": "Brightstone Cove Tseldora/[Tseldora] Dukes Dear Freja drop in NG+"}]
+    },
+
+	{
+        "name": "[Tseldora] Drop from Duke Tseldora after Freja",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Drop from Duke Tseldora after Freja", "ref": "Brightstone Cove Tseldora/[Tseldora] Drop from Duke Tseldora after Freja"}]
+    },
+
+	{
+        "name": "[Tseldora] Gift from Pate or Creighton when helping in the fight against the other",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Gift from Pate or Creighton when helping in the fight against the other", "ref": "Brightstone Cove Tseldora/[Tseldora] Gift from Pate or Creighton when helping in the fight against the other"}]
+    },
+
+	{
+        "name": "[Tseldora] Wooden chest inside the small house in falconer camp",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Wooden chest inside the small house in falconer camp", "ref": "Brightstone Cove Tseldora/[Tseldora] Wooden chest inside the small house in falconer camp"}]
+    },
+
+	{
+        "name": "[Tseldora] Spider-trapped wooden chest before Congregation",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Spider-trapped wooden chest before Congregation", "ref": "Brightstone Cove Tseldora/[Tseldora] Spider-trapped wooden chest before Congregation"}]
+    },
+
+	{
+        "name": "[Tseldora] Spider-trapped wooden chest before Congregation in NG+",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Spider-trapped wooden chest before Congregation in NG+", "ref": "Brightstone Cove Tseldora/[Tseldora] Spider-trapped wooden chest before Congregation in NG+"}]
+    },
+
+	{
+        "name": "[Tseldora] Wooden chest in Tseldora den",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Wooden chest in Tseldora den", "ref": "Brightstone Cove Tseldora/[Tseldora] Wooden chest in Tseldora den"}]
+    },
+
+	{
+        "name": "[Tseldora] Metal chest in Tseldora den",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Metal chest in Tseldora den", "ref": "Brightstone Cove Tseldora/[Tseldora] Metal chest in Tseldora den"}]
+    },
+
+	{
+        "name": "[Tseldora] Metal chest in secret alcove behind shelf in room next to Ornifexs Tseldora room",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Metal chest in secret alcove behind shelf in room next to Ornifexs Tseldora room", "ref": "Brightstone Cove Tseldora/[Tseldora] Metal chest in secret alcove behind shelf in room next to Ornifexs Tseldora room"}]
+    },
+
+	{
+        "name": "[Tseldora] Metal chest on lowerable platform",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Metal chest on lowerable platform", "ref": "Brightstone Cove Tseldora/[Tseldora] Metal chest on lowerable platform"}]
+    },
+
+	{
+        "name": "[Tseldora] Metal chest behind locked door in pickaxe room",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Metal chest behind locked door in pickaxe room", "ref": "Brightstone Cove Tseldora/[Tseldora] Metal chest behind locked door in pickaxe room"}]
+    },
+
+	{
+        "name": "[Tseldora] Behind a bench in the pickaxe room",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Behind a bench in the pickaxe room", "ref": "Brightstone Cove Tseldora/[Tseldora] Behind a bench in the pickaxe room"}]
+    },
+
+	{
+        "name": "[Tseldora] In urn in Ornifexs Tseldora room",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In urn in Ornifexs Tseldora room", "ref": "Brightstone Cove Tseldora/[Tseldora] In urn in Ornifexs Tseldora room"}]
+    },
+
+	{
+        "name": "[Tseldora] On a corpse next to Cromwell",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On a corpse next to Cromwell", "ref": "Brightstone Cove Tseldora/[Tseldora] On a corpse next to Cromwell"}]
+    },
+
+	{
+        "name": "[Tseldora] On balcony of the house just before the spiky mining field",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On balcony of the house just before the spiky mining field", "ref": "Brightstone Cove Tseldora/[Tseldora] On balcony of the house just before the spiky mining field"}]
+    },
+
+	{
+        "name": "[Tseldora] Hanging from window behind illusory wall before congregation",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Hanging from window behind illusory wall before congregation", "ref": "Brightstone Cove Tseldora/[Tseldora] Hanging from window behind illusory wall before congregation"}]
+    },
+
+	{
+        "name": "[Tseldora] Hanging on side of the well in falconer camp",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Hanging on side of the well in falconer camp", "ref": "Brightstone Cove Tseldora/[Tseldora] Hanging on side of the well in falconer camp"}]
+    },
+
+	{
+        "name": "[Tseldora] Hanging on side of the well in falconer camp in NG+",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Hanging on side of the well in falconer camp in NG+", "ref": "Brightstone Cove Tseldora/[Tseldora] Hanging on side of the well in falconer camp in NG+"}]
+    },
+
+	{
+        "name": "[Tseldora] A corpse around miner in falconer camp",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] A corpse around miner in falconer camp", "ref": "Brightstone Cove Tseldora/[Tseldora] A corpse around miner in falconer camp"}]
+    },
+
+	{
+        "name": "[Tseldora] On ledge before the first spider-decorated door",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On ledge before the first spider-decorated door", "ref": "Brightstone Cove Tseldora/[Tseldora] On ledge before the first spider-decorated door"}]
+    },
+
+	{
+        "name": "[Tseldora] Under the stairs next to Chapel Threshold bonfire",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Under the stairs next to Chapel Threshold bonfire", "ref": "Brightstone Cove Tseldora/[Tseldora] Under the stairs next to Chapel Threshold bonfire"}]
+    },
+
+	{
+        "name": "[Tseldora] On ledge above the sand whirlpool",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On ledge above the sand whirlpool", "ref": "Brightstone Cove Tseldora/[Tseldora] On ledge above the sand whirlpool"}]
+    },
+
+	{
+        "name": "[Tseldora] On roof of a house next to the sand whirlpool",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On roof of a house next to the sand whirlpool", "ref": "Brightstone Cove Tseldora/[Tseldora] On roof of a house next to the sand whirlpool"}]
+    },
+
+	{
+        "name": "[Tseldora] A corpse around miner in falconer camp (2)",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] A corpse around miner in falconer camp (2)", "ref": "Brightstone Cove Tseldora/[Tseldora] A corpse around miner in falconer camp (2)"}]
+    },
+
+	{
+        "name": "[Tseldora] On ledge guarded by parasitized undead",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On ledge guarded by parasitized undead", "ref": "Brightstone Cove Tseldora/[Tseldora] On ledge guarded by parasitized undead"}]
+    },
+
+	{
+        "name": "[Tseldora] In the well in falconer camp",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In the well in falconer camp", "ref": "Brightstone Cove Tseldora/[Tseldora] In the well in falconer camp"}]
+    },
+
+	{
+        "name": "[Tseldora] A corpse around miner in falconer camp (3)",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] A corpse around miner in falconer camp (3)", "ref": "Brightstone Cove Tseldora/[Tseldora] A corpse around miner in falconer camp (3)"}]
+    },
+
+	{
+        "name": "[Tseldora] A corpse around miner in falconer camp (4)",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] A corpse around miner in falconer camp (4)", "ref": "Brightstone Cove Tseldora/[Tseldora] A corpse around miner in falconer camp (4)"}]
+    },
+
+	{
+        "name": "[Tseldora] On path under the first boulder",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On path under the first boulder", "ref": "Brightstone Cove Tseldora/[Tseldora] On path under the first boulder"}]
+    },
+
+	{
+        "name": "[Tseldora] Room on upper floor from Lower Brightstone Cove bonfire",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Room on upper floor from Lower Brightstone Cove bonfire", "ref": "Brightstone Cove Tseldora/[Tseldora] Room on upper floor from Lower Brightstone Cove bonfire"}]
+    },
+
+	{
+        "name": "[Tseldora] In back room between the two sand areas",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In back room between the two sand areas", "ref": "Brightstone Cove Tseldora/[Tseldora] In back room between the two sand areas"}]
+    },
+
+	{
+        "name": "[Tseldora] In back room between the two sand areas in ng+",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In back room between the two sand areas in ng+", "ref": "Brightstone Cove Tseldora/[Tseldora] In back room between the two sand areas in ng+"}]
+    },
+
+	{
+        "name": "[Tseldora] Behind shelf in Ornifexs Tseldora room",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Behind shelf in Ornifexs Tseldora room", "ref": "Brightstone Cove Tseldora/[Tseldora] Behind shelf in Ornifexs Tseldora room"}]
+    },
+
+	{
+        "name": "[Tseldora] In a house next to the sand whirlpool",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In a house next to the sand whirlpool", "ref": "Brightstone Cove Tseldora/[Tseldora] In a house next to the sand whirlpool"}]
+    },
+
+	{
+        "name": "[Tseldora] In a house in cliffside above the sand whirlpool",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In a house in cliffside above the sand whirlpool", "ref": "Brightstone Cove Tseldora/[Tseldora] In a house in cliffside above the sand whirlpool"}]
+    },
+
+	{
+        "name": "[Tseldora] On mini staircase in room after pate/creighton fight",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On mini staircase in room after pate/creighton fight", "ref": "Brightstone Cove Tseldora/[Tseldora] On mini staircase in room after pate/creighton fight"}]
+    },
+
+	{
+        "name": "[Tseldora] In urn next to the ruined house in falconer camp",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In urn next to the ruined house in falconer camp", "ref": "Brightstone Cove Tseldora/[Tseldora] In urn next to the ruined house in falconer camp"}]
+    },
+
+	{
+        "name": "[Tseldora] On a corpse next to Cromwell (2)",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On a corpse next to Cromwell (2)", "ref": "Brightstone Cove Tseldora/[Tseldora] On a corpse next to Cromwell (2)"}]
+    },
+
+	{
+        "name": "[Tseldora] On a corpse next to Cromwell (3)",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On a corpse next to Cromwell (3)", "ref": "Brightstone Cove Tseldora/[Tseldora] On a corpse next to Cromwell (3)"}]
+    },
+
+	{
+        "name": "[Tseldora] On a corpse next to Cromwell (4)",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On a corpse next to Cromwell (4)", "ref": "Brightstone Cove Tseldora/[Tseldora] On a corpse next to Cromwell (4)"}]
+    },
+
+	{
+        "name": "[Tseldora] On a corpse next to Cromwell (5)",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On a corpse next to Cromwell (5)", "ref": "Brightstone Cove Tseldora/[Tseldora] On a corpse next to Cromwell (5)"}]
+    },
+
+	{
+        "name": "[Tseldora] In the right side alcove of the pickaxe room",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In the right side alcove of the pickaxe room", "ref": "Brightstone Cove Tseldora/[Tseldora] In the right side alcove of the pickaxe room"}]
+    },
+
+	{
+        "name": "[Tseldora] On top of the wooden tower in falconer camp",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On top of the wooden tower in falconer camp", "ref": "Brightstone Cove Tseldora/[Tseldora] On top of the wooden tower in falconer camp"}]
+    },
+
+	{
+        "name": "[Tseldora] In urn in the first room on a way from doors of pharros",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In urn in the first room on a way from doors of pharros", "ref": "Brightstone Cove Tseldora/[Tseldora] In urn in the first room on a way from doors of pharros"}]
+    },
+
+	{
+        "name": "[Tseldora] In urn in the first room after Chapel Threshold bonfire",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In urn in the first room after Chapel Threshold bonfire", "ref": "Brightstone Cove Tseldora/[Tseldora] In urn in the first room after Chapel Threshold bonfire"}]
+    },
+
+	{
+        "name": "[Tseldora] In urn in room with pate/creighton fight",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In urn in room with pate/creighton fight", "ref": "Brightstone Cove Tseldora/[Tseldora] In urn in room with pate/creighton fight"}]
+    },
+
+	{
+        "name": "[Tseldora] In urn on middle level of the web room before Freja",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In urn on middle level of the web room before Freja", "ref": "Brightstone Cove Tseldora/[Tseldora] In urn on middle level of the web room before Freja"}]
+    },
+
+	{
+        "name": "[Tseldora] On middle level of the web room before Freja",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On middle level of the web room before Freja", "ref": "Brightstone Cove Tseldora/[Tseldora] On middle level of the web room before Freja"}]
+    },
+
+	{
+        "name": "[Tseldora] On spider web in the web room before Freja",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On spider web in the web room before Freja", "ref": "Brightstone Cove Tseldora/[Tseldora] On spider web in the web room before Freja"}]
+    },
+
+	{
+        "name": "[Tseldora] Behind pilar in the lowest level of the web room before Freja",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Behind pilar in the lowest level of the web room before Freja", "ref": "Brightstone Cove Tseldora/[Tseldora] Behind pilar in the lowest level of the web room before Freja"}]
+    },
+
+	{
+        "name": "[Tseldora] Under spider web in the web room before Freja",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Under spider web in the web room before Freja", "ref": "Brightstone Cove Tseldora/[Tseldora] Under spider web in the web room before Freja"}]
+    },
+
+	{
+        "name": "[Tseldora] On middle level of the web room before Freja (2)",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On middle level of the web room before Freja (2)", "ref": "Brightstone Cove Tseldora/[Tseldora] On middle level of the web room before Freja (2)"}]
+    },
+
+	{
+        "name": "[Tseldora] On middle level of the final hall before Freja in NG+",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On middle level of the final hall before Freja in NG+", "ref": "Brightstone Cove Tseldora/[Tseldora] On middle level of the final hall before Freja in NG+"}]
+    },
+
+	{
+        "name": "[Tseldora] Next to a boulder in the beginning of the area",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Next to a boulder in the beginning of the area", "ref": "Brightstone Cove Tseldora/[Tseldora] Next to a boulder in the beginning of the area"}]
+    },
+
+	{
+        "name": "[Tseldora] On ground close to the sand whirlpool",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] On ground close to the sand whirlpool", "ref": "Brightstone Cove Tseldora/[Tseldora] On ground close to the sand whirlpool"}]
+    },
+
+	{
+        "name": "[Tseldora] A corpse in the spiky mining field",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] A corpse in the spiky mining field", "ref": "Brightstone Cove Tseldora/[Tseldora] A corpse in the spiky mining field"}]
+    },
+
+	{
+        "name": "[Tseldora] A corpse in the spiky mining field (2)",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] A corpse in the spiky mining field (2)", "ref": "Brightstone Cove Tseldora/[Tseldora] A corpse in the spiky mining field (2)"}]
+    },
+
+	{
+        "name": "[Tseldora] In urn next to Congregation foggate",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In urn next to Congregation foggate", "ref": "Brightstone Cove Tseldora/[Tseldora] In urn next to Congregation foggate"}]
+    },
+
+	{
+        "name": "[Tseldora] In urn on right side when leaving Congregation fight",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In urn on right side when leaving Congregation fight", "ref": "Brightstone Cove Tseldora/[Tseldora] In urn on right side when leaving Congregation fight"}]
+    },
+
+	{
+        "name": "[Tseldora] Guide a pig from the campsite to lower tseldora and let it eat mushrooms",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] Guide a pig from the campsite to lower tseldora and let it eat mushrooms", "ref": "Brightstone Cove Tseldora/[Tseldora] Guide a pig from the campsite to lower tseldora and let it eat mushrooms"}]
+    },
+
+	{
+        "name": "[Tseldora] In urn in the 2nd floor of a house just before the spiky mining field",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In urn in the 2nd floor of a house just before the spiky mining field", "ref": "Brightstone Cove Tseldora/[Tseldora] In urn in the 2nd floor of a house just before the spiky mining field"}]
+    },
+
+	{
+        "name": "[Tseldora] In urn in the pickaxe room",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Tseldora] In urn in the pickaxe room", "ref": "Brightstone Cove Tseldora/[Tseldora] In urn in the pickaxe room"}]
+    },
+
+	{
+        "name": "[Cromwell the Pardoner] White Priest Headpiece",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Cromwell the Pardoner] White Priest Headpiece", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] White Priest Headpiece"}]
+    },
+
+	{
+        "name": "[Cromwell the Pardoner] White Priest Robe",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Cromwell the Pardoner] White Priest Robe", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] White Priest Robe"}]
+    },
+
+	{
+        "name": "[Cromwell the Pardoner] White Priest Gloves",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Cromwell the Pardoner] White Priest Gloves", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] White Priest Gloves"}]
+    },
+
+	{
+        "name": "[Cromwell the Pardoner] White Priest Skirt",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Cromwell the Pardoner] White Priest Skirt", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] White Priest Skirt"}]
+    },
+
+	{
+        "name": "[Cromwell the Pardoner] Great Heal",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Cromwell the Pardoner] Great Heal", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Great Heal"}]
+    },
+
+	{
+        "name": "[Cromwell the Pardoner] Replenishment",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Cromwell the Pardoner] Replenishment", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Replenishment"}]
+    },
+
+	{
+        "name": "[Cromwell the Pardoner] Caressing Prayer",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Cromwell the Pardoner] Caressing Prayer", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Caressing Prayer"}]
+    },
+
+	{
+        "name": "[Cromwell the Pardoner] Force",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Cromwell the Pardoner] Force", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Force"}]
+    },
+
+	{
+        "name": "[Cromwell the Pardoner] Emit Force",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Cromwell the Pardoner] Emit Force", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Emit Force"}]
+    },
+
+	{
+        "name": "[Cromwell the Pardoner] Heavenly Thunder",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Cromwell the Pardoner] Heavenly Thunder", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Heavenly Thunder"}]
+    },
+
+	{
+        "name": "[Cromwell the Pardoner] Perseverance",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Cromwell the Pardoner] Perseverance", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Perseverance"}]
+    },
+
+	{
+        "name": "[Cromwell the Pardoner] Scraps of Life",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Cromwell the Pardoner] Scraps of Life", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Scraps of Life"}]
+    },
+
+	{
+        "name": "[Cromwell the Pardoner] Poisonbite Ring",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Cromwell the Pardoner] Poisonbite Ring", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Poisonbite Ring"}]
+    },
+
+	{
+        "name": "[Cromwell the Pardoner] Bloodbite Ring",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Cromwell the Pardoner] Bloodbite Ring", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Bloodbite Ring"}]
+    },
+
+	{
+        "name": "[Cromwell the Pardoner] Cursebite Ring",
+        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
+        "sections": [{"name": "[Cromwell the Pardoner] Cursebite Ring", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Cursebite Ring"}]
+    }
+
+]

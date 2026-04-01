@@ -1,0 +1,49 @@
+[
+    {
+        "name": "[GraveOfSaints] Royal rat vanguard drop",
+        "map_locations": [{"map": "Grave of Saints", "x": "0", "y": 0}],
+        "sections":[{"name": "[GraveOfSaints] Royal rat vanguard drop", "ref": "Grave of Saints/[GraveOfSaints] Royal rat vanguard drop"}]
+    },
+
+    {
+        "name": "[GraveOfSaints] 2nd floor on other side of the drawbridges",
+        "map_locations": [{"map": "Grave of Saints", "x": "0", "y": 0}],
+        "sections":[{"name": "[GraveOfSaints] 2nd floor on other side of the drawbridges", "ref": "Grave of Saints/[GraveOfSaints] 2nd floor on other side of the drawbridges"}]
+    },
+
+    {
+        "name": "[GraveOfSaints] In the first circular room of Grave of Saints",
+        "map_locations": [{"map": "Grave of Saints", "x": "0", "y": 0}],
+        "sections":[{"name": "[GraveOfSaints] In the first circular room of Grave of Saints", "ref": "Grave of Saints/[GraveOfSaints] In the first circular room of Grave of Saints"}]
+    },
+
+    {
+        "name": "[GraveOfSaints] In the first circular room of Grave of Saints in NG+",
+        "map_locations": [{"map": "Grave of Saints", "x": "0", "y": 0}],
+        "sections":[{"name": "[GraveOfSaints] In the first circular room of Grave of Saints in NG+", "ref": "Grave of Saints/[GraveOfSaints] In the first circular room of Grave of Saints in NG+"}]
+    },
+
+    {
+        "name": "[GraveOfSaints] 2nd floor left side next to table",
+        "map_locations": [{"map": "Grave of Saints", "x": "0", "y": 0}],
+        "sections":[{"name": "[GraveOfSaints] 2nd floor left side next to table", "ref": "Grave of Saints/[GraveOfSaints] 2nd floor left side next to table"}]
+    },
+
+    {
+        "name": "[GraveOfSaints] 1st floor on other side of the drawbridges",
+        "map_locations": [{"map": "Grave of Saints", "x": "0", "y": 0}],
+        "sections":[{"name": "[GraveOfSaints] 1st floor on other side of the drawbridges", "ref": "Grave of Saints/[GraveOfSaints] 1st floor on other side of the drawbridges"}]
+    },
+
+    {
+        "name": "[GraveOfSaints] In the middle circle of the circular room",
+        "map_locations": [{"map": "Grave of Saints", "x": "0", "y": 0}],
+        "sections":[{"name": "[GraveOfSaints] In the middle circle of the circular room", "ref": "Grave of Saints/[GraveOfSaints] In the middle circle of the circular room"}]
+    },
+
+    {
+        "name": "[GraveOfSaints] 1st floor left side",
+        "map_locations": [{"map": "Grave of Saints", "x": "0", "y": 0}],
+        "sections":[{"name": "[GraveOfSaints] 1st floor left side", "ref": "Grave of Saints/[GraveOfSaints] 1st floor left side"}]
+    }
+]

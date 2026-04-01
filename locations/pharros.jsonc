@@ -1,0 +1,109 @@
+[
+    {
+        "name": "[Pharros] Royal Rat Authority drop",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] Royal Rat Authority drop", "ref": "Doors of Pharros/[Pharros] Royal Rat Authority drop"}]
+    },
+
+    {
+        "name": "[Pharros] Wooden chest in room after using top Pharros contraption and dropping down near the toxic rats",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] Wooden chest in room after using top Pharros contraption and dropping down near the toxic rats", "ref": "Doors of Pharros/[Pharros] Wooden chest in room after using top Pharros contraption and dropping down near the toxic rats"}]
+    },
+
+    {
+        "name": "[Pharros] Trapped wooden chest",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] Trapped wooden chest", "ref": "Doors of Pharros/[Pharros] Trapped wooden chest"}]
+    },
+
+    {
+        "name": "[Pharros] Trapped wooden chest behind (floor)/Pharros contraption in the upper level",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] Trapped wooden chest behind (floor)/Pharros contraption in the upper level", "ref": "Doors of Pharros/[Pharros] Trapped wooden chest behind (floor)/Pharros contraption in the upper level"}]
+    },
+
+    {
+        "name": "[Pharros] Trapped wooden chest behind (floor)/Pharros contraption in the upper level in NG+",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] Trapped wooden chest behind (floor)/Pharros contraption in the upper level in NG+", "ref": "Doors of Pharros/[Pharros] Trapped wooden chest behind (floor)/Pharros contraption in the upper level in NG+"}]
+    },
+
+    {
+        "name": "[Pharros] Wooden chest in an alcove guarded by dwarf in the beginning of the long stairs to Brightstone",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] Wooden chest in an alcove guarded by dwarf in the beginning of the long stairs to Brightstone", "ref": "Doors of Pharros/[Pharros] Wooden chest in an alcove guarded by dwarf in the beginning of the long stairs to Brightstone"}]
+    },
+
+    {
+        "name": "[Pharros] Wooden chest in an alcove guarded by dwarf in the beginning of the long stairs to Brightstone in NG+",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] Wooden chest in an alcove guarded by dwarf in the beginning of the long stairs to Brightstone in NG+", "ref": "Doors of Pharros/[Pharros] Wooden chest in an alcove guarded by dwarf in the beginning of the long stairs to Brightstone in NG+"}]
+    },
+
+    {
+        "name": "[Pharros] Metal chest behind three-part pharros door in the lower level",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] Metal chest behind three-part pharros door in the lower level", "ref": "Doors of Pharros/[Pharros] Metal chest behind three-part pharros door in the lower level"}]
+    },
+
+    {
+        "name": "[Pharros] In water before the first bonfire",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] In water before the first bonfire", "ref": "Doors of Pharros/[Pharros] In water before the first bonfire"}]
+    },
+
+    {
+        "name": "[Pharros] In the room with Gavlan",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] In the room with Gavlan", "ref": "Doors of Pharros/[Pharros] In the room with Gavlan"}]
+    },
+
+    {
+        "name": "[Pharros] In the room with Gavlan in NG+",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] In the room with Gavlan in NG+", "ref": "Doors of Pharros/[Pharros] In the room with Gavlan in NG+"}]
+    },
+
+    {
+        "name": "[Pharros] Corpse- behind three-part Pharros door in the upper level",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] Corpse- behind three-part Pharros door in the upper level", "ref": "Doors of Pharros/[Pharros] Corpse- behind three-part Pharros door in the upper level"}]
+    },
+
+    {
+        "name": "[Pharros] In water in the far side of the first (lower)/big hall",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] In water in the far side of the first (lower)/big hall", "ref": "Doors of Pharros/[Pharros] In water in the far side of the first (lower)/big hall"}]
+    },
+
+    {
+        "name": "[Pharros] In water in the big hall right after Gyrms Respite bonfire in NG+",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] In water in the big hall right after Gyrms Respite bonfire in NG+", "ref": "Doors of Pharros/[Pharros] In water in the big hall right after Gyrms Respite bonfire in NG+"}]
+    },
+
+    {
+        "name": "[Pharros] Corpse on a middle-level ledge in the first room",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] Corpse on a middle-level ledge in the first room", "ref": "Doors of Pharros/[Pharros] Corpse on a middle-level ledge in the first room"}]
+    },
+
+    {
+        "name": "[Pharros] On ledge after climbing the ladder up from the water",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] On ledge after climbing the ladder up from the water", "ref": "Doors of Pharros/[Pharros] On ledge after climbing the ladder up from the water"}]
+    },
+
+    {
+        "name": "[Pharros] Upper level",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] Upper level", "ref": "Doors of Pharros/[Pharros] Upper level"}]
+    },
+
+    {
+        "name": "[Pharros] On 2nd floor next to dwarf statues",
+        "map_locations": [{"map": "Doors of Pharros", "x": 0, "y": 0}],
+        "sections": [{"name": "[Pharros] On 2nd floor next to dwarf statues", "ref": "Doors of Pharros/[Pharros] On 2nd floor next to dwarf statues"}]
+    }
+]

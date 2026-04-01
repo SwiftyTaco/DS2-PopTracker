@@ -1,0 +1,212 @@
+[
+  {
+    "name": "King's Ring",
+    "type": "toggle",
+    "img": "template_pack-main/images/items/kings_ring.png",
+    "codes": "kingRing"
+  },
+  {
+    "name": "Ashen Mist Heart",
+    "type": "toggle",
+    "img": "images/items/Ashen_Mist_Heart.png",
+    "codes": "mistHeart"
+  },
+  {
+    "name": "Soul of a Giant",
+    "type": "toggle",
+    "img": "images/items/Soul_of_a_Giant.png",
+    "codes": "giantSoul"
+  },
+  {
+    "name": "Soul of the Lost Sinner",
+    "type": "toggle",
+    "img": "images/items/soul_of_the_king.png",
+    "codes": "sinSoul"
+  },
+  {
+    "name": "Soul of the Duke's Dear Freja",
+    "type": "toggle",
+    "img": "images/items/soul_of_the_king.png",
+    "codes": "spiderSoul"
+  },
+  {
+    "name": "Soul of the Old Iron King",
+    "type": "toggle",
+    "img": "images/items/soul_of_the_king.png",
+    "codes": "oikSoul"
+  },
+  {
+    "name": "Soul of The Rotten",
+    "type": "toggle",
+    "img": "images/items/soul_of_the_king.png",
+    "codes": "rottenSoul"
+  },
+  {
+    "name": "Aldia Key",
+    "type": "toggle",
+    "img": "images/items/Aldia_Key.png",
+    "codes": "aldiaKey"
+  },
+  {
+    "name": "Antiquated Key",
+    "type": "toggle",
+    "img": "images/items/Antiquated_Key.png",
+    "codes": "antiqKey"
+  },
+  {
+    "name": "Bastille Key",
+    "type": "toggle",
+    "img": "images/items/Bastille_Key.png",
+    "codes": "bastKey"
+  },
+  {
+    "name": "Brightstone Key",
+    "type": "toggle",
+    "img": "images/items/Brightstone_Key.png",
+    "codes": "brightKey"
+  },
+  {
+    "name": "Dragon Stone",
+    "type": "toggle",
+    "img": "images/items/Dragon Stone.png",
+    "codes": "dragStone"
+  },
+  {
+    "name": "Dragon Talon",
+    "type": "toggle",
+    "img": "images/items/Dragon Talon.png",
+    "codes": "dragClaw"
+  },
+  {
+    "name": "Eternal Sanctum Key",
+    "type": "toggle",
+    "img": "images/items/Eternal Sanctum Key.png",
+    "codes": "sancKey"
+  },
+  {
+    "name": "Eye of the Priestess",
+    "type": "toggle",
+    "img": "images/items/eye_of_the_priestess.png",
+    "codes": "eye"
+  },
+  {
+    "name": "Fang Key",
+    "type": "toggle",
+    "img": "images/items/Fang Key.png",
+    "codes": "fangKey"
+  },
+  {
+    "name": "Forgotten Key",
+    "type": "toggle",
+    "img": "images/items/Forgotten_Key.png",
+    "codes": "forgorKey"
+  },
+  {
+    "name": "Frozen Flower",
+    "type": "toggle",
+    "img": "images/items/frozen_flower.png",
+    "codes": "flower"
+  },
+  {
+    "name": "Garrison Ward Key",
+    "type": "toggle",
+    "img": "images/items/garrison_ward_key.png",
+    "codes": "garyKey"
+  },
+  {
+    "name": "Giant's Kinship",
+    "type": "toggle",
+    "img": "images/items/Giant's_Kinship.png",
+    "codes": "giantKin"
+  },
+  {
+    "name": "Heavy Iron Key",
+    "type": "toggle",
+    "img": "images/items/Heavy Iron Key.png",
+    "codes": "hevIronKey"
+  },
+  {
+    "name": "House Key",
+    "type": "toggle",
+    "img": "images/items/House_Key.png",
+    "codes": "homeKey"
+  },
+  {
+    "name": "Iron Key",
+    "type": "toggle",
+    "img": "images/items/Iron_Key.png",
+    "codes": "ironKey"
+  },
+  {
+    "name": "Key to King's Passage",
+    "type": "toggle",
+    "img": "images/items/Key_to_King's_Passage.png",
+    "codes": "passKey"
+  },
+  {
+    "name": "Key to the Embedded",
+    "type": "toggle",
+    "img": "images/items/Key_to_the_Embedded.png",
+    "codes": "embedKey"
+  },
+  {
+    "name": "Lenigrast's Key",
+    "type": "toggle",
+    "img": "images/items/Lenigrast's_Key.png",
+    "codes": "leniKey"
+  },
+  {
+    "name": "Master Lockstone",
+    "type": "toggle",
+    "img": "images/items/pharros_lockstone.png",
+    "codes": "pharStone"
+  },
+  {
+    "name": "Unpetrify Rosabeth",
+    "type": "toggle",
+    "img": "images/items/rosa",
+    "codes": "rosa"
+  },
+  {
+    "name": "Rotunda Lockstone",
+    "type": "toggle",
+    "img": "images/items/Rotunda_Lockstone.png",
+    "codes": "rotund"
+  },
+  {
+    "name": "Scorching Iron Scepter",
+    "type": "toggle",
+    "img": "images/items/Scorching Iron Scepter.png",
+    "codes": "scepter"
+  },
+  {
+    "name": "Soldier Key",
+    "type": "toggle",
+    "img": "images/items/Soldier_Key.png",
+    "codes": "soldierKey"
+  },
+  {
+    "name": "Tower Key",
+    "type": "toggle",
+    "img": "images/items/Tower Key.png",
+    "codes": "towerKey"
+  },
+  {
+    "name": "Tseldora Den Key",
+    "type": "toggle",
+    "img": "images/items/Tseldora_Den_Key.png",
+    "codes": "denKey"
+  },
+  {
+    "name": "Undead Lockaway Key",
+    "type": "toggle",
+    "img": "images/items/Undead_Lockaway_Key.png",
+    "codes": "lockawayKey"
+  },
+  {
+    "name": "Go Mode",
+    "type": "toggle",
+    "img": "images/items/GoMode.png",
+    "codes": "goMode"
+  }
+]

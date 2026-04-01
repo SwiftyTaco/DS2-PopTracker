@@ -1,0 +1,67 @@
+[
+    {
+        "name": "[DLC2] Blue Smelter Demon drop",
+        "map_locations": [{"map": "Iron Passage", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC2] One elevator up from the Iron Passage bonfire",
+        "map_locations": [{"map": "Iron Passage", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC2] On an upper ledge of the third big room after passing through the second gate in Iron Passage",
+        "map_locations": [{"map": "Iron Passage", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC2] On an upper ledge of the third big room after passing through the second gate in Iron Passage (2)",
+        "map_locations": [{"map": "Iron Passage", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC2] On lower level of the third big room before Blue Smelter",
+        "map_locations": [{"map": "Iron Passage", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC2] In a cell on the right just before the first gate in Iron Passage",
+        "map_locations": [{"map": "Iron Passage", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC2] In a cell just before the second gate in Iron Passage",
+        "map_locations": [{"map": "Iron Passage", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC2] In a cell just before the second gate in Iron Passage (2)",
+        "map_locations": [{"map": "Iron Passage", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC2] On an upper ledge of the first big room after passing through first gate in Iron Passage",
+        "map_locations": [{"map": "Iron Passage", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC2] On an upper ledge of the second big room after passing through first gate and dropping in Iron Passage",
+        "map_locations": [{"map": "Iron Passage", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC2] Right after the Blue Smelter Demon",
+        "map_locations": [{"map": "Iron Passage", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    }
+]

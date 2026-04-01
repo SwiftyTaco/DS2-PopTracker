@@ -1,0 +1,79 @@
+[
+    {
+        "name": "[DragonShrine] Ancient dragon drop",
+        "map_locations": [{"map": "Dragon Shrine", "x": "", "y": ""}],
+        "sections": [{"name": "[DragonShrine] Ancient dragon drop", "ref": "Dragon Shrine/[DragonShrine] Ancient dragon drop"}]
+    },
+
+    {
+        "name": "[DragonShrine] Gift from ancient dragon when speaking to him",
+        "map_locations": [{"map": "Dragon Shrine", "x": "", "y": ""}],
+        "sections": [{"name": "[DragonShrine] Gift from ancient dragon when speaking to him", "ref": "Dragon Shrine/[DragonShrine] Gift from ancient dragon when speaking to him"}]
+    },
+
+    {
+        "name": "[DragonShrine] Metal chest in a side room right after the bonfire",
+        "map_locations": [{"map": "Dragon Shrine", "x": "", "y": ""}],
+        "sections": [{"name": "[DragonShrine] Metal chest in a side room right after the bonfire", "ref": "Dragon Shrine/[DragonShrine] Metal chest in a side room right after the bonfire"}]
+    },
+
+    {
+        "name": "[DragonShrine] Wooden chest on right side of the stairs",
+        "map_locations": [{"map": "Dragon Shrine", "x": "", "y": ""}],
+        "sections": [{"name": "[DragonShrine] Wooden chest on right side of the stairs", "ref": "Dragon Shrine/[DragonShrine] Wooden chest on right side of the stairs"}]
+    },
+
+    {
+        "name": "[DragonShrine] Wooden chest on roof on the path to the left of the second Drakekeeper",
+        "map_locations": [{"map": "Dragon Shrine", "x": "", "y": ""}],
+        "sections": [{"name": "[DragonShrine] Wooden chest on roof on the path to the left of the second Drakekeeper", "ref": "Dragon Shrine/[DragonShrine] Wooden chest on roof on the path to the left of the second Drakekeeper"}]
+    },
+
+    {
+        "name": "[DragonShrine] Wooden chest on roof on the path to the left of the second Drakekeeper in NG+",
+        "map_locations": [{"map": "Dragon Shrine", "x": "", "y": ""}],
+        "sections": [{"name": "[DragonShrine] Wooden chest on roof on the path to the left of the second Drakekeeper in NG+", "ref": "Dragon Shrine/[DragonShrine] Wooden chest on roof on the path to the left of the second Drakekeeper in NG+"}]
+    },
+
+    {
+        "name": "[DragonShrine] Metal chest on a ledge that you jump to from the watchtower",
+        "map_locations": [{"map": "Dragon Shrine", "x": "", "y": ""}],
+        "sections": [{"name": "[DragonShrine] Metal chest on a ledge that you jump to from the watchtower", "ref": "Dragon Shrine/[DragonShrine] Metal chest on a ledge that you jump to from the watchtower"}]
+    },
+
+    {
+        "name": "[DragonShrine] Metal chest just past petrified egg door",
+        "map_locations": [{"map": "Dragon Shrine", "x": "", "y": ""}],
+        "sections": [{"name": "[DragonShrine] Metal chest just past petrified egg door", "ref": "Dragon Shrine/[DragonShrine] Metal chest just past petrified egg door"}]
+    },
+
+    {
+        "name": "[DragonShrine] Metal chest on outer ledge next to the petrified egg",
+        "map_locations": [{"map": "Dragon Shrine", "x": "", "y": ""}],
+        "sections": [{"name": "[DragonShrine] Metal chest on outer ledge next to the petrified egg", "ref": "Dragon Shrine/[DragonShrine] Metal chest on outer ledge next to the petrified egg"}]
+    },
+
+    {
+        "name": "[DragonShrine] Metal chest behind the Pharros contraption under the staircase",
+        "map_locations": [{"map": "Dragon Shrine", "x": "", "y": ""}],
+        "sections": [{"name": "[DragonShrine] Metal chest behind the Pharros contraption under the staircase", "ref": "Dragon Shrine/[DragonShrine] Metal chest behind the Pharros contraption under the staircase"}]
+    },
+
+    {
+        "name": "[DragonShrine] Metal chest next to the petrified egg",
+        "map_locations": [{"map": "Dragon Shrine", "x": "", "y": ""}],
+        "sections": [{"name": "[DragonShrine] Metal chest next to the petrified egg", "ref": "Dragon Shrine/[DragonShrine] Metal chest next to the petrified egg"}]
+    },
+
+    {
+        "name": "[DragonShrine] On a corpse hanging off the ledge in the watchtower",
+        "map_locations": [{"map": "Dragon Shrine", "x": "", "y": ""}],
+        "sections": [{"name": "[DragonShrine] On a corpse hanging off the ledge in the watchtower", "ref": "Dragon Shrine/[DragonShrine] On a corpse hanging off the ledge in the watchtower"}]
+    },
+
+    {
+        "name": "[DragonShrine] On a corpse in the corner before petrified egg door",
+        "map_locations": [{"map": "Dragon Shrine", "x": "", "y": ""}],
+        "sections": [{"name": "[DragonShrine] On a corpse in the corner before petrified egg door", "ref": "Dragon Shrine/[DragonShrine] On a corpse in the corner before petrified egg door"}]
+    }
+]

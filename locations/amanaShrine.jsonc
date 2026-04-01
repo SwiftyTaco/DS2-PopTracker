@@ -1,0 +1,229 @@
+[
+    {
+        "name": "[Amana] Demon of Song drop",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Demon of Song drop", "ref": "Shrine of Amana/[Amana] Demon of Song drop"}]
+    },
+
+    {
+        "name": "[Amana] Wooden chest on side path right through door a few steps below the first bonfire",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Wooden chest on side path right through door a few steps below the first bonfire", "ref": "Shrine of Amana/[Amana] Wooden chest on side path right through door a few steps below the first bonfire"}]
+    },
+
+    {
+        "name": "[Amana] Wooden chest submerged in water immediately left from the bottom of the first staircase",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Wooden chest submerged in water immediately left from the bottom of the first staircase", "ref": "Shrine of Amana/[Amana] Wooden chest submerged in water immediately left from the bottom of the first staircase"}]
+    },
+
+    {
+        "name": "[Amana] Wooden chest in water on left before the first fog gate",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Wooden chest in water on left before the first fog gate", "ref": "Shrine of Amana/[Amana] Wooden chest in water on left before the first fog gate"}]
+    },
+
+    {
+        "name": "[Amana] Wooden chest behind the first hut",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Wooden chest behind the first hut", "ref": "Shrine of Amana/[Amana] Wooden chest behind the first hut"}]
+    },
+
+    {
+        "name": "[Amana] Metal chest in cave before the first fog gate",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Metal chest in cave before the first fog gate", "ref": "Shrine of Amana/[Amana] Metal chest in cave before the first fog gate"}]
+    },
+
+    {
+        "name": "[Amana] Wooden chest in water to the right of the door to Undead Crypt",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Wooden chest in water to the right of the door to Undead Crypt", "ref": "Shrine of Amana/[Amana] Wooden chest in water to the right of the door to Undead Crypt"}]
+    },
+
+    {
+        "name": "[Amana] Wooden chest in water to the right of the door to Undead Crypt in NG+",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Wooden chest in water to the right of the door to Undead Crypt in NG+", "ref": "Shrine of Amana/[Amana] Wooden chest in water to the right of the door to Undead Crypt in NG+"}]
+    },
+
+    {
+        "name": "[Amana] Metal chest at the end of the narrow underwater walkway",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Metal chest at the end of the narrow underwater walkway", "ref": "Shrine of Amana/[Amana] Metal chest at the end of the narrow underwater walkway"}]
+    },
+
+    {
+        "name": "[Amana] Metal chest behind a door that opens after defeating vendrick",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Metal chest behind a door that opens after defeating vendrick", "ref": "Shrine of Amana/[Amana] Metal chest behind a door that opens after defeating vendrick"}]
+    },
+
+    {
+        "name": "[Amana] Metal chest in water side from the second hut",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Metal chest in water side from the second hut", "ref": "Shrine of Amana/[Amana] Metal chest in water side from the second hut"}]
+    },
+
+    {
+        "name": "[Amana] Metal chest behind a pharros contraption near the crumbled ruins bonfire",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Metal chest behind a pharros contraption near the crumbled ruins bonfire", "ref": "Shrine of Amana/[Amana] Metal chest behind a pharros contraption near the crumbled ruins bonfire"}]
+    },
+
+    {
+        "name": "[Amana] Metal chest in left-side water at bottom of stairs by the praying Milfanito",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Metal chest in left-side water at bottom of stairs by the praying Milfanito", "ref": "Shrine of Amana/[Amana] Metal chest in left-side water at bottom of stairs by the praying Milfanito"}]
+    },
+
+    {
+        "name": "[Amana] Metal chest in right-side water at bottom of stairs by the praying Milfanito",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Metal chest in right-side water at bottom of stairs by the praying Milfanito", "ref": "Shrine of Amana/[Amana] Metal chest in right-side water at bottom of stairs by the praying Milfanito"}]
+    },
+
+    {
+        "name": "[Amana] On a throne behind a door that opens after defeating vendrick",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] On a throne behind a door that opens after defeating vendrick", "ref": "Shrine of Amana/[Amana] On a throne behind a door that opens after defeating vendrick"}]
+    },
+
+    {
+        "name": "[Amana] On narrow walkway just after Rhoys Resting Place bonfire",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] On narrow walkway just after Rhoys Resting Place bonfire", "ref": "Shrine of Amana/[Amana] On narrow walkway just after Rhoys Resting Place bonfire"}]
+    },
+
+    {
+        "name": "[Amana] Under the circular staircase in the beginning of the area",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Under the circular staircase in the beginning of the area", "ref": "Shrine of Amana/[Amana] Under the circular staircase in the beginning of the area"}]
+    },
+
+    {
+        "name": "[Amana] Under the circular staircase in the beginning of the area in NG+",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Under the circular staircase in the beginning of the area in NG+", "ref": "Shrine of Amana/[Amana] Under the circular staircase in the beginning of the area in NG+"}]
+    },
+
+    {
+        "name": "[Amana] On island with three archdrakes before the first fog gate",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] On island with three archdrakes before the first fog gate", "ref": "Shrine of Amana/[Amana] On island with three archdrakes before the first fog gate"}]
+    },
+
+    {
+        "name": "[Amana] In the end of the narrow underwater walkway",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] In the end of the narrow underwater walkway", "ref": "Shrine of Amana/[Amana] In the end of the narrow underwater walkway"}]
+    },
+
+    {
+        "name": "[Amana] Near the half circle of pillars",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Near the half circle of pillars", "ref": "Shrine of Amana/[Amana] Near the half circle of pillars"}]
+    },
+
+    {
+        "name": "[Amana] In the middle of circle of pillars after the rhoys resting place bonfire",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] In the middle of circle of pillars after the rhoys resting place bonfire", "ref": "Shrine of Amana/[Amana] In the middle of circle of pillars after the rhoys resting place bonfire"}]
+    },
+
+    {
+        "name": "[Amana] In the middle of circle of pillars after the rhoys resting place bonfire (2)",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] In the middle of circle of pillars after the rhoys resting place bonfire (2)", "ref": "Shrine of Amana/[Amana] In the middle of circle of pillars after the rhoys resting place bonfire (2)"}]
+    },
+
+    {
+        "name": "[Amana] In the middle of circle of pillars after the rhoys resting place bonfire (3)",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] In the middle of circle of pillars after the rhoys resting place bonfire (3)", "ref": "Shrine of Amana/[Amana] In the middle of circle of pillars after the rhoys resting place bonfire (3)"}]
+    },
+
+    {
+        "name": "[Amana] Behind a fallen pilar next to the circle of pillars after the Rhoys Resting place bonfire",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Behind a fallen pilar next to the circle of pillars after the Rhoys Resting place bonfire", "ref": "Shrine of Amana/[Amana] Behind a fallen pilar next to the circle of pillars after the Rhoys Resting place bonfire"}]
+    },
+
+    {
+        "name": "[Amana] Next to torch before the demon of song",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Next to torch before the demon of song", "ref": "Shrine of Amana/[Amana] Next to torch before the demon of song"}]
+    },
+
+    {
+        "name": "[Amana] In cave under the stairs leading down from the praying Milfanito",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] In cave under the stairs leading down from the praying Milfanito", "ref": "Shrine of Amana/[Amana] In cave under the stairs leading down from the praying Milfanito"}]
+    },
+
+    {
+        "name": "[Amana] On island with three archdrakes before the first fog gate (2)",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] On island with three archdrakes before the first fog gate (2)", "ref": "Shrine of Amana/[Amana] On island with three archdrakes before the first fog gate (2)"}]
+    },
+
+    {
+        "name": "[Amana] Corpse hanging from branch in the beginning of the area",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Corpse hanging from branch in the beginning of the area", "ref": "Shrine of Amana/[Amana] Corpse hanging from branch in the beginning of the area"}]
+    },
+
+    {
+        "name": "[Amana] On narrow walkway to the right of the second fog gate",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] On narrow walkway to the right of the second fog gate", "ref": "Shrine of Amana/[Amana] On narrow walkway to the right of the second fog gate"}]
+    },
+
+    {
+        "name": "[Amana] Behind roots before the first bonfire",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] Behind roots before the first bonfire", "ref": "Shrine of Amana/[Amana] Behind roots before the first bonfire"}]
+    },
+
+    {
+        "name": "[Amana] On island with three archdrakes before the first fog gate (3)",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] On island with three archdrakes before the first fog gate (3)", "ref": "Shrine of Amana/[Amana] On island with three archdrakes before the first fog gate (3)"}]
+    },
+
+    {
+        "name": "[Amana] In the second hut",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] In the second hut", "ref": "Shrine of Amana/[Amana] In the second hut"}]
+    },
+
+    {
+        "name": "[Amana] In the second hut in NG+",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] In the second hut in NG+", "ref": "Shrine of Amana/[Amana] In the second hut in NG+"}]
+    },
+
+    {
+        "name": "[Amana] On rising-beam to the left of the second fog gate",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] On rising-beam to the left of the second fog gate", "ref": "Shrine of Amana/[Amana] On rising-beam to the left of the second fog gate"}]
+    },
+
+    {
+        "name": "[Amana] In a cave behind roots with a hippo",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] In a cave behind roots with a hippo", "ref": "Shrine of Amana/[Amana] In a cave behind roots with a hippo"}]
+    },
+
+    {
+        "name": "[Amana] In the second hut (2)",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] In the second hut (2)", "ref": "Shrine of Amana/[Amana] In the second hut (2)"}]
+    },
+
+    {
+        "name": "[Amana] On small island surrounding by lizardmen",
+        "map_locations": [{"map": "Shrine of Amana", "x": "", "y": ""}],
+        "sections": [{"name": "[Amana] On small island surrounding by lizardmen", "ref": "Shrine of Amana/[Amana] On small island surrounding by lizardmen"}]
+    }
+]

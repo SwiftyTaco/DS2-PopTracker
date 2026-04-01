@@ -1,0 +1,65 @@
+{
+  // sets layouts for shadred items grids
+  // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+  "shared_item_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_size": "4, 4",
+            "item_margin": "-1, 2",
+            "h_alignment": "center",
+            "rows": [
+              [
+                "sinSoul",
+                "spiderSoul",
+                "oikSoul",
+                "rottenSoul",
+                "giantSoul",
+                "mistHeart",
+                "giantKin",
+                "goMode"
+              ],
+              [
+                "leniKey",
+                "homeKey",
+                "soldierKey",
+                "bastKey",
+                "antiqKey",
+                "fangKey",
+                "brightKey",
+                "rotund"
+              ],
+              [
+                "lockawayKey",
+                "denKey",
+                "ironKey",
+                "forgorKey",
+                "passKey",
+                "aldiaKey",
+                "embedKey",
+                "sancKey"
+              ],
+              [
+                "hevIronKey",
+                "flower",
+                "dragClaw",
+                "dragStone",
+                "scepter",
+                "garyKey",
+                "eye"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

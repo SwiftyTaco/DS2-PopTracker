@@ -1,0 +1,181 @@
+[
+    {
+        "name": "[Copse] Skeleton Lords drop",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] Skeleton Lords drop", "ref": "Huntsman's Copse/[Copse] Skeleton Lords drop"}]
+    },
+    
+    {
+        "name": "[Copse] Skeleton Lords drop in NG+",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] Skeleton Lords drop in NG+", "ref": "Huntsman's Copse/[Copse] Skeleton Lords drop in NG+"}]
+    },
+    
+    {
+        "name": "[Copse] On ground after rotating rotunda towards Huntsmans Copse",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] On ground after rotating rotunda towards Huntsmans Copse", "ref": "Huntsman's Copse/[Copse] On ground after rotating rotunda towards Huntsmans Copse"}]
+    },
+    
+    {
+        "name": "[Copse] Metal chest in the cave with the giant basilisk",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] Metal chest in the cave with the giant basilisk", "ref": "Huntsman's Copse/[Copse] Metal chest in the cave with the giant basilisk"}]
+    },
+    
+    {
+        "name": "[Copse] Metal chest in a round hut where you drop from above",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] Metal chest in a round hut where you drop from above", "ref": "Huntsman's Copse/[Copse] Metal chest in a round hut where you drop from above"}]
+    },
+    
+    {
+        "name": "[Copse] On ledge right above the Bridge Approach bonfire",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] On ledge right above the Bridge Approach bonfire", "ref": "Huntsman's Copse/[Copse] On ledge right above the Bridge Approach bonfire"}]
+    },
+    
+    {
+        "name": "[Copse] Next to a big cliff face guarded by a sickle undead",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] Next to a big cliff face guarded by a sickle undead", "ref": "Huntsman's Copse/[Copse] Next to a big cliff face guarded by a sickle undead"}]
+    },
+    
+    {
+        "name": "[Copse] Next to a big cliff face guarded by a sickle undead in NG+",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] Next to a big cliff face guarded by a sickle undead in NG+", "ref": "Huntsman's Copse/[Copse] Next to a big cliff face guarded by a sickle undead in NG+"}]
+    },
+    
+    {
+        "name": "[Copse] On the left side of the path before the first stone bridge",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] On the left side of the path before the first stone bridge", "ref": "Huntsman's Copse/[Copse] On the left side of the path before the first stone bridge"}]
+    },
+    
+    {
+        "name": "[Copse] On a ledge on the way to Executioners Chariot",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] On a ledge on the way to Executioners Chariot", "ref": "Huntsman's Copse/[Copse] On a ledge on the way to Executioners Chariot"}]
+    },
+    
+    {
+        "name": "[Copse] Corpse in the necromancer cave closest to the Undead Lockaway bonfire",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] Corpse in the necromancer cave closest to the Undead Lockaway bonfire", "ref": "Huntsman's Copse/[Copse] Corpse in the necromancer cave closest to the Undead Lockaway bonfire"}]
+    },
+    
+    {
+        "name": "[Copse] On small ledge with a necromancer",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] On small ledge with a necromancer", "ref": "Huntsman's Copse/[Copse] On small ledge with a necromancer"}]
+    },
+    
+    {
+        "name": "[Copse] Hanging on the side of the big circular hole in the room in the beginning of the area",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] Hanging on the side of the big circular hole in the room in the beginning of the area", "ref": "Huntsman's Copse/[Copse] Hanging on the side of the big circular hole in the room in the beginning of the area"}]
+    },
+    
+    {
+        "name": "[Copse] Hanging on the side of the big circular hole in the room in the beginning of the area in NG+",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] Hanging on the side of the big circular hole in the room in the beginning of the area in NG+", "ref": "Huntsman's Copse/[Copse] Hanging on the side of the big circular hole in the room in the beginning of the area in NG+"}]
+    },
+    
+    {
+        "name": "[Copse] On the roof of the room with the big circular hole in the beginning of the area",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] On the roof of the room with the big circular hole in the beginning of the area", "ref": "Huntsman's Copse/[Copse] On the roof of the room with the big circular hole in the beginning of the area"}]
+    },
+    
+    {
+        "name": "[Copse] Round hut next to a big cliff face",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] Round hut next to a big cliff face", "ref": "Huntsman's Copse/[Copse] Round hut next to a big cliff face"}]
+    },
+    
+    {
+        "name": "[Copse] First corpse in a round hut where you drop from above",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] First corpse in a round hut where you drop from above", "ref": "Huntsman's Copse/[Copse] First corpse in a round hut where you drop from above"}]
+    },
+    
+    {
+        "name": "[Copse] Second corpse in a round hut where you drop from above",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] Second corpse in a round hut where you drop from above", "ref": "Huntsman's Copse/[Copse] Second corpse in a round hut where you drop from above"}]
+    },
+    
+    {
+        "name": "[Copse] In the room with the big circular hole in the beginning of the area",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] In the room with the big circular hole in the beginning of the area", "ref": "Huntsman's Copse/[Copse] In the room with the big circular hole in the beginning of the area"}]
+    },
+    
+    {
+        "name": "[Copse] On the left side of the path after the first stone bridge",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] On the left side of the path after the first stone bridge", "ref": "Huntsman's Copse/[Copse] On the left side of the path after the first stone bridge"}]
+    },
+    
+    {
+        "name": "[Copse] On the left side of the path after the first stone bridge in NG+",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] On the left side of the path after the first stone bridge in NG+", "ref": "Huntsman's Copse/[Copse] On the left side of the path after the first stone bridge in NG+"}]
+    },
+    
+    {
+        "name": "[Copse] Next to portcullis in the necromancer cave",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] Next to portcullis in the necromancer cave", "ref": "Huntsman's Copse/[Copse] Next to portcullis in the necromancer cave"}]
+    },
+    
+    {
+        "name": "[Copse] On the pillar under the chariot bridge",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] On the pillar under the chariot bridge", "ref": "Huntsman's Copse/[Copse] On the pillar under the chariot bridge"}]
+    },
+    
+    {
+        "name": "[Copse] Where Merciless Roenna invades",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] Where Merciless Roenna invades", "ref": "Huntsman's Copse/[Copse] Where Merciless Roenna invades"}]
+    },
+    
+    {
+        "name": "[Copse] On a small ledge where you drop from the area where Merciless Roenna invades",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] On a small ledge where you drop from the area where Merciless Roenna invades", "ref": "Huntsman's Copse/[Copse] On a small ledge where you drop from the area where Merciless Roenna invades"}]
+    },
+    
+    {
+        "name": "[Copse] Round hut on the way to Skeleton Lords",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] Round hut on the way to Skeleton Lords", "ref": "Huntsman's Copse/[Copse] Round hut on the way to Skeleton Lords"}]
+    },
+    
+    {
+        "name": "[Copse] On the side ledge just before Executioners Chariot boss",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] On the side ledge just before Executioners Chariot boss", "ref": "Huntsman's Copse/[Copse] On the side ledge just before Executioners Chariot boss"}]
+    },
+    
+    {
+        "name": "[Copse] On lower end of the elevator from the cave with the giant basilisk",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] On lower end of the elevator from the cave with the giant basilisk", "ref": "Huntsman's Copse/[Copse] On lower end of the elevator from the cave with the giant basilisk"}]
+    },
+    
+    {
+        "name": "[Copse] On a stone bridge in the cave with the giant basilisk",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] On a stone bridge in the cave with the giant basilisk", "ref": "Huntsman's Copse/[Copse] On a stone bridge in the cave with the giant basilisk"}]
+    },
+    
+    {
+        "name": "[Copse] On a stone pillar inside the necromancer cave",
+        "map_locations": [{"map": "Huntsman's Copse", "x": "0", "y": 0}],
+        "sections": [{"name": "[Copse] On a stone pillar inside the necromancer cave", "ref": "Huntsman's Copse/[Copse] On a stone pillar inside the necromancer cave"}]
+    }
+]

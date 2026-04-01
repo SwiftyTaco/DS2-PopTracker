@@ -1,0 +1,181 @@
+[
+    {
+        "name": "[Wharf] Flexile Sentry drop",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Flexile Sentry drop", "ref": "No Man's Wharf/[Wharf] Flexile Sentry drop"}]
+    },
+
+	{
+        "name": "[Wharf] Wooden chest in the first house in Wharf",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Wooden chest in the first house in Wharf", "ref": "No Man's Wharf/[Wharf] Wooden chest in the first house in Wharf"}]
+    },
+
+	{
+        "name": "[Wharf] Wooden chest in the first house in Wharf in NG+",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Wooden chest in the first house in Wharf in NG+", "ref": "No Man's Wharf/[Wharf] Wooden chest in the first house in Wharf in NG+"}]
+    },
+
+	{
+        "name": "[Wharf] Wooden chest on the 2nd floor of the house next to central courtyard",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Wooden chest on the 2nd floor of the house next to central courtyard", "ref": "No Man's Wharf/[Wharf] Wooden chest on the 2nd floor of the house next to central courtyard"}]
+    },
+
+	{
+        "name": "[Wharf] Metal chest in house next to central courtyard",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Metal chest in house next to central courtyard", "ref": "No Man's Wharf/[Wharf] Metal chest in house next to central courtyard"}]
+    },
+
+	{
+        "name": "[Wharf] Metal chest in the topmost house with dark stalkers",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Metal chest in the topmost house with dark stalkers", "ref": "No Man's Wharf/[Wharf] Metal chest in the topmost house with dark stalkers"}]
+    },
+
+	{
+        "name": "[Wharf] Metal chest in the secret alcove in the poison jar room",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Metal chest in the secret alcove in the poison jar room", "ref": "No Man's Wharf/[Wharf] Metal chest in the secret alcove in the poison jar room"}]
+    },
+
+	{
+        "name": "[Wharf] Metal chest behind illusory wall underneath Wharf Gavlan",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Metal chest behind illusory wall underneath Wharf Gavlan", "ref": "No Man's Wharf/[Wharf] Metal chest behind illusory wall underneath Wharf Gavlan"}]
+    },
+
+	{
+        "name": "[Wharf] Metal chest behind illusory wall underneath Wharf Gavlan NG+",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Metal chest behind illusory wall underneath Wharf Gavlan NG+", "ref": "No Man's Wharf/[Wharf] Metal chest behind illusory wall underneath Wharf Gavlan NG+"}]
+    },
+
+	{
+        "name": "[Wharf] Wooden chest behind illusory wall underneath Wharf Gavlan",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Wooden chest behind illusory wall underneath Wharf Gavlan", "ref": "No Man's Wharf/[Wharf] Wooden chest behind illusory wall underneath Wharf Gavlan"}]
+    },
+
+	{
+        "name": "[Wharf] Wooden chest behind illusory wall underneath Wharf Gavlan in NG+",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Wooden chest behind illusory wall underneath Wharf Gavlan in NG+", "ref": "No Man's Wharf/[Wharf] Wooden chest behind illusory wall underneath Wharf Gavlan in NG+"}]
+    },
+
+	{
+        "name": "[Wharf] Trapped wooden chest in the topmost house with dark stalkers",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Trapped wooden chest in the topmost house with dark stalkers", "ref": "No Man's Wharf/[Wharf] Trapped wooden chest in the topmost house with dark stalkers"}]
+    },
+
+	{
+        "name": "[Wharf] Metal chest in the poison jar room",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Metal chest in the poison jar room", "ref": "No Man's Wharf/[Wharf] Metal chest in the poison jar room"}]
+    },
+
+	{
+        "name": "[Wharf] Metal chest after Flexile Sentry",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Metal chest after Flexile Sentry", "ref": "No Man's Wharf/[Wharf] Metal chest after Flexile Sentry"}]
+    },
+
+	{
+        "name": "[Wharf] Corpse on top balcony in the first building on left",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Corpse on top balcony in the first building on left", "ref": "No Man's Wharf/[Wharf] Corpse on top balcony in the first building on left"}]
+    },
+
+	{
+        "name": "[Wharf] On tipped boat in water",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] On tipped boat in water", "ref": "No Man's Wharf/[Wharf] On tipped boat in water"}]
+    },
+
+	{
+        "name": "[Wharf] In staircase in a house after the ship-calling bell",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] In staircase in a house after the ship-calling bell", "ref": "No Man's Wharf/[Wharf] In staircase in a house after the ship-calling bell"}]
+    },
+
+	{
+        "name": "[Wharf] In staircase in a house after the ship-calling bell in NG+",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] In staircase in a house after the ship-calling bell in NG+", "ref": "No Man's Wharf/[Wharf] In staircase in a house after the ship-calling bell in NG+"}]
+    },
+
+	{
+        "name": "[Wharf] Behind a shelf in alcove",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Behind a shelf in alcove", "ref": "No Man's Wharf/[Wharf] Behind a shelf in alcove"}]
+    },
+
+	{
+        "name": "[Wharf] In the shallow water",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] In the shallow water", "ref": "No Man's Wharf/[Wharf] In the shallow water"}]
+    },
+
+	{
+        "name": "[Wharf] In the house under the Pharros contraption",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] In the house under the Pharros contraption", "ref": "No Man's Wharf/[Wharf] In the house under the Pharros contraption"}]
+    },
+
+	{
+        "name": "[Wharf] In the house under the Pharros contraption in NG+",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] In the house under the Pharros contraption in NG+", "ref": "No Man's Wharf/[Wharf] In the house under the Pharros contraption in NG+"}]
+    },
+
+	{
+        "name": "[Wharf] On the roof of the house under the Pharros contraption",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] On the roof of the house under the Pharros contraption", "ref": "No Man's Wharf/[Wharf] On the roof of the house under the Pharros contraption"}]
+    },
+
+	{
+        "name": "[Wharf] On the high ledge",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] On the high ledge", "ref": "No Man's Wharf/[Wharf] On the high ledge"}]
+    },
+
+	{
+        "name": "[Wharf] Corpse in the secret alcove of the poison jar room",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Corpse in the secret alcove of the poison jar room", "ref": "No Man's Wharf/[Wharf] Corpse in the secret alcove of the poison jar room"}]
+    },
+
+	{
+        "name": "[Wharf] Rooftop after the ship-calling bell",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Rooftop after the ship-calling bell", "ref": "No Man's Wharf/[Wharf] Rooftop after the ship-calling bell"}]
+    },
+
+	{
+        "name": "[Wharf] Corpse in the secret alcove of the poison jar room (2)",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Corpse in the secret alcove of the poison jar room (2)", "ref": "No Man's Wharf/[Wharf] Corpse in the secret alcove of the poison jar room (2)"}]
+    },
+
+	{
+        "name": "[Wharf] In the left house before the first stairs",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] In the left house before the first stairs", "ref": "No Man's Wharf/[Wharf] In the left house before the first stairs"}]
+    },
+
+	{
+        "name": "[Wharf] Corpse in the secret alcove of the poison jar room (3)",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] Corpse in the secret alcove of the poison jar room (3)", "ref": "No Man's Wharf/[Wharf] Corpse in the secret alcove of the poison jar room (3)"}]
+    },
+
+	{
+        "name": "[Wharf] In alcove behind the poison jars",
+        "map_locations": [{"map": "No Man's Wharf", "x": 0, "y": 0}],
+        "sections": [{"name": "[Wharf] In alcove behind the poison jars", "ref": "No Man's Wharf/[Wharf] In alcove behind the poison jars"}]
+    }
+]

@@ -1,0 +1,361 @@
+[
+    {
+        "name": "[IronKeep] Smelter Demon drop",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Smelter Demon drop", "ref": "Iron Keep/[IronKeep] Smelter Demon drop"}]
+    },
+    
+    {
+        "name": "[IronKeep] Old Iron King drop",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Old Iron King drop", "ref": "Iron Keep/[IronKeep] Old Iron King drop"}]
+    },
+    
+    {
+        "name": "[IronKeep] Old Iron King drop in NG+",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Old Iron King drop in NG+", "ref": "Iron Keep/[IronKeep] Old Iron King drop in NG+"}]
+    },
+    
+    {
+        "name": "[IronKeep] Wooden chest at upper level of the room with changing platforms",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Wooden chest at upper level of the room with changing platforms", "ref": "Iron Keep/[IronKeep] Wooden chest at upper level of the room with changing platforms"}]
+    },
+    
+    {
+        "name": "[IronKeep] Wooden chest at upper level of the room with changing platforms in NG+",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Wooden chest at upper level of the room with changing platforms in NG+", "ref": "Iron Keep/[IronKeep] Wooden chest at upper level of the room with changing platforms in NG+"}]
+    },
+    
+    {
+        "name": "[IronKeep] Metal chest next to Pharros contraption after Dull ember jump",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Metal chest next to Pharros contraption after Dull ember jump", "ref": "Iron Keep/[IronKeep] Metal chest next to Pharros contraption after Dull ember jump"}]
+    },
+    
+    {
+        "name": "[IronKeep] Metal chest next to archer on upper left side of the first big lava room",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Metal chest next to archer on upper left side of the first big lava room", "ref": "Iron Keep/[IronKeep] Metal chest next to archer on upper left side of the first big lava room"}]
+    },
+    
+    {
+        "name": "[IronKeep] Metal chest at the top of the high tower with a hole in the middle of it",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Metal chest at the top of the high tower with a hole in the middle of it", "ref": "Iron Keep/[IronKeep] Metal chest at the top of the high tower with a hole in the middle of it"}]
+    },
+    
+    {
+        "name": "[IronKeep] Metal chest in lava at right side of the first big lava room",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Metal chest in lava at right side of the first big lava room", "ref": "Iron Keep/[IronKeep] Metal chest in lava at right side of the first big lava room"}]
+    },
+    
+    {
+        "name": "[IronKeep] Metal chest in lava in the room with changing platforms",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Metal chest in lava in the room with changing platforms", "ref": "Iron Keep/[IronKeep] Metal chest in lava in the room with changing platforms"}]
+    },
+    
+    {
+        "name": "[IronKeep] Metal chest immediately after Smelter demon",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Metal chest immediately after Smelter demon", "ref": "Iron Keep/[IronKeep] Metal chest immediately after Smelter demon"}]
+    },
+    
+    {
+        "name": "[IronKeep] Metal chest after Old Iron King",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Metal chest after Old Iron King", "ref": "Iron Keep/[IronKeep] Metal chest after Old Iron King"}]
+    },
+    
+    {
+        "name": "[IronKeep] On lower left side of the first big lava room",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] On lower left side of the first big lava room", "ref": "Iron Keep/[IronKeep] On lower left side of the first big lava room"}]
+    },
+    
+    {
+        "name": "[IronKeep] Corpse at the top of the high tower with three Alonne captains",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Corpse at the top of the high tower with three Alonne captains", "ref": "Iron Keep/[IronKeep] Corpse at the top of the high tower with three Alonne captains"}]
+    },
+    
+    {
+        "name": "[IronKeep] Under the fire of bull statues before Old Iron King",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Under the fire of bull statues before Old Iron King", "ref": "Iron Keep/[IronKeep] Under the fire of bull statues before Old Iron King"}]
+    },
+    
+    {
+        "name": "[IronKeep] On pilar on right side of the first big lava room",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] On pilar on right side of the first big lava room", "ref": "Iron Keep/[IronKeep] On pilar on right side of the first big lava room"}]
+    },
+    
+    {
+        "name": "[IronKeep] Behind ladder after furnace in the first big lava room",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Behind ladder after furnace in the first big lava room", "ref": "Iron Keep/[IronKeep] Behind ladder after furnace in the first big lava room"}]
+    },
+    
+    {
+        "name": "[IronKeep] Under the fire of bull statue in the first hall",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Under the fire of bull statue in the first hall", "ref": "Iron Keep/[IronKeep] Under the fire of bull statue in the first hall"}]
+    },
+    
+    {
+        "name": "[IronKeep] On ledge above the first hall",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] On ledge above the first hall", "ref": "Iron Keep/[IronKeep] On ledge above the first hall"}]
+    },
+    
+    {
+        "name": "[IronKeep] On crisscrossing platforms in a hole in the middle of the high tower",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] On crisscrossing platforms in a hole in the middle of the high tower", "ref": "Iron Keep/[IronKeep] On crisscrossing platforms in a hole in the middle of the high tower"}]
+    },
+    
+    {
+        "name": "[IronKeep] On a central platform in the room with changing platforms",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] On a central platform in the room with changing platforms", "ref": "Iron Keep/[IronKeep] On a central platform in the room with changing platforms"}]
+    },
+    
+    {
+        "name": "[IronKeep] On a central platform in the room with changing platforms in NG+",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] On a central platform in the room with changing platforms in NG+", "ref": "Iron Keep/[IronKeep] On a central platform in the room with changing platforms in NG+"}]
+    },
+    
+    {
+        "name": "[IronKeep] On right side of the room with changing platforms",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] On right side of the room with changing platforms", "ref": "Iron Keep/[IronKeep] On right side of the room with changing platforms"}]
+    },
+    
+    {
+        "name": "[IronKeep] Next to fog gate in the room with changing platforms",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Next to fog gate in the room with changing platforms", "ref": "Iron Keep/[IronKeep] Next to fog gate in the room with changing platforms"}]
+    },
+    
+    {
+        "name": "[IronKeep] On lava on the right of bridge by first bonfire",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] On lava on the right of bridge by first bonfire", "ref": "Iron Keep/[IronKeep] On lava on the right of bridge by first bonfire"}]
+    },
+    
+    {
+        "name": "[IronKeep] Behind illusory wall next to ballista",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Behind illusory wall next to ballista", "ref": "Iron Keep/[IronKeep] Behind illusory wall next to ballista"}]
+    },
+    
+    {
+        "name": "[IronKeep] On broken stairs in the first big lava room",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] On broken stairs in the first big lava room", "ref": "Iron Keep/[IronKeep] On broken stairs in the first big lava room"}]
+    },
+    
+    {
+        "name": "[IronKeep] In large smelting pot hanging above bridges",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] In large smelting pot hanging above bridges", "ref": "Iron Keep/[IronKeep] In large smelting pot hanging above bridges"}]
+    },
+    
+    {
+        "name": "[IronKeep] On lava next to the first bonfire",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] On lava next to the first bonfire", "ref": "Iron Keep/[IronKeep] On lava next to the first bonfire"}]
+    },
+    
+    {
+        "name": "[IronKeep] Corpse in lava in the room with changing platforms",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Corpse in lava in the room with changing platforms", "ref": "Iron Keep/[IronKeep] Corpse in lava in the room with changing platforms"}]
+    },
+    
+    {
+        "name": "[IronKeep] Inside the central kiln",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Inside the central kiln", "ref": "Iron Keep/[IronKeep] Inside the central kiln"}]
+    },
+    
+    {
+        "name": "[IronKeep] Inside the central kiln in NG+",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Inside the central kiln in NG+", "ref": "Iron Keep/[IronKeep] Inside the central kiln in NG+"}]
+    },
+    
+    {
+        "name": "[IronKeep] Corpse at the top of the high tower with three Alonne captains (2)",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[IronKeep] Corpse at the top of the high tower with three Alonne captains (2)", "ref": "Iron Keep/[IronKeep] Corpse at the top of the high tower with three Alonne captains (2)"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Spiked Bandit Helm",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Spiked Bandit Helm", "ref": "Iron Keep/[Magerold of Lanafir] Spiked Bandit Helm"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Bandit Armor",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Bandit Armor", "ref": "Iron Keep/[Magerold of Lanafir] Bandit Armor"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Bandit Gauntlets",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Bandit Gauntlets", "ref": "Iron Keep/[Magerold of Lanafir] Bandit Gauntlets"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Bandit Boots",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Bandit Boots", "ref": "Iron Keep/[Magerold of Lanafir] Bandit Boots"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Jesters Cap",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Jesters Cap", "ref": "Iron Keep/[Magerold of Lanafir] Jesters Cap"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Jesters Robes",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Jesters Robes", "ref": "Iron Keep/[Magerold of Lanafir] Jesters Robes"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Jesters Gloves",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Jesters Gloves", "ref": "Iron Keep/[Magerold of Lanafir] Jesters Gloves"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Jesters Tights",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Jesters Tights", "ref": "Iron Keep/[Magerold of Lanafir] Jesters Tights"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir/NG+2] Dragonrider Helm",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir/NG+2] Dragonrider Helm", "ref": "Iron Keep/[Magerold of Lanafir/NG+2] Dragonrider Helm"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir/NG+2] Dragonrider Armor",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir/NG+2] Dragonrider Armor", "ref": "Iron Keep/[Magerold of Lanafir/NG+2] Dragonrider Armor"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir/NG+2] Dragonrider Gauntlets",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir/NG+2] Dragonrider Gauntlets", "ref": "Iron Keep/[Magerold of Lanafir/NG+2] Dragonrider Gauntlets"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir/NG+2] Dragonrider Leggings",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir/NG+2] Dragonrider Leggings", "ref": "Iron Keep/[Magerold of Lanafir/NG+2] Dragonrider Leggings"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Soul Arrow",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Soul Arrow", "ref": "Iron Keep/[Magerold of Lanafir] Soul Arrow"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Great Soul Arrow",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Great Soul Arrow", "ref": "Iron Keep/[Magerold of Lanafir] Great Soul Arrow"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Heavy Soul Arrow",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Heavy Soul Arrow", "ref": "Iron Keep/[Magerold of Lanafir] Heavy Soul Arrow"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Great Heavy Soul Arrow",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Great Heavy Soul Arrow", "ref": "Iron Keep/[Magerold of Lanafir] Great Heavy Soul Arrow"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Dark Hail",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Dark Hail", "ref": "Iron Keep/[Magerold of Lanafir] Dark Hail"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Darkstorm",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Darkstorm", "ref": "Iron Keep/[Magerold of Lanafir] Darkstorm"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Fall Control",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Fall Control", "ref": "Iron Keep/[Magerold of Lanafir] Fall Control"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Cursebite Ring",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Cursebite Ring", "ref": "Iron Keep/[Magerold of Lanafir] Cursebite Ring"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Hello Carving",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Hello Carving", "ref": "Iron Keep/[Magerold of Lanafir] Hello Carving"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Thank You Carving",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Thank You Carving", "ref": "Iron Keep/[Magerold of Lanafir] Thank You Carving"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Im Sorry Carving",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Im Sorry Carving", "ref": "Iron Keep/[Magerold of Lanafir] Im Sorry Carving"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Very Good! Carving",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Very Good! Carving", "ref": "Iron Keep/[Magerold of Lanafir] Very Good! Carving"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Repair Powder",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Repair Powder", "ref": "Iron Keep/[Magerold of Lanafir] Repair Powder"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Human Effigy",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Human Effigy", "ref": "Iron Keep/[Magerold of Lanafir] Human Effigy"}]
+    },
+    
+    {
+        "name": "[Magerold of Lanafir] Fragrant Branch of Yore",
+        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
+        "sections": [{"name": "[Magerold of Lanafir] Fragrant Branch of Yore", "ref": "Iron Keep/[Magerold of Lanafir] Fragrant Branch of Yore"}]
+    }
+]

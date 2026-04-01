@@ -1,0 +1,62 @@
+[
+    {
+        "name": "[DLC1] Sinh",
+        "map_locations": [{"map": "Dragon's Rest", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] Sinh", "ref": "Dragon's Rest/[DLC1] Sinh"}]
+    },
+
+    {
+        "name": "[DLC1] Elana",
+        "map_locations": [{"map": "Dragon's Rest", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] Elana", "ref": "Dragon's Rest/[DLC1] Elana"}]
+    },
+
+    {
+        "name": "[DLC1] In corridor one level up from Sanctum Interior bonfire",
+        "map_locations": [{"map": "Dragon's Rest", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] In corridor one level up from Sanctum Interior bonfire", "ref": "Dragon's Rest/[DLC1] In corridor one level up from Sanctum Interior bonfire"}]
+    },
+
+    {
+        "name": "[DLC1] In side corridor one level up from Dragon's rest",
+        "map_locations": [{"map": "Dragon's Rest", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] In side corridor one level up from Dragon's rest", "ref": "Dragon's Rest/[DLC1] In side corridor one level up from Dragon's rest"}]
+    },
+
+    {
+        "name": "[DLC1] In side corridor one level up from Dragon's rest (2)",
+        "map_locations": [{"map": "Dragon's Rest", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] In side corridor one level up from Dragon's rest (2)", "ref": "Dragon's Rest/[DLC1] In side corridor one level up from Dragon's rest (2)"}]
+    },
+
+    {
+        "name": "[DLC1] In side corridor one level up from Dragon's rest (3)",
+        "map_locations": [{"map": "Dragon's Rest", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] In side corridor one level up from Dragon's rest (3)", "ref": "Dragon's Rest/[DLC1] In side corridor one level up from Dragon's rest (3)"}]
+    },
+
+    {
+        "name": "[DLC1] In side corridor one level up from Dragon's rest (4)",
+        "map_locations": [{"map": "Dragon's Rest", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] In side corridor one level up from Dragon's rest (4)", "ref": "Dragon's Rest/[DLC1] In side corridor one level up from Dragon's rest (4)"}]
+    },
+
+    {
+        "name": "[DLC1] In side corridor one level up from Dragon's rest (5)",
+        "map_locations": [{"map": "Dragon's Rest", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] In side corridor one level up from Dragon's rest (5)", "ref": "Dragon's Rest/[DLC1] In side corridor one level up from Dragon's rest (5)"}]
+    },
+
+    {
+        "name": "[DLC1] In the room with many opened chests one level down from Sanctum Interior bonfire",
+        "map_locations": [{"map": "Dragon's Rest", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] In the room with many opened chests one level down from Sanctum Interior bonfire", "ref": "Dragon's Rest/[DLC1] In the room with many opened chests one level down from Sanctum Interior bonfire"}]
+    },
+
+    {
+        "name": "[DLC1] In Sinh's arena",
+        "map_locations": [{"map": "Dragon's Rest", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] In Sinh's arena", "ref": "Dragon's Rest/[DLC1] In Sinh's arena"}]
+    },
+
+]

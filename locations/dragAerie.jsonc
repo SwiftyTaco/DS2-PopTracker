@@ -1,0 +1,121 @@
+[
+    {
+        "name": "[Aerie] On droppable small ledge before the third dragon nest",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] On droppable small ledge before the third dragon nest", "ref": "Dragon Aerie/[Aerie] On droppable small ledge before the third dragon nest"}]
+    },
+
+    {
+        "name": "[Aerie] Corpse in the first dragon nest",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] Corpse in the first dragon nest", "ref": "Dragon Aerie/[Aerie] Corpse in the first dragon nest"}]
+    },
+
+    {
+        "name": "[Aerie] Corpse in the first dragon nest (2)",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] Corpse in the first dragon nest (2)", "ref": "Dragon Aerie/[Aerie] Corpse in the first dragon nest (2)"}]
+    },
+
+    {
+        "name": "[Aerie] Corpse in the first dragon nest (3)",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] Corpse in the first dragon nest (3)", "ref": "Dragon Aerie/[Aerie] Corpse in the first dragon nest (3)"}]
+    },
+
+    {
+        "name": "[Aerie] In the cave under the first dragon nest",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] In the cave under the first dragon nest", "ref": "Dragon Aerie/[Aerie] In the cave under the first dragon nest"}]
+    },
+
+    {
+        "name": "[Aerie] In the cave under the first dragon nest in NG+",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] In the cave under the first dragon nest in NG+", "ref": "Dragon Aerie/[Aerie] In the cave under the first dragon nest in NG+"}]
+    },
+
+    {
+        "name": "[Aerie] On droppable small ledge before the third dragon nest (2)",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] On droppable small ledge before the third dragon nest (2)", "ref": "Dragon Aerie/[Aerie] On droppable small ledge before the third dragon nest (2)"}]
+    },
+
+    {
+        "name": "[Aerie] Near the hollow priest by the second dragon nest",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] Near the hollow priest by the second dragon nest", "ref": "Dragon Aerie/[Aerie] Near the hollow priest by the second dragon nest"}]
+    },
+
+    {
+        "name": "[Aerie] Near the hollow priest by the second dragon nest in NG+",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] Near the hollow priest by the second dragon nest in NG+", "ref": "Dragon Aerie/[Aerie] Near the hollow priest by the second dragon nest in NG+"}]
+    },
+
+    {
+        "name": "[Aerie] In the middle of Aerie",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] In the middle of Aerie", "ref": "Dragon Aerie/[Aerie] In the middle of Aerie"}]
+    },
+
+    {
+        "name": "[Aerie] Corpse in the second dragon nest",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] Corpse in the second dragon nest", "ref": "Dragon Aerie/[Aerie] Corpse in the second dragon nest"}]
+    },
+
+    {
+        "name": "[Aerie] Corpse in the third dragon nest",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] Corpse in the third dragon nest", "ref": "Dragon Aerie/[Aerie] Corpse in the third dragon nest"}]
+    },
+
+    {
+        "name": "[Aerie] Corpse in the third dragon nest (2)",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] Corpse in the third dragon nest (2)", "ref": "Dragon Aerie/[Aerie] Corpse in the third dragon nest (2)"}]
+    },
+
+    {
+        "name": "[Aerie] Corpse in the third dragon nest (3)",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] Corpse in the third dragon nest (3)", "ref": "Dragon Aerie/[Aerie] Corpse in the third dragon nest (3)"}]
+    },
+
+    {
+        "name": "[Aerie] Corpse in the first dragon nest (4)",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] Corpse in the first dragon nest (4)", "ref": "Dragon Aerie/[Aerie] Corpse in the first dragon nest (4)"}]
+    },
+
+    {
+        "name": "[Aerie] On droppable small ledge close to the zip-line start",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] On droppable small ledge close to the zip-line start", "ref": "Dragon Aerie/[Aerie] On droppable small ledge close to the zip-line start"}]
+    },
+
+    {
+        "name": "[Aerie] On a stone pillar you need to drop to from the zip-line",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] On a stone pillar you need to drop to from the zip-line", "ref": "Dragon Aerie/[Aerie] On a stone pillar you need to drop to from the zip-line"}]
+    },
+
+    {
+        "name": "[Aerie] Corpse in the third dragon nest (4)",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] Corpse in the third dragon nest (4)", "ref": "Dragon Aerie/[Aerie] Corpse in the third dragon nest (4)"}]
+    },
+
+    {
+        "name": "[Aerie] Corpse in the second dragon nest (2)",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] Corpse in the second dragon nest (2)", "ref": "Dragon Aerie/[Aerie] Corpse in the second dragon nest (2)"}]
+    },
+
+    {
+        "name": "[Aerie] In the cave under the first dragon nest (2)",
+        "map_locations": [{"map": "Dragon Aerie", "x": "", "y": ""}],
+        "sections": [{"name": "[Aerie] In the cave under the first dragon nest (2)", "ref": "Dragon Aerie/[Aerie] In the cave under the first dragon nest (2)"}]
+    }
+]

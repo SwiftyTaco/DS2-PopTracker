@@ -1,0 +1,232 @@
+[
+    {
+        "name": "[MemoryJeigh] Giant Lord drop",
+        "map_locations": [{"map": "Memory of Jeigh", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryJeigh] Giant Lord drop", "ref": "Memory of Jeigh/[MemoryJeigh] Giant Lord drop"}]
+    },
+
+    {
+        "name": "[MemoryJeigh] Giant Lord drop in NG+",
+        "map_locations": [{"map": "Memory of Jeigh", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryJeigh] Giant Lord drop in NG+", "ref": "Memory of Jeigh/[MemoryJeigh] Giant Lord drop in NG+"}]
+    },
+
+    {
+        "name": "[MemoryJeigh] First left in Giant Lords memory",
+        "map_locations": [{"map": "Memory of Jeigh", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryJeigh] First left in Giant Lords memory", "ref": "Memory of Jeigh/[MemoryJeigh] First left in Giant Lords memory"}]
+    },
+
+    {
+        "name": "[MemoryJeigh] On the battlefield",
+        "map_locations": [{"map": "Memory of Jeigh", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryJeigh] On the battlefield", "ref": "Memory of Jeigh/[MemoryJeigh] On the battlefield"}]
+    },
+
+    {
+        "name": "[MemoryJeigh] On the battlefield in NG+",
+        "map_locations": [{"map": "Memory of Jeigh", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryJeigh] On the battlefield in NG+", "ref": "Memory of Jeigh/[MemoryJeigh] On the battlefield in NG+"}]
+    },
+
+    {
+        "name": "[MemoryJeigh] Up the second set of stairs in the Giant Lord memory",
+        "map_locations": [{"map": "Memory of Jeigh", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryJeigh] Up the second set of stairs in the Giant Lord memory", "ref": "Memory of Jeigh/[MemoryJeigh] Up the second set of stairs in the Giant Lord memory"}]
+    },
+
+
+    {
+        "name": "[MemoryOrro] Trapped wooden chest behind a Pharros contraption on the second floor",
+        "map_locations": [{"map": "Memory of Orro", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryOrro] Trapped wooden chest behind a Pharros contraption on the second floor", "ref": "Memory of Orro/[MemoryOrro] Trapped wooden chest behind a Pharros contraption on the second floor"}]
+    },
+
+    {
+        "name": "[MemoryOrro] Metal chest behind a Pharros contraption and an illusory wall on the second floor",
+        "map_locations": [{"map": "Memory of Orro", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryOrro] Metal chest behind a Pharros contraption and an illusory wall on the second floor", "ref": "Memory of Orro/[MemoryOrro] Metal chest behind a Pharros contraption and an illusory wall on the second floor"}]
+    },
+
+    {
+        "name": "[MemoryOrro] Metal chest behind a Pharros contraption and an illusory wall on the second floor (2)",
+        "map_locations": [{"map": "Memory of Orro", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryOrro] Metal chest behind a Pharros contraption and an illusory wall on the second floor (2)", "ref": "Memory of Orro/[MemoryOrro] Metal chest behind a Pharros contraption and an illusory wall on the second floor (2)"}]
+    },
+
+    {
+        "name": "[MemoryOrro] Metal chest in the room where you need to drop the crane",
+        "map_locations": [{"map": "Memory of Orro", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryOrro] Metal chest in the room where you need to drop the crane", "ref": "Memory of Orro/[MemoryOrro] Metal chest in the room where you need to drop the crane"}]
+    },
+
+    {
+        "name": "[MemoryOrro] Metal chest in the room where you need to drop the crane (2)",
+        "map_locations": [{"map": "Memory of Orro", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryOrro] Metal chest in the room where you need to drop the crane (2)", "ref": "Memory of Orro/[MemoryOrro] Metal chest in the room where you need to drop the crane (2)"}]
+    },
+
+    {
+        "name": "[MemoryOrro] In the corner of the second floor room of the entrace stairs",
+        "map_locations": [{"map": "Memory of Orro", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryOrro] In the corner of the second floor room of the entrace stairs", "ref": "Memory of Orro/[MemoryOrro] In the corner of the second floor room of the entrace stairs"}]
+    },
+
+    {
+        "name": "[MemoryOrro] On the bridge above courtyard",
+        "map_locations": [{"map": "Memory of Orro", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryOrro] On the bridge above courtyard", "ref": "Memory of Orro/[MemoryOrro] On the bridge above courtyard"}]
+    },
+
+    {
+        "name": "[MemoryOrro] In the corner of the courtyard",
+        "map_locations": [{"map": "Memory of Orro", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryOrro] In the corner of the courtyard", "ref": "Memory of Orro/[MemoryOrro] In the corner of the courtyard"}]
+    },
+
+    {
+        "name": "[MemoryOrro] At the side of the center of the courtyard",
+        "map_locations": [{"map": "Memory of Orro", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryOrro] At the side of the center of the courtyard", "ref": "Memory of Orro/[MemoryOrro] At the side of the center of the courtyard"}]
+    },
+
+    {
+        "name": "[MemoryOrro] On the roof looking onto courtyard after climbing ladder",
+        "map_locations": [{"map": "Memory of Orro", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryOrro] On the roof looking onto courtyard after climbing ladder", "ref": "Memory of Orro/[MemoryOrro] On the roof looking onto courtyard after climbing ladder"}]
+    },
+
+    {
+        "name": "[MemoryOrro] On scaffolding after climbing a ladder from the courtyard",
+        "map_locations": [{"map": "Memory of Orro", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryOrro] On scaffolding after climbing a ladder from the courtyard", "ref": "Memory of Orro/[MemoryOrro] On scaffolding after climbing a ladder from the courtyard"}]
+    },
+
+    {
+        "name": "[MemoryOrro] On scaffolding after climbing a ladder from the courtyard in NG+",
+        "map_locations": [{"map": "Memory of Orro", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryOrro] On scaffolding after climbing a ladder from the courtyard in NG+", "ref": "Memory of Orro/[MemoryOrro] On scaffolding after climbing a ladder from the courtyard in NG+"}]
+    },
+
+
+    {
+        "name": "[MemoryVammar] Wooden chest in side room opposite Captain Drummond",
+        "map_locations": [{"map": "Memory of Vammar", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryVammar] Wooden chest in side room opposite Captain Drummond", "ref": "Memory of Vammar/[MemoryVammar] Wooden chest in side room opposite Captain Drummond"}]
+    },
+
+    {
+        "name": "[MemoryVammar] Wooden chest in side room opposite Captain Drummond in NG+",
+        "map_locations": [{"map": "Memory of Vammar", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryVammar] Wooden chest in side room opposite Captain Drummond in NG+", "ref": "Memory of Vammar/[MemoryVammar] Wooden chest in side room opposite Captain Drummond in NG+"}]
+    },
+
+    {
+        "name": "[MemoryVammar] Metal chest in the corner of the main battlefield area",
+        "map_locations": [{"map": "Memory of Vammar", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryVammar] Metal chest in the corner of the main battlefield area", "ref": "Memory of Vammar/[MemoryVammar] Metal chest in the corner of the main battlefield area"}]
+    },
+
+    {
+        "name": "[MemoryVammar] Behind a corner in the first corridor after Drummond",
+        "map_locations": [{"map": "Memory of Vammar", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryVammar] Behind a corner in the first corridor after Drummond", "ref": "Memory of Vammar/[MemoryVammar] Behind a corner in the first corridor after Drummond"}]
+    },
+
+    {
+        "name": "[MemoryVammar] On the second floor of the ruined house",
+        "map_locations": [{"map": "Memory of Vammar", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryVammar] On the second floor of the ruined house", "ref": "Memory of Vammar/[MemoryVammar] On the second floor of the ruined house"}]
+    },
+
+    {
+        "name": "[MemoryVammar] On the second floor of the ruined house in NG+",
+        "map_locations": [{"map": "Memory of Vammar", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryVammar] On the second floor of the ruined house in NG+", "ref": "Memory of Vammar/[MemoryVammar] On the second floor of the ruined house in NG+"}]
+    },
+
+    {
+        "name": "[MemoryVammar] In the corner of the roof",
+        "map_locations": [{"map": "Memory of Vammar", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryVammar] In the corner of the roof", "ref": "Memory of Vammar/[MemoryVammar] In the corner of the roof"}]
+    },
+
+    {
+        "name": "[MemoryVammar] In the far right corner of the main battlefield area",
+        "map_locations": [{"map": "Memory of Vammar", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryVammar] In the far right corner of the main battlefield area", "ref": "Memory of Vammar/[MemoryVammar] In the far right corner of the main battlefield area"}]
+    },
+
+    {
+        "name": "[MemoryVammar] At the top of the final stairs in Memory of Vammar",
+        "map_locations": [{"map": "Memory of Vammar", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryVammar] At the top of the final stairs in Memory of Vammar", "ref": "Memory of Vammar/[MemoryVammar] At the top of the final stairs in Memory of Vammar"}]
+    },
+
+    {
+        "name": "[MemoryVammar] Next to the stairs just before the end of Memory of Vammar",
+        "map_locations": [{"map": "Memory of Vammar", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryVammar] Next to the stairs just before the end of Memory of Vammar", "ref": "Memory of Vammar/[MemoryVammar] Next to the stairs just before the end of Memory of Vammar"}]
+    },
+
+    {
+        "name": "[MemoryVammar] Next to the stairs just before the end of Memory of Vammar in NG+",
+        "map_locations": [{"map": "Memory of Vammar", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryVammar] Next to the stairs just before the end of Memory of Vammar in NG+", "ref": "Memory of Vammar/[MemoryVammar] Next to the stairs just before the end of Memory of Vammar in NG+"}]
+    },
+
+    {
+        "name": "[MemoryVammar] In the corner of the last platform in Memory of Vammar",
+        "map_locations": [{"map": "Memory of Vammar", "x": "", "y": ""}],
+        "sections": [{"name": "[MemoryVammar] In the corner of the last platform in Memory of Vammar", "ref": "Memory of Vammar/[MemoryVammar] In the corner of the last platform in Memory of Vammar"}]
+    },
+
+
+    {
+        "name": "[DLC2] Sir Alonne drop",
+        "map_locations": [{"map": "Memory of the Iron King", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC2] Sir Alonne drop", "ref": "Memory of the Old Iron King/[DLC2] Sir Alonne drop"}]
+    },
+
+    {
+        "name": "[DLC2] In the middle of the first hall in Alonne memory",
+        "map_locations": [{"map": "Memory of the Iron King", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC2] In the middle of the first hall in Alonne memory", "ref": "Memory of the Old Iron King/[DLC2] In the middle of the first hall in Alonne memory"}]
+    },
+
+    {
+        "name": "[DLC2] In the middle of the first hall in Alonne memory (2)",
+        "map_locations": [{"map": "Memory of the Iron King", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC2] In the middle of the first hall in Alonne memory (2)", "ref": "Memory of the Old Iron King/[DLC2] In the middle of the first hall in Alonne memory (2)"}]
+    },
+
+    {
+        "name": "[DLC2] In the middle of the first hall in Alonne memory (3)",
+        "map_locations": [{"map": "Memory of the Iron King", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC2] In the middle of the first hall in Alonne memory (3)", "ref": "Memory of the Old Iron King/[DLC2] In the middle of the first hall in Alonne memory (3)"}]
+    },
+
+    {
+        "name": "[DLC2] On side alcove on the left side of the first hall in Alonne memory",
+        "map_locations": [{"map": "Memory of the Iron King", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC2] On side alcove on the left side of the first hall in Alonne memory", "ref": "Memory of the Old Iron King/[DLC2] On side alcove on the left side of the first hall in Alonne memory"}]
+    },
+
+    {
+        "name": "[DLC2] In the middle of the second hall in Alonne memory",
+        "map_locations": [{"map": "Memory of the Iron King", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC2] In the middle of the second hall in Alonne memory", "ref": "Memory of the Old Iron King/[DLC2] In the middle of the second hall in Alonne memory"}]
+    },
+
+    {
+        "name": "[DLC2] On side alcove on the lower level of the second hall in Alonne memory",
+        "map_locations": [{"map": "Memory of the Iron King", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC2] On side alcove on the lower level of the second hall in Alonne memory", "ref": "Memory of the Old Iron King/[DLC2] On side alcove on the lower level of the second hall in Alonne memory"}]
+    },
+
+    {
+        "name": "[DLC2] In the middle of the second hall in Alonne memory (2)",
+        "map_locations": [{"map": "Memory of the Iron King", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC2] In the middle of the second hall in Alonne memory (2)", "ref": "Memory of the Old Iron King/[DLC2] In the middle of the second hall in Alonne memory (2)"}]
+    }
+]

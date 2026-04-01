@@ -1,0 +1,172 @@
+[
+    {
+        "name": "[Heides] Dragonrider boss drop",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] Dragonrider boss drop", "ref": "Heide's Tower of Flame/[Heides] Dragonrider boss drop"}]
+    },
+    {
+        "name": "[Heides] Second enemy after first bonfire",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] Second enemy after first bonfire", "ref": "Heide's Tower of Flame/[Heides] Second enemy after first bonfire"}]
+    },
+    {
+        "name": "[Heides] Metal chest behind petrified hollow after Dragonrider",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] Metal chest behind petrified hollow after Dragonrider", "ref": "Heide's Tower of Flame/[Heides] Metal chest behind petrified hollow after Dragonrider"}]
+    },
+    {
+        "name": "[Heides] Metal chest guarded by syan soldier after dragonrider",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] Metal chest guarded by syan soldier after dragonrider", "ref": "Heide's Tower of Flame/[Heides] Metal chest guarded by syan soldier after dragonrider"}]
+    },
+    {
+        "name": "[Heides] In alcove",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] In alcove", "ref": "Heide's Tower of Flame/[Heides] In alcove"}]
+    },
+    {
+        "name": "[Heides] Corpse on railing",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] Corpse on railing", "ref": "Heide's Tower of Flame/[Heides] Corpse on railing"}]
+    },
+    {
+        "name": "[Heides] In alcove (2)",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] In alcove (2)", "ref": "Heide's Tower of Flame/[Heides] In alcove (2)"}]
+    },
+    {
+        "name": "[Heides] On railing behind petrified hollow",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] On railing behind petrified hollow", "ref": "Heide's Tower of Flame/[Heides] On railing behind petrified hollow"}]
+    },
+    {
+        "name": "[Heides] Metal chest before Dragonrider",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] Metal chest before Dragonrider", "ref": "Heide's Tower of Flame/[Heides] Metal chest before Dragonrider"}]
+    },
+    {
+        "name": "[Heides] Metal chest before Dragonrider in NG+",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] Metal chest before Dragonrider in NG+", "ref": "Heide's Tower of Flame/[Heides] Metal chest before Dragonrider in NG+"}]
+    },
+    {
+        "name": "[Heides] On the railing near first bonfire",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] On the railing near first bonfire", "ref": "Heide's Tower of Flame/[Heides] On the railing near first bonfire"}]
+    },
+    {
+        "name": "[Heides] Under the spiral staircase after Dragonrider",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] Under the spiral staircase after Dragonrider", "ref": "Heide's Tower of Flame/[Heides] Under the spiral staircase after Dragonrider"}]
+    },
+    {
+        "name": "[Heides] Under the spiral staircase after Dragonrider in NG+",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] Under the spiral staircase after Dragonrider in NG+", "ref": "Heide's Tower of Flame/[Heides] Under the spiral staircase after Dragonrider in NG+"}]
+    },
+    {
+        "name": "[Heides] On the ledge on the way towards the cathedral",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] On the ledge on the way towards the cathedral", "ref": "Heide's Tower of Flame/[Heides] On the ledge on the way towards the cathedral"}]
+    },
+    {
+        "name": "[Heides] In the waterway from Majula",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] In the waterway from Majula", "ref": "Heide's Tower of Flame/[Heides] In the waterway from Majula"}]
+    },
+    {
+        "name": "[Heides] On a corpse near the first lever",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] On a corpse near the first lever", "ref": "Heide's Tower of Flame/[Heides] On a corpse near the first lever"}]
+    },
+    {
+        "name": "[Heides] On a corpse near the first lever in NG+",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] On a corpse near the first lever in NG+", "ref": "Heide's Tower of Flame/[Heides] On a corpse near the first lever in NG+"}]
+    },
+    {
+        "name": "[Heides] Old Dragonslayer boss drop",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] Old Dragonslayer boss drop", "ref": "Heide's Tower of Flame/[Heides] Old Dragonslayer boss drop"}]
+    },
+    {
+        "name": "[Heides] Metal chest after Old Dragonslayer",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] Metal chest after Old Dragonslayer", "ref": "Heide's Tower of Flame/[Heides] Metal chest after Old Dragonslayer"}]
+    },
+    {
+        "name": "[Heides] Wooden chest after Old Dragonslayer",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] Wooden chest after Old Dragonslayer", "ref": "Heide's Tower of Flame/[Heides] Wooden chest after Old Dragonslayer"}]
+    },
+    {
+        "name": "[Heides] Metal chest before Old Dragonslayer",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] Metal chest before Old Dragonslayer", "ref": "Heide's Tower of Flame/[Heides] Metal chest before Old Dragonslayer"}]
+    },
+    {
+        "name": "[Heides] Next to metal chest before Old Dragonslayer",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Heides] Next to metal chest before Old Dragonslayer", "ref": "Heide's Tower of Flame/[Heides] Next to metal chest before Old Dragonslayer"}]
+    },
+    {
+        "name": "[Licia of Lindeldt] Clerics Sacred Chime",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Licia of Lindeldt] Clerics Sacred Chime", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Clerics Sacred Chime"}]
+    },
+    {
+        "name": "[Licia of Lindeldt] Heal",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Licia of Lindeldt] Heal", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Heal"}]
+    },
+    {
+        "name": "[Licia of Lindeldt] Med Heal",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Licia of Lindeldt] Med Heal", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Med Heal"}]
+    },
+    {
+        "name": "[Licia of Lindeldt] Great Heal Excerpt",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Licia of Lindeldt] Great Heal Excerpt", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Great Heal Excerpt"}]
+    },
+    {
+        "name": "[Licia of Lindeldt] Replenishment",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Licia of Lindeldt] Replenishment", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Replenishment"}]
+    },
+    {
+        "name": "[Licia of Lindeldt] Resplendent Life",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Licia of Lindeldt] Resplendent Life", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Resplendent Life"}]
+    },
+    {
+        "name": "[Licia of Lindeldt] Caressing Prayer",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Licia of Lindeldt] Caressing Prayer", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Caressing Prayer"}]
+    },
+    {
+        "name": "[Licia of Lindeldt] Force",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Licia of Lindeldt] Force", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Force"}]
+    },
+    {
+        "name": "[Licia of Lindeldt] Lightning Spear",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Licia of Lindeldt] Lightning Spear", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Lightning Spear"}]
+    },
+    {
+        "name": "[Licia of Lindeldt] Homeward",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Licia of Lindeldt] Homeward", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Homeward"}]
+    },
+    {
+        "name": "[Licia of Lindeldt] Guidance",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Licia of Lindeldt] Guidance", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Guidance"}]
+    },
+    {
+        "name": "[Licia of Lindeldt] Ring of Prayer",
+        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
+        "sections": [{"name": "[Licia of Lindeldt] Ring of Prayer", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Ring of Prayer"}]
+    }
+]

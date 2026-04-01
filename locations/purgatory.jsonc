@@ -1,0 +1,49 @@
+[
+    {
+        "name": "[Chariot] Executioners Chariot drop",
+        "map_locations": [{"map": "Undead Purgatory", "x": "0", "y": 0}],
+        "sections": [{"name": "[Chariot] Executioners Chariot drop", "ref": "Undead Purgatory/[Chariot] Executioners Chariot drop"}]
+    },
+
+    {
+        "name": "[Chariot] Executioners Chariot drop in NG+",
+        "map_locations": [{"map": "Undead Purgatory", "x": "0", "y": 0}],
+        "sections": [{"name": "[Chariot] Executioners Chariot drop in NG+", "ref": "Undead Purgatory/[Chariot] Executioners Chariot drop in NG+"}]
+    },
+
+    {
+        "name": "[Chariot] Above the stairs leading to the bonfire",
+        "map_locations": [{"map": "Undead Purgatory", "x": "0", "y": 0}],
+        "sections": [{"name": "[Chariot] Above the stairs leading to the bonfire", "ref": "Undead Purgatory/[Chariot] Above the stairs leading to the bonfire"}]
+    },
+
+    {
+        "name": "[Chariot] First corpse in the Chariot arena",
+        "map_locations": [{"map": "Undead Purgatory", "x": "0", "y": 0}],
+        "sections": [{"name": "[Chariot] First corpse in the Chariot arena", "ref": "Undead Purgatory/[Chariot] First corpse in the Chariot arena"}]
+    },
+
+    {
+        "name": "[Chariot] Second corpse in the Chariot arena",
+        "map_locations": [{"map": "Undead Purgatory", "x": "0", "y": 0}],
+        "sections": [{"name": "[Chariot] Second corpse in the Chariot arena", "ref": "Undead Purgatory/[Chariot] Second corpse in the Chariot arena"}]
+    },
+
+    {
+        "name": "[Chariot] Third corpse in the Chariot arena",
+        "map_locations": [{"map": "Undead Purgatory", "x": "0", "y": 0}],
+        "sections": [{"name": "[Chariot] Third corpse in the Chariot arena", "ref": "Undead Purgatory/[Chariot] Third corpse in the Chariot arena"}]
+    },
+
+    {
+        "name": "[Chariot] Fourth corpse in the Chariot arena",
+        "map_locations": [{"map": "Undead Purgatory", "x": "0", "y": 0}],
+        "sections": [{"name": "[Chariot] Fourth corpse in the Chariot arena", "ref": "Undead Purgatory/[Chariot] Fourth corpse in the Chariot arena"}]
+    },
+
+    {
+        "name": "[Chariot] Fifth corpse in the Chariot arena",
+        "map_locations": [{"map": "Undead Purgatory", "x": "0", "y": 0}],
+        "sections": [{"name": "[Chariot] Fifth corpse in the Chariot arena", "ref": "Undead Purgatory/[Chariot] Fifth corpse in the Chariot arena"}]
+    }
+]

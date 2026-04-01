@@ -1,0 +1,235 @@
+[
+    {
+        "name": "[EarthernPeak] Covetous Demon drop",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Covetous Demon drop", "ref": "Earthen Peak/[EarthernPeak] Covetous Demon drop"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Mytha drop",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Mytha drop", "ref": "Earthen Peak/[EarthernPeak] Mytha drop"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Mytha drop in NG+",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Mytha drop in NG+", "ref": "Earthen Peak/[EarthernPeak] Mytha drop in NG+"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Wooden chest on a lower side ledge of the main hall",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Wooden chest on a lower side ledge of the main hall", "ref": "Earthen Peak/[EarthernPeak] Wooden chest on a lower side ledge of the main hall"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Wooden chest behind illusory wall in the top floor",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Wooden chest behind illusory wall in the top floor", "ref": "Earthen Peak/[EarthernPeak] Wooden chest behind illusory wall in the top floor"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Metal chest in side room where you need to jump before Covetous Demon",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Metal chest in side room where you need to jump before Covetous Demon", "ref": "Earthen Peak/[EarthernPeak] Metal chest in side room where you need to jump before Covetous Demon"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Trapped wooden chest in side room before Covetous Demon",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Trapped wooden chest in side room before Covetous Demon", "ref": "Earthen Peak/[EarthernPeak] Trapped wooden chest in side room before Covetous Demon"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Trapped wooden chest next to two desert sorceress",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Trapped wooden chest next to two desert sorceress", "ref": "Earthen Peak/[EarthernPeak] Trapped wooden chest next to two desert sorceress"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Metal chest on the other side of a jumpable gap",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Metal chest on the other side of a jumpable gap", "ref": "Earthen Peak/[EarthernPeak] Metal chest on the other side of a jumpable gap"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Metal chest behind Pharros contraption in the lowest level next to Lucatiel",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Metal chest behind Pharros contraption in the lowest level next to Lucatiel", "ref": "Earthen Peak/[EarthernPeak] Metal chest behind Pharros contraption in the lowest level next to Lucatiel"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Metal chest in a small room behind a locked door next to Pate (need to drop from above)",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Metal chest in a small room behind a locked door next to Pate (need to drop from above)", "ref": "Earthen Peak/[EarthernPeak] Metal chest in a small room behind a locked door next to Pate (need to drop from above)"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Metal chest in a bigger room behind a locked door next to pate (need to drop from above)",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Metal chest in a bigger room behind a locked door next to pate (need to drop from above)", "ref": "Earthen Peak/[EarthernPeak] Metal chest in a bigger room behind a locked door next to pate (need to drop from above)"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Metal chest on upper end of the raisable wooden platform",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Metal chest on upper end of the raisable wooden platform", "ref": "Earthen Peak/[EarthernPeak] Metal chest on upper end of the raisable wooden platform"}]
+    },
+
+    {
+        "name": "[EarthernPeak] On a broken bridge part with manikin in the central hall",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] On a broken bridge part with manikin in the central hall", "ref": "Earthen Peak/[EarthernPeak] On a broken bridge part with manikin in the central hall"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Behind illusory wall on mythas foggate level near the ladders",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Behind illusory wall on mythas foggate level near the ladders", "ref": "Earthen Peak/[EarthernPeak] Behind illusory wall on mythas foggate level near the ladders"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Under the raisable wooden platform",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Under the raisable wooden platform", "ref": "Earthen Peak/[EarthernPeak] Under the raisable wooden platform"}]
+    },
+
+    {
+        "name": "[EarthernPeak] In a poison filled corridor in the lowest level",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] In a poison filled corridor in the lowest level", "ref": "Earthen Peak/[EarthernPeak] In a poison filled corridor in the lowest level"}]
+    },
+
+    {
+        "name": "[EarthernPeak] In a narrow crevasse right before Covetous Demon",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] In a narrow crevasse right before Covetous Demon", "ref": "Earthen Peak/[EarthernPeak] In a narrow crevasse right before Covetous Demon"}]
+    },
+
+    {
+        "name": "[EarthernPeak] In the corner of the first room after Covetous bonfire",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] In the corner of the first room after Covetous bonfire", "ref": "Earthen Peak/[EarthernPeak] In the corner of the first room after Covetous bonfire"}]
+    },
+
+    {
+        "name": "[EarthernPeak] On a ledge where you need to buy ladders from gilligan",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] On a ledge where you need to buy ladders from gilligan", "ref": "Earthen Peak/[EarthernPeak] On a ledge where you need to buy ladders from gilligan"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Outside of the wooden breakable railing",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Outside of the wooden breakable railing", "ref": "Earthen Peak/[EarthernPeak] Outside of the wooden breakable railing"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Corpse on the other side of a jumpable gap",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Corpse on the other side of a jumpable gap", "ref": "Earthen Peak/[EarthernPeak] Corpse on the other side of a jumpable gap"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Corpse on the other side of a jumpable gap in NG+",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Corpse on the other side of a jumpable gap in NG+", "ref": "Earthen Peak/[EarthernPeak] Corpse on the other side of a jumpable gap in NG+"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Corpse in side room where you need to jump before Covetous Demon",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Corpse in side room where you need to jump before Covetous Demon", "ref": "Earthen Peak/[EarthernPeak] Corpse in side room where you need to jump before Covetous Demon"}]
+    },
+
+    {
+        "name": "[EarthernPeak] One floor up from the second bonfire",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] One floor up from the second bonfire", "ref": "Earthen Peak/[EarthernPeak] One floor up from the second bonfire"}]
+    },
+
+    {
+        "name": "[EarthernPeak] One floor up from the second bonfire (2)",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] One floor up from the second bonfire (2)", "ref": "Earthen Peak/[EarthernPeak] One floor up from the second bonfire (2)"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Next to mimic on upper floor",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Next to mimic on upper floor", "ref": "Earthen Peak/[EarthernPeak] Next to mimic on upper floor"}]
+    },
+
+    {
+        "name": "[EarthernPeak] In the poison pool just before mytha",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] In the poison pool just before mytha", "ref": "Earthen Peak/[EarthernPeak] In the poison pool just before mytha"}]
+    },
+
+    {
+        "name": "[EarthernPeak] Short corridor with poison on floor",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[EarthernPeak] Short corridor with poison on floor", "ref": "Earthen Peak/[EarthernPeak] Short corridor with poison on floor"}]
+    },
+
+    {
+        "name": "[Laddersmith Gilligan/Earthen Peak] Reinforced Club",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[Laddersmith Gilligan/Earthen Peak] Reinforced Club", "ref": "Earthen Peak/[Laddersmith Gilligan/Earthen Peak] Reinforced Club"}]
+    },
+
+    {
+        "name": "[Laddersmith Gilligan/Earthen Peak] Claws",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[Laddersmith Gilligan/Earthen Peak] Claws", "ref": "Earthen Peak/[Laddersmith Gilligan/Earthen Peak] Claws"}]
+    },
+
+    {
+        "name": "[Laddersmith Gilligan/Earthen Peak] Whip",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[Laddersmith Gilligan/Earthen Peak] Whip", "ref": "Earthen Peak/[Laddersmith Gilligan/Earthen Peak] Whip"}]
+    },
+
+    {
+        "name": "[Laddersmith Gilligan/Earthen Peak] Wooden Shield",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[Laddersmith Gilligan/Earthen Peak] Wooden Shield", "ref": "Earthen Peak/[Laddersmith Gilligan/Earthen Peak] Wooden Shield"}]
+    },
+
+    {
+        "name": "[Laddersmith Gilligan/Earthen Peak] Thief Mask",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[Laddersmith Gilligan/Earthen Peak] Thief Mask", "ref": "Earthen Peak/[Laddersmith Gilligan/Earthen Peak] Thief Mask"}]
+    },
+
+    {
+        "name": "[Laddersmith Gilligan/Earthen Peak] Black Leather Armor",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[Laddersmith Gilligan/Earthen Peak] Black Leather Armor", "ref": "Earthen Peak/[Laddersmith Gilligan/Earthen Peak] Black Leather Armor"}]
+    },
+
+    {
+        "name": "[Laddersmith Gilligan/Earthen Peak] Black Leather Gloves",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[Laddersmith Gilligan/Earthen Peak] Black Leather Gloves", "ref": "Earthen Peak/[Laddersmith Gilligan/Earthen Peak] Black Leather Gloves"}]
+    },
+
+    {
+        "name": "[Laddersmith Gilligan/Earthen Peak] Black Leather Boots",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[Laddersmith Gilligan/Earthen Peak] Black Leather Boots", "ref": "Earthen Peak/[Laddersmith Gilligan/Earthen Peak] Black Leather Boots"}]
+    },
+
+    {
+        "name": "[Laddersmith Gilligan/Earthen Peak] Ladder Miniature",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[Laddersmith Gilligan/Earthen Peak] Ladder Miniature", "ref": "Earthen Peak/[Laddersmith Gilligan/Earthen Peak] Ladder Miniature"}]
+    },
+
+    {
+        "name": "[Lonesome Gavlan/Harvest Valley] Ring of Giants",
+        "map_locations": [{ "map": "Earthen Peak", "x": "0", "y": 0 }],
+        "sections": [{"name": "[Lonesome Gavlan/Harvest Valley] Ring of Giants", "ref": "Earthen Peak/[Lonesome Gavlan/Harvest Valley] Ring of Giants"}]
+    }
+]

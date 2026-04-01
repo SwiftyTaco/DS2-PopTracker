@@ -1,0 +1,241 @@
+[
+    {
+        "name": "[Crypt] Velstadt drop",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Velstadt drop", "ref": "Undead Crypt/[Crypt] Velstadt drop"}]
+    },
+
+    {
+        "name": "[Crypt] Velstadt drop in NG+",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Velstadt drop in NG+", "ref": "Undead Crypt/[Crypt] Velstadt drop in NG+"}]
+    },
+
+    {
+        "name": "[Crypt] Drop from an Insolent Knight that spawns when you light up the Crypt",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Drop from an Insolent Knight that spawns when you light up the Crypt", "ref": "Undead Crypt/[Crypt] Drop from an Insolent Knight that spawns when you light up the Crypt"}]
+    },
+
+    {
+        "name": "[Crypt] Metal chest near the torch that lights up the big statues",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Metal chest near the torch that lights up the big statues", "ref": "Undead Crypt/[Crypt] Metal chest near the torch that lights up the big statues"}]
+    },
+
+    {
+        "name": "[Crypt] Wooden chest on left side of the doorway leading to the great hall and Velstadt",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Wooden chest on left side of the doorway leading to the great hall and Velstadt", "ref": "Undead Crypt/[Crypt] Wooden chest on left side of the doorway leading to the great hall and Velstadt"}]
+    },
+
+    {
+        "name": "[Crypt] Metal chest on balcony of the second graveyard room",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Metal chest on balcony of the second graveyard room", "ref": "Undead Crypt/[Crypt] Metal chest on balcony of the second graveyard room"}]
+    },
+
+    {
+        "name": "[Crypt] Metal chest above the bridge after agdayne",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Metal chest above the bridge after agdayne", "ref": "Undead Crypt/[Crypt] Metal chest above the bridge after agdayne"}]
+    },
+
+    {
+        "name": "[Crypt] Metal chest behind a illusory wall and a Pharros contraption from the third graveyard room",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Metal chest behind a illusory wall and a Pharros contraption from the third graveyard room", "ref": "Undead Crypt/[Crypt] Metal chest behind a illusory wall and a Pharros contraption from the third graveyard room"}]
+    },
+
+    {
+        "name": "[Crypt] Metal chest behind a illusory wall from the room where Nameless Usurper invades",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Metal chest behind a illusory wall from the room where Nameless Usurper invades", "ref": "Undead Crypt/[Crypt] Metal chest behind a illusory wall from the room where Nameless Usurper invades"}]
+    },
+
+    {
+        "name": "[Crypt] Metal chest right before Velstadt",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Metal chest right before Velstadt", "ref": "Undead Crypt/[Crypt] Metal chest right before Velstadt"}]
+    },
+
+    {
+        "name": "[Crypt] Metal chest right before Velstadt (2)",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Metal chest right before Velstadt (2)", "ref": "Undead Crypt/[Crypt] Metal chest right before Velstadt (2)"}]
+    },
+
+    {
+        "name": "[Crypt] Metal chest right before Velstadt (3)",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Metal chest right before Velstadt (3)", "ref": "Undead Crypt/[Crypt] Metal chest right before Velstadt (3)"}]
+    },
+
+    {
+        "name": "[Crypt] Metal chest right before Velstadt (4)",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Metal chest right before Velstadt (4)", "ref": "Undead Crypt/[Crypt] Metal chest right before Velstadt (4)"}]
+    },
+
+    {
+        "name": "[Crypt] Right side of the stairs next to Undead Crypt Entrance bonfire",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Right side of the stairs next to Undead Crypt Entrance bonfire", "ref": "Undead Crypt/[Crypt] Right side of the stairs next to Undead Crypt Entrance bonfire"}]
+    },
+
+    {
+        "name": "[Crypt] Next to Agdayne",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Next to Agdayne", "ref": "Undead Crypt/[Crypt] Next to Agdayne"}]
+    },
+
+    {
+        "name": "[Crypt] Next to Agdayne in NG+",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Next to Agdayne in NG+", "ref": "Undead Crypt/[Crypt] Next to Agdayne in NG+"}]
+    },
+
+    {
+        "name": "[Crypt] Under the bridge leading from Agdayne to the second bonfire",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Under the bridge leading from Agdayne to the second bonfire", "ref": "Undead Crypt/[Crypt] Under the bridge leading from Agdayne to the second bonfire"}]
+    },
+
+    {
+        "name": "[Crypt] Corpse in the first graveyard room",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Corpse in the first graveyard room", "ref": "Undead Crypt/[Crypt] Corpse in the first graveyard room"}]
+    },
+
+    {
+        "name": "[Crypt] Corpse in the second graveyard room",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Corpse in the second graveyard room", "ref": "Undead Crypt/[Crypt] Corpse in the second graveyard room"}]
+    },
+
+    {
+        "name": "[Crypt] In side tunnel of the third graveyard room",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] In side tunnel of the third graveyard room", "ref": "Undead Crypt/[Crypt] In side tunnel of the third graveyard room"}]
+    },
+
+    {
+        "name": "[Crypt] In small room above the second bonfire",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] In small room above the second bonfire", "ref": "Undead Crypt/[Crypt] In small room above the second bonfire"}]
+    },
+
+    {
+        "name": "[Crypt] Corpse in the first graveyard room (2)",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Corpse in the first graveyard room (2)", "ref": "Undead Crypt/[Crypt] Corpse in the first graveyard room (2)"}]
+    },
+
+    {
+        "name": "[Crypt] Corpse in the first graveyard room in NG+",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Corpse in the first graveyard room in NG+", "ref": "Undead Crypt/[Crypt] Corpse in the first graveyard room in NG+"}]
+    },
+
+    {
+        "name": "[Crypt] Corpse in the second graveyard room (2)",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Corpse in the second graveyard room (2)", "ref": "Undead Crypt/[Crypt] Corpse in the second graveyard room (2)"}]
+    },
+
+    {
+        "name": "[Crypt] Corpse in the second graveyard room in NG+",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Corpse in the second graveyard room in NG+", "ref": "Undead Crypt/[Crypt] Corpse in the second graveyard room in NG+"}]
+    },
+
+    {
+        "name": "[Crypt] In room where Nameless Usurper invades",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] In room where Nameless Usurper invades", "ref": "Undead Crypt/[Crypt] In room where Nameless Usurper invades"}]
+    },
+
+    {
+        "name": "[Crypt] In room where Nameless Usurper invades (2)",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] In room where Nameless Usurper invades (2)", "ref": "Undead Crypt/[Crypt] In room where Nameless Usurper invades (2)"}]
+    },
+
+    {
+        "name": "[Crypt] Corpse in the third graveyard room",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Corpse in the third graveyard room", "ref": "Undead Crypt/[Crypt] Corpse in the third graveyard room"}]
+    },
+
+    {
+        "name": "[Crypt] Corpse in the third graveyard room in NG+",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Corpse in the third graveyard room in NG+", "ref": "Undead Crypt/[Crypt] Corpse in the third graveyard room in NG+"}]
+    },
+
+    {
+        "name": "[Crypt] Corpse in the first graveyard room (3)",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Corpse in the first graveyard room (3)", "ref": "Undead Crypt/[Crypt] Corpse in the first graveyard room (3)"}]
+    },
+
+    {
+        "name": "[Crypt] Corpse in the first graveyard room (4)",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Corpse in the first graveyard room (4)", "ref": "Undead Crypt/[Crypt] Corpse in the first graveyard room (4)"}]
+    },
+
+    {
+        "name": "[Crypt] Corpse in the first graveyard room (5)",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Corpse in the first graveyard room (5)", "ref": "Undead Crypt/[Crypt] Corpse in the first graveyard room (5)"}]
+    },
+
+    {
+        "name": "[Crypt] Corpse in the first graveyard room (6)",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Corpse in the first graveyard room (6)", "ref": "Undead Crypt/[Crypt] Corpse in the first graveyard room (6)"}]
+    },
+
+    {
+        "name": "[Crypt] Corpse in the first graveyard room (7)",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Corpse in the first graveyard room (7)", "ref": "Undead Crypt/[Crypt] Corpse in the first graveyard room (7)"}]
+    },
+
+    {
+        "name": "[Crypt] Looted from vendricks armor",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Crypt] Looted from vendricks armor", "ref": "Undead Crypt/[Crypt] Looted from vendricks armor"}]
+    },
+
+    {
+        "name": "[Grave Warden Agdayne] Soul Spear",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Grave Warden Agdayne] Soul Spear", "ref": "Undead Crypt/[Grave Warden Agdayne] Soul Spear"}]
+    },
+
+    {
+        "name": "[Grave Warden Agdayne] Soul Vortex",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Grave Warden Agdayne] Soul Vortex", "ref": "Undead Crypt/[Grave Warden Agdayne] Soul Vortex"}]
+    },
+
+    {
+        "name": "[Grave Warden Agdayne] Soul Appease",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Grave Warden Agdayne] Soul Appease", "ref": "Undead Crypt/[Grave Warden Agdayne] Soul Appease"}]
+    },
+
+    {
+        "name": "[Grave Warden Agdayne] Warmth",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Grave Warden Agdayne] Warmth", "ref": "Undead Crypt/[Grave Warden Agdayne] Warmth"}]
+    },
+
+    {
+        "name": "[Grave Warden Agdayne] Ring of Thorns+1",
+        "map_locations": [{"map": "Undead Crypt", "x": "", "y": ""}],
+        "sections": [{"name": "[Grave Warden Agdayne] Ring of Thorns+1", "ref": "Undead Crypt/[Grave Warden Agdayne] Ring of Thorns+1"}]
+    }
+]

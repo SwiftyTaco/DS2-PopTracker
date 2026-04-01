@@ -1,0 +1,343 @@
+[
+    {
+        "name": "[ShadedWoods] Scorpioness Najka drop",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Scorpioness Najka drop", "ref": "Shaded Woods/[ShadedWoods] Scorpioness Najka drop"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Scorpioness Najka drop in NG+",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Scorpioness Najka drop in NG+", "ref": "Shaded Woods/[ShadedWoods] Scorpioness Najka drop in NG+"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Drop from Petrified Lion Warrior next to Golden Lion Warrior",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Drop from Petrified Lion Warrior next to Golden Lion Warrior", "ref": "Shaded Woods/[ShadedWoods] Drop from Petrified Lion Warrior next to Golden Lion Warrior"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Gift from Manscorpion Tark after defeating Najka",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Gift from Manscorpion Tark after defeating Najka", "ref": "Shaded Woods/[ShadedWoods] Gift from Manscorpion Tark after defeating Najka"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Metal chest next to the Old Akelarre bonfire",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Metal chest next to the Old Akelarre bonfire", "ref": "Shaded Woods/[ShadedWoods] Metal chest next to the Old Akelarre bonfire"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Corpse in the room above the Old Akelarre bonfire",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Corpse in the room above the Old Akelarre bonfire", "ref": "Shaded Woods/[ShadedWoods] Corpse in the room above the Old Akelarre bonfire"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Wooden chest on lower floor of the main Shaded Ruins bridge",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Wooden chest on lower floor of the main Shaded Ruins bridge", "ref": "Shaded Woods/[ShadedWoods] Wooden chest on lower floor of the main Shaded Ruins bridge"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Wooden chest On lower floor of the main Shaded Ruins bridge in NG+",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Wooden chest On lower floor of the main Shaded Ruins bridge in NG+", "ref": "Shaded Woods/[ShadedWoods] Wooden chest On lower floor of the main Shaded Ruins bridge in NG+"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Wooden chest on upper floor of the main Shaded Ruins bridge",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Wooden chest on upper floor of the main Shaded Ruins bridge", "ref": "Shaded Woods/[ShadedWoods] Wooden chest on upper floor of the main Shaded Ruins bridge"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Metal chest on left side of the fog area",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Metal chest on left side of the fog area", "ref": "Shaded Woods/[ShadedWoods] Metal chest on left side of the fog area"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Metal chest on upper area by Manscorpion tark",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Metal chest on upper area by Manscorpion tark", "ref": "Shaded Woods/[ShadedWoods] Metal chest on upper area by Manscorpion tark"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Metal chest in room blocked by petrified statue",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Metal chest in room blocked by petrified statue", "ref": "Shaded Woods/[ShadedWoods] Metal chest in room blocked by petrified statue"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Metal chest on right side of the fog area",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Metal chest on right side of the fog area", "ref": "Shaded Woods/[ShadedWoods] Metal chest on right side of the fog area"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Metal chest next to Darkdiver Grandahl",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Metal chest next to Darkdiver Grandahl", "ref": "Shaded Woods/[ShadedWoods] Metal chest next to Darkdiver Grandahl"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Metal chest next to a big tree in fog area",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Metal chest next to a big tree in fog area", "ref": "Shaded Woods/[ShadedWoods] Metal chest next to a big tree in fog area"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Metal chest blocked by petrified statue",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Metal chest blocked by petrified statue", "ref": "Shaded Woods/[ShadedWoods] Metal chest blocked by petrified statue"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Metal chest under the main shaded ruins bridge",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Metal chest under the main shaded ruins bridge", "ref": "Shaded Woods/[ShadedWoods] Metal chest under the main shaded ruins bridge"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Metal chest in area behind two petrified statues",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Metal chest in area behind two petrified statues", "ref": "Shaded Woods/[ShadedWoods] Metal chest in area behind two petrified statues"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] On ledge left side of the path to Ruined Fork Road bonfire",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] On ledge left side of the path to Ruined Fork Road bonfire", "ref": "Shaded Woods/[ShadedWoods] On ledge left side of the path to Ruined Fork Road bonfire"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Left of the building leading to Manscorpion Tark",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Left of the building leading to Manscorpion Tark", "ref": "Shaded Woods/[ShadedWoods] Left of the building leading to Manscorpion Tark"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] On a ledge on left side of the path between Ruined Fork Road bonfire and Shrine of Winter",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] On a ledge on left side of the path between Ruined Fork Road bonfire and Shrine of Winter", "ref": "Shaded Woods/[ShadedWoods] On a ledge on left side of the path between Ruined Fork Road bonfire and Shrine of Winter"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] In front of the ruined gate just before shrine of winter",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] In front of the ruined gate just before shrine of winter", "ref": "Shaded Woods/[ShadedWoods] In front of the ruined gate just before shrine of winter"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] On 2nd floor of the area with many lion warriors",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] On 2nd floor of the area with many lion warriors", "ref": "Shaded Woods/[ShadedWoods] On 2nd floor of the area with many lion warriors"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Corpse just before the stone circle next to Head of Vengarl",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Corpse just before the stone circle next to Head of Vengarl", "ref": "Shaded Woods/[ShadedWoods] Corpse just before the stone circle next to Head of Vengarl"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Corpse next to a tree in fog area",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Corpse next to a tree in fog area", "ref": "Shaded Woods/[ShadedWoods] Corpse next to a tree in fog area"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Corpse next to a big tree in fog area",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Corpse next to a big tree in fog area", "ref": "Shaded Woods/[ShadedWoods] Corpse next to a big tree in fog area"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Corpse next to a big tree in fog area in NG+",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Corpse next to a big tree in fog area in NG+", "ref": "Shaded Woods/[ShadedWoods] Corpse next to a big tree in fog area in NG+"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Corpse in the middle of the fog area",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Corpse in the middle of the fog area", "ref": "Shaded Woods/[ShadedWoods] Corpse in the middle of the fog area"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Corpse on right side of the fog area",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Corpse on right side of the fog area", "ref": "Shaded Woods/[ShadedWoods] Corpse on right side of the fog area"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Corpse on right side of the fog area in NG+",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Corpse on right side of the fog area in NG+", "ref": "Shaded Woods/[ShadedWoods] Corpse on right side of the fog area in NG+"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] On the path to Ruined Fork Road bonfire",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] On the path to Ruined Fork Road bonfire", "ref": "Shaded Woods/[ShadedWoods] On the path to Ruined Fork Road bonfire"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] On ledge next to the exit from the corrosive puddles area",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] On ledge next to the exit from the corrosive puddles area", "ref": "Shaded Woods/[ShadedWoods] On ledge next to the exit from the corrosive puddles area"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] On upper floor above Shaded Ruins bonfire",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] On upper floor above Shaded Ruins bonfire", "ref": "Shaded Woods/[ShadedWoods] On upper floor above Shaded Ruins bonfire"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Cave on right side of the door to Ornifex",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Cave on right side of the door to Ornifex", "ref": "Shaded Woods/[ShadedWoods] Cave on right side of the door to Ornifex"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Cave on right side of the door to Ornifex in NG+",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Cave on right side of the door to Ornifex in NG+", "ref": "Shaded Woods/[ShadedWoods] Cave on right side of the door to Ornifex in NG+"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Corpse next to chest in area behind two petrified statues and Vengarls body",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Corpse next to chest in area behind two petrified statues and Vengarls body", "ref": "Shaded Woods/[ShadedWoods] Corpse next to chest in area behind two petrified statues and Vengarls body"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Room where Ornifex is locked",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Room where Ornifex is locked", "ref": "Shaded Woods/[ShadedWoods] Room where Ornifex is locked"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] In the mud next to hippo",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] In the mud next to hippo", "ref": "Shaded Woods/[ShadedWoods] In the mud next to hippo"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] On collapsed stairs next to Creighton",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] On collapsed stairs next to Creighton", "ref": "Shaded Woods/[ShadedWoods] On collapsed stairs next to Creighton"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Corpse next to the big collapsing floor",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Corpse next to the big collapsing floor", "ref": "Shaded Woods/[ShadedWoods] Corpse next to the big collapsing floor"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Corpse next to the big collapsing floor in NG+",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Corpse next to the big collapsing floor in NG+", "ref": "Shaded Woods/[ShadedWoods] Corpse next to the big collapsing floor in NG+"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] On tree in Najkas arena",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] On tree in Najkas arena", "ref": "Shaded Woods/[ShadedWoods] On tree in Najkas arena"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] On lower floor of the building leading to Manscorpion Tark",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] On lower floor of the building leading to Manscorpion Tark", "ref": "Shaded Woods/[ShadedWoods] On lower floor of the building leading to Manscorpion Tark"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Next to Vengarls body",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Next to Vengarls body", "ref": "Shaded Woods/[ShadedWoods] Next to Vengarls body"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Behind the stone circle by Head of Vengarl",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Behind the stone circle by Head of Vengarl", "ref": "Shaded Woods/[ShadedWoods] Behind the stone circle by Head of Vengarl"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Corpse getting eaten by goblins just before Ruined Fork Road bonfire",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Corpse getting eaten by goblins just before Ruined Fork Road bonfire", "ref": "Shaded Woods/[ShadedWoods] Corpse getting eaten by goblins just before Ruined Fork Road bonfire"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Corpse getting eaten by goblins just before the Ruined Fork Road bonfire",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Corpse getting eaten by goblins just before the Ruined Fork Road bonfire", "ref": "Shaded Woods/[ShadedWoods] Corpse getting eaten by goblins just before the Ruined Fork Road bonfire"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Drop from the petrified lion warrior by the tree bridge",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Drop from the petrified lion warrior by the tree bridge", "ref": "Shaded Woods/[ShadedWoods] Drop from the petrified lion warrior by the tree bridge"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] Behind the ruined gate",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] Behind the ruined gate", "ref": "Shaded Woods/[ShadedWoods] Behind the ruined gate"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] On the path after Shrine of Winter",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] On the path after Shrine of Winter", "ref": "Shaded Woods/[ShadedWoods] On the path after Shrine of Winter"}]
+    },
+        
+    {
+        "name": "[ShadedWoods] On a wall along the path after Shrine of Winter",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[ShadedWoods] On a wall along the path after Shrine of Winter", "ref": "Shaded Woods/[ShadedWoods] On a wall along the path after Shrine of Winter"}]
+    },
+        
+    {
+        "name": "[Head of Vengarl] Claymore",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[Head of Vengarl] Claymore", "ref": "Shaded Woods/[Head of Vengarl] Claymore"}]
+    },
+        
+    {
+        "name": "[Head of Vengarl] Greatsword",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[Head of Vengarl] Greatsword", "ref": "Shaded Woods/[Head of Vengarl] Greatsword"}]
+    },
+        
+    {
+        "name": "[Head of Vengarl] Red Rust Sword",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[Head of Vengarl] Red Rust Sword", "ref": "Shaded Woods/[Head of Vengarl] Red Rust Sword"}]
+    },
+        
+    {
+        "name": "[Head of Vengarl] Red Rust Scimitar",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[Head of Vengarl] Red Rust Scimitar", "ref": "Shaded Woods/[Head of Vengarl] Red Rust Scimitar"}]
+    },
+        
+    {
+        "name": "[Head of Vengarl] Red Rust Shield",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[Head of Vengarl] Red Rust Shield", "ref": "Shaded Woods/[Head of Vengarl] Red Rust Shield"}]
+    },
+        
+    {
+        "name": "[Head of Vengarl] Magic Barrier",
+        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
+        "sections": [{"name": "[Head of Vengarl] Magic Barrier", "ref": "Shaded Woods/[Head of Vengarl] Magic Barrier"}]
+    }   
+]

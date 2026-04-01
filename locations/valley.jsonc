@@ -1,0 +1,325 @@
+[
+    {
+        "name": "[HarvestValley] Wooden chest inside the small cave where you meet Gavlan",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] Wooden chest inside the small cave where you meet Gavlan", "ref": "Harvest Valley/[HarvestValley] Wooden chest inside the small cave where you meet Gavlan"}]
+    },
+
+    {
+        "name": "[HarvestValley] Wooden chest inside the small cave where you meet Gavlan in NG+",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] Wooden chest inside the small cave where you meet Gavlan in NG+", "ref": "Harvest Valley/[HarvestValley] Wooden chest inside the small cave where you meet Gavlan in NG+"}]
+    },
+    
+    {
+        "name": "[HarvestValley] Metal chest next to ladders leading down into the poison filled tunnel",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] Metal chest next to ladders leading down into the poison filled tunnel", "ref": "Harvest Valley/[HarvestValley] Metal chest next to ladders leading down into the poison filled tunnel"}]
+    },
+    
+    {
+        "name": "[HarvestValley] Metal chest inside the small cave where you meet Gavlan",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] Metal chest inside the small cave where you meet Gavlan", "ref": "Harvest Valley/[HarvestValley] Metal chest inside the small cave where you meet Gavlan"}]
+    },
+    
+    {
+        "name": "[HarvestValley] Behind a plank wall in the area with multiple sickle undeads",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] Behind a plank wall in the area with multiple sickle undeads", "ref": "Harvest Valley/[HarvestValley] Behind a plank wall in the area with multiple sickle undeads"}]
+    },
+    
+    {
+        "name": "[HarvestValley] On a ledge before the first poison area",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] On a ledge before the first poison area", "ref": "Harvest Valley/[HarvestValley] On a ledge before the first poison area"}]
+    },
+    
+    {
+        "name": "[HarvestValley] On a ledge right after the first poison area",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] On a ledge right after the first poison area", "ref": "Harvest Valley/[HarvestValley] On a ledge right after the first poison area"}]
+    },
+    
+    {
+        "name": "[HarvestValley] On upper end of the ladders before the gate guarded by desert sorceress",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] On upper end of the ladders before the gate guarded by desert sorceress", "ref": "Harvest Valley/[HarvestValley] On upper end of the ladders before the gate guarded by desert sorceress"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse behind a plank wall you need a mounted overseer to break",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse behind a plank wall you need a mounted overseer to break", "ref": "Harvest Valley/[HarvestValley] A corpse behind a plank wall you need a mounted overseer to break"}]
+    },
+    
+    {
+        "name": "[HarvestValley] Behind a plank wall in the area with multiple sickle undeads (2)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] Behind a plank wall in the area with multiple sickle undeads (2)", "ref": "Harvest Valley/[HarvestValley] Behind a plank wall in the area with multiple sickle undeads (2)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse behind a plank wall you need a mounted overseer to break (2)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse behind a plank wall you need a mounted overseer to break (2)", "ref": "Harvest Valley/[HarvestValley] A corpse behind a plank wall you need a mounted overseer to break (2)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse behind a plank wall you need a mounted overseer to break (3)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse behind a plank wall you need a mounted overseer to break (3)", "ref": "Harvest Valley/[HarvestValley] A corpse behind a plank wall you need a mounted overseer to break (3)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse behind a plank wall you need a mounted overseer to break (4)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse behind a plank wall you need a mounted overseer to break (4)", "ref": "Harvest Valley/[HarvestValley] A corpse behind a plank wall you need a mounted overseer to break (4)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse inside the small cave where you meet Gavlan",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse inside the small cave where you meet Gavlan", "ref": "Harvest Valley/[HarvestValley] A corpse inside the small cave where you meet Gavlan"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area"}]
+    },
+    
+    {
+        "name": "[HarvestValley] In the poison filled tunnel closer to Earthen Peak end",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] In the poison filled tunnel closer to Earthen Peak end", "ref": "Harvest Valley/[HarvestValley] In the poison filled tunnel closer to Earthen Peak end"}]
+    },
+    
+    {
+        "name": "[HarvestValley] In a small poison filled alcove from the poison area in front of Earthen Peak",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] In a small poison filled alcove from the poison area in front of Earthen Peak", "ref": "Harvest Valley/[HarvestValley] In a small poison filled alcove from the poison area in front of Earthen Peak"}]
+    },
+    
+    {
+        "name": "[HarvestValley] In a small poison filled alcove from the poison area in front of Earthen Peak in NG+",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] In a small poison filled alcove from the poison area in front of Earthen Peak in NG+", "ref": "Harvest Valley/[HarvestValley] In a small poison filled alcove from the poison area in front of Earthen Peak in NG+"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area (2)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area (2)", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area (2)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area in NG+",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area in NG+", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area in NG+"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area (3)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area (3)", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area (3)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area (4)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area (4)", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area (4)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area (5)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area (5)", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area (5)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area (6)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area (6)", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area (6)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area (7)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area (7)", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area (7)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area (8)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area (8)", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area (8)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] In the poison filled tunnel closer to Earthen Peak",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] In the poison filled tunnel closer to Earthen Peak", "ref": "Harvest Valley/[HarvestValley] In the poison filled tunnel closer to Earthen Peak"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the poison area before Earthen Peak",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the poison area before Earthen Peak", "ref": "Harvest Valley/[HarvestValley] A corpse in the poison area before Earthen Peak"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the poison area before earthen peak",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the poison area before earthen peak", "ref": "Harvest Valley/[HarvestValley] A corpse in the poison area before earthen peak"}]
+    },
+    
+    {
+        "name": "[HarvestValley] On a ledge after the tunnel leading away from the area with multiple sickle undeads",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] On a ledge after the tunnel leading away from the area with multiple sickle undeads", "ref": "Harvest Valley/[HarvestValley] On a ledge after the tunnel leading away from the area with multiple sickle undeads"}]
+    },
+    
+    {
+        "name": "[HarvestValley] Behind a plank wall in the area with multiple sickle undeads (3)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] Behind a plank wall in the area with multiple sickle undeads (3)", "ref": "Harvest Valley/[HarvestValley] Behind a plank wall in the area with multiple sickle undeads (3)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] In the poison filled tunnel further Earthen Peak",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] In the poison filled tunnel further Earthen Peak", "ref": "Harvest Valley/[HarvestValley] In the poison filled tunnel further Earthen Peak"}]
+    },
+    
+    {
+        "name": "[HarvestValley] In a tunnel leading away from the area with multiple sickle undeads",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] In a tunnel leading away from the area with multiple sickle undeads", "ref": "Harvest Valley/[HarvestValley] In a tunnel leading away from the area with multiple sickle undeads"}]
+    },
+    
+    {
+        "name": "[HarvestValley] In a tunnel leading away from the area with multiple sickle undeads in NG+",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] In a tunnel leading away from the area with multiple sickle undeads in NG+", "ref": "Harvest Valley/[HarvestValley] In a tunnel leading away from the area with multiple sickle undeads in NG+"}]
+    },
+    
+    {
+        "name": "[HarvestValley] Behind a plank wall in the area with multiple sickle undeads (4)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] Behind a plank wall in the area with multiple sickle undeads (4)", "ref": "Harvest Valley/[HarvestValley] Behind a plank wall in the area with multiple sickle undeads (4)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] Behind a plank wall in the area with multiple sickle undeads (5)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] Behind a plank wall in the area with multiple sickle undeads (5)", "ref": "Harvest Valley/[HarvestValley] Behind a plank wall in the area with multiple sickle undeads (5)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] In the middle of the area with multiple sickle undeads",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] In the middle of the area with multiple sickle undeads", "ref": "Harvest Valley/[HarvestValley] In the middle of the area with multiple sickle undeads"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area (9)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area (9)", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area (9)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area (10)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area (10)", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area (10)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area (11)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area (11)", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area (11)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area (12)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area (12)", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area (12)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area (13)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area (13)", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area (13)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area (14)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area (14)", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area (14)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area (15)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area (15)", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area (15)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the first poison area (16)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the first poison area (16)", "ref": "Harvest Valley/[HarvestValley] A corpse in the first poison area (16)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the poison area before earthen peak (2)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the poison area before earthen peak (2)", "ref": "Harvest Valley/[HarvestValley] A corpse in the poison area before earthen peak (2)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the poison area before earthen peak (3)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the poison area before earthen peak (3)", "ref": "Harvest Valley/[HarvestValley] A corpse in the poison area before earthen peak (3)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the poison area before earthen peak (4)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the poison area before earthen peak (4)", "ref": "Harvest Valley/[HarvestValley] A corpse in the poison area before earthen peak (4)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the poison area before earthen peak (5)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the poison area before earthen peak (5)", "ref": "Harvest Valley/[HarvestValley] A corpse in the poison area before earthen peak (5)"}]
+    },
+    
+    {
+        "name": "[HarvestValley] A corpse in the poison area before earthen peak (6)",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[HarvestValley] A corpse in the poison area before earthen peak (6)", "ref": "Harvest Valley/[HarvestValley] A corpse in the poison area before earthen peak (6)"}]
+    },
+    
+    {
+        "name": "[Stone Trader Chloanne] Soul Appease",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[Stone Trader Chloanne] Soul Appease", "ref": "Harvest Valley/[Stone Trader Chloanne] Soul Appease"}]
+    },
+    
+    {
+        "name": "[Stone Trader Chloanne] Dead Again",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[Stone Trader Chloanne] Dead Again", "ref": "Harvest Valley/[Stone Trader Chloanne] Dead Again"}]
+    },
+    
+    {
+        "name": "[Stone Trader Chloanne] Bonfire Ascetic",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[Stone Trader Chloanne] Bonfire Ascetic", "ref": "Harvest Valley/[Stone Trader Chloanne] Bonfire Ascetic"}]
+    },
+    
+    {
+        "name": "[Stone Trader Chloanne/Velstadt] Titanite Slab",
+        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
+        "sections": [{"name": "[Stone Trader Chloanne/Velstadt] Titanite Slab", "ref": "Harvest Valley/[Stone Trader Chloanne/Velstadt] Titanite Slab"}]
+    }
+]

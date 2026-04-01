@@ -1,0 +1,49 @@
+[
+    {
+        "name": "[BelfrySol] Metal chest behind illusory wall after Belfry Sol exit",
+        "map_locations": [{"map": "Belfry Sol", "x": "0", "y": 0}],
+        "sections": [{"name": "[BelfrySol] Metal chest behind illusory wall after Belfry Sol exit", "ref": "Belfry Sol/[BelfrySol] Metal chest behind illusory wall after Belfry Sol exit"}]
+    },
+
+    {
+        "name": "[BelfrySol] Metal chest behind illusory wall after Belfry Sol exit (2)",
+        "map_locations": [{"map": "Belfry Sol", "x": "0", "y": 0}],
+        "sections": [{"name": "[BelfrySol] Metal chest behind illusory wall after Belfry Sol exit (2)", "ref": "Belfry Sol/[BelfrySol] Metal chest behind illusory wall after Belfry Sol exit (2)"}]
+    },
+
+    {
+        "name": "[BelfrySol] Metal chest immediately after completing Belfy Sol",
+        "map_locations": [{"map": "Belfry Sol", "x": "0", "y": 0}],
+        "sections": [{"name": "[BelfrySol] Metal chest immediately after completing Belfy Sol", "ref": "Belfry Sol/[BelfrySol] Metal chest immediately after completing Belfy Sol"}]
+    },
+
+    {
+        "name": "[BelfrySol] Metal chest next to Belfry Sol bonfire",
+        "map_locations": [{"map": "Belfry Sol", "x": "0", "y": 0}],
+        "sections": [{"name": "[BelfrySol] Metal chest next to Belfry Sol bonfire", "ref": "Belfry Sol/[BelfrySol] Metal chest next to Belfry Sol bonfire"}]
+    },
+
+    {
+        "name": "[BelfrySol] Behind the Belfry",
+        "map_locations": [{"map": "Belfry Sol", "x": "0", "y": 0}],
+        "sections": [{"name": "[BelfrySol] Behind the Belfry", "ref": "Belfry Sol/[BelfrySol] Behind the Belfry"}]
+    },
+
+    {
+        "name": "[BelfrySol] On the far side of the sloped roof in Belfry Sol",
+        "map_locations": [{"map": "Belfry Sol", "x": "0", "y": 0}],
+        "sections": [{"name": "[BelfrySol] On the far side of the sloped roof in Belfry Sol", "ref": "Belfry Sol/[BelfrySol] On the far side of the sloped roof in Belfry Sol"}]
+    },
+
+    {
+        "name": "[BelfrySol] Next to the ladder near the exit of Belfry Sol",
+        "map_locations": [{"map": "Belfry Sol", "x": "0", "y": 0}],
+        "sections": [{"name": "[BelfrySol] Next to the ladder near the exit of Belfry Sol", "ref": "Belfry Sol/[BelfrySol] Next to the ladder near the exit of Belfry Sol"}]
+    },
+
+    {
+        "name": "[BelfrySol] Corpse at bottom of stairs after Belfy Sol exit",
+        "map_locations": [{"map": "Belfry Sol", "x": "0", "y": 0}],
+        "sections": [{"name": "[BelfrySol] Corpse at bottom of stairs after Belfy Sol exit", "ref": "Belfry Sol/[BelfrySol] Corpse at bottom of stairs after Belfy Sol exit"}]
+    }
+]

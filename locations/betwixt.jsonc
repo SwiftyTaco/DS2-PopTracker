@@ -1,0 +1,66 @@
+[
+  {
+    "name": "[Betwixt] Wooden chest at the attic of Fire Keepers cottage",
+    "map_locations": [{"map": "Thing's Betwixt", "x": 0, "y": 0}],
+    "sections": [{"name": "[Betwixt] Wooden chest at the attic of Fire Keepers cottage", "ref": "Thing's Betwixt/[Betwixt] Wooden chest at the attic of Fire Keepers cottage"}]
+  },
+  {
+    "name": "[Betwixt] On the right side ledge before Fire Keepers cottage", 
+    "map_locations": [{"map": "Thing's Betwixt", "x": 0, "y": 0}], 
+    "sections": [{"name": "[Betwixt] On the right side ledge before Fire Keepers cottage", "ref": "Thing's Betwixt/[Betwixt] On the right side ledge before Fire Keepers cottage"}]
+  },{
+    "name": "[Betwixt] On the right side ledge before Fire Keepers cottage in NG+", 
+    "map_locations": [{"map": "Thing's Betwixt", "x": 0, "y": 0}], 
+    "sections": [{"name": "[Betwixt] On the right side ledge before Fire Keepers cottage in NG+", "ref": "Thing's Betwixt/[Betwixt] On the right side ledge before Fire Keepers cottage in NG+"}]
+  },
+  {
+    "name": "[Betwixt] Guarded by hippo before Fire Keepers cottage",
+    "map_locations": [{"map": "Thing's Betwixt", "x": 0, "y": 0}],
+    "sections": [{"name": "[Betwixt] Guarded by hippo before Fire Keepers cottage", "ref": "Thing's Betwixt/[Betwixt] Guarded by hippo before Fire Keepers cottage"}]
+  },
+  {
+    "name": "[Betwixt] Under waterfall", 
+    "map_locations": [{"map": "Thing's Betwixt", "x": 0, "y": 0}], 
+    "sections": [{"name": "[Betwixt] Under waterfall", "ref": "Thing's Betwixt/[Betwixt] Under waterfall"}]
+  },
+  {
+    "name": "[Betwixt] Under waterfall in NG+", 
+    "map_locations": [{"map": "Thing's Betwixt", "x": 0, "y": 0}], 
+    "sections": [{"name": "[Betwixt] Under waterfall in NG+", "ref": "Thing's Betwixt/[Betwixt] Under waterfall in NG+"}]
+  },
+  {
+    "name": "[Betwixt] One ledge down from the crow nest", 
+    "map_locations": [{"map": "Thing's Betwixt", "x": 0, "y": 0}], 
+    "sections": [{"name": "[Betwixt] One ledge down from the crow nest", "ref": "Thing's Betwixt/[Betwixt] One ledge down from the crow nest"}]
+  },
+  {
+    "name": "[Betwixt] Behind the wagon next to bonfire", 
+    "map_locations": [{"map": "Thing's Betwixt", "x": 0, "y": 0}], 
+    "sections": [{"name": "[Betwixt] Behind the wagon next to bonfire", "ref": "Thing's Betwixt/[Betwixt] Behind the wagon next to bonfire"}]
+  },
+  {
+    "name": "[Betwixt] Behind a door in small alcove", 
+    "map_locations": [{"map": "Thing's Betwixt", "x": 0, "y": 0}], 
+    "sections": [{"name": "[Betwixt] Behind a door in small alcove", "ref": "Thing's Betwixt/[Betwixt] Behind a door in small alcove"}]
+  },
+  {
+    "name": "[Betwixt] On path after the backstab tutorial", 
+    "map_locations": [{"map": "Thing's Betwixt", "x": 0, "y": 0}], 
+    "sections": [{"name": "[Betwixt] On path after the backstab tutorial", "ref": "Thing's Betwixt/[Betwixt] On path after the backstab tutorial"}]
+  },
+  {
+    "name": "[Betwixt] Next to fog gate and archer", 
+    "map_locations": [{"map": "Thing's Betwixt", "x": 0, "y": 0}], 
+    "sections": [{"name": "[Betwixt] Next to fog gate and archer", "ref": "Thing's Betwixt/[Betwixt] Next to fog gate and archer"}]
+  },
+  {
+    "name": "[Betwixt] Other side of the jumpable gap", 
+    "map_locations": [{"map": "Thing's Betwixt", "x": 0, "y": 0}], 
+    "sections": [{"name": "[Betwixt] Other side of the jumpable gap", "ref": "Thing's Betwixt/[Betwixt] Other side of the jumpable gap"}]
+  },
+  {
+    "name": "[Betwixt] In the basilisk pit", 
+    "map_locations": [{"map": "Thing's Betwixt", "x": 0, "y": 0}], 
+    "sections": [{"name": "[Betwixt] In the basilisk pit", "ref": "Thing's Betwixt/[Betwixt] In the basilisk pit"}]
+  }
+]

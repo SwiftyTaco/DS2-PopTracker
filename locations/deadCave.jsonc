@@ -1,0 +1,49 @@
+[
+    {
+        "name": "[DLC1] Gank Squad drop",
+        "map_locations": [{"map": "Cave of the Dead", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] Gank Squad drop", "ref": "Cave of the Dead/[DLC1] Gank Squad drop"}]
+    },
+
+    {
+        "name": "[DLC1] Gank Squad drop in NG+",
+        "map_locations": [{"map": "Cave of the Dead", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] Gank Squad drop in NG+", "ref": "Cave of the Dead/[DLC1] Gank Squad drop in NG+"}]
+    },
+
+    {
+        "name": "[DLC1] Metal chest after gank squad fight",
+        "map_locations": [{"map": "Cave of the Dead", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] Metal chest after gank squad fight", "ref": "Cave of the Dead/[DLC1] Metal chest after gank squad fight"}]
+    },
+
+    {
+        "name": "[DLC1] Metal chest in the Cave of the Dead",
+        "map_locations": [{"map": "Cave of the Dead", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] Metal chest in the Cave of the Dead", "ref": "Cave of the Dead/[DLC1] Metal chest in the Cave of the Dead"}]
+    },
+
+    {
+        "name": "[DLC1] In the cave of the dead",
+        "map_locations": [{"map": "Cave of the Dead", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] In the cave of the dead", "ref": "Cave of the Dead/[DLC1] In the cave of the dead"}]
+    },
+
+    {
+        "name": "[DLC1] In the cave of the dead (2)",
+        "map_locations": [{"map": "Cave of the Dead", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] In the cave of the dead (2)", "ref": "Cave of the Dead/[DLC1] In the cave of the dead (2)"}]
+    },
+
+    {
+        "name": "[DLC1] In the lower level of the Cave of the Dead",
+        "map_locations": [{"map": "Cave of the Dead", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] In the lower level of the Cave of the Dead", "ref": "Cave of the Dead/[DLC1] In the lower level of the Cave of the Dead"}]
+    },
+
+    {
+        "name": "[DLC1] Corpse after Gank Squad fight}",
+        "map_locations": [{"map": "Cave of the Dead", "x": "", "y": ""}],
+        "sections": [{"name": "[DLC1] Corpse after Gank Squad fight}", "ref": "Cave of the Dead/[DLC1] Corpse after Gank Squad fight}"}]
+    }
+]

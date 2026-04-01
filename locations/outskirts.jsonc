@@ -1,0 +1,55 @@
+[
+    {
+        "name": "[DLC3] Lud and Zallen drop",
+        "map_locations": [{"map": "Frigid Outskirts", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In the first house in Frigid Outskirts",
+        "map_locations": [{"map": "Frigid Outskirts", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Between the first and the second house in Frigid Outskirts",
+        "map_locations": [{"map": "Frigid Outskirts", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Outside the first house in Frigid Outskirts",
+        "map_locations": [{"map": "Frigid Outskirts", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Between the second and the third house in Frigid Outskirts",
+        "map_locations": [{"map": "Frigid Outskirts", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In the third house in Frigid Outskirts",
+        "map_locations": [{"map": "Frigid Outskirts", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On ledge just before bridge to Lud and Zallen",
+        "map_locations": [{"map": "Frigid Outskirts", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Under the coffin you ride in on in Frigid Outskirts",
+        "map_locations": [{"map": "Frigid Outskirts", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In one of the coffins at the start of Frigid Outskirts",
+        "map_locations": [{"map": "Frigid Outskirts", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    }
+]

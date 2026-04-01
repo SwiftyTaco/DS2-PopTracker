@@ -1,0 +1,582 @@
+[
+    {
+     "name": "[FOFG] Last Giant drop" ,
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Last Giant drop", "ref": "Forest of Fallen Giants/[FOFG] Last Giant drop"}]
+    },
+
+    {
+     "name": "[FOFG] Gift from Cale when talking to him",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Gift from Cale when talking to him", "ref": "Forest of Fallen Giants/[FOFG] Gift from Cale when talking to him"}]
+    },
+
+    {
+     "name": "[FOFG] Wooden chest in upper floor of cardinal tower",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Wooden chest in upper floor of cardinal tower", "ref": "Forest of Fallen Giants/[FOFG] Wooden chest in upper floor of cardinal tower"}]
+    },
+
+    {
+     "name": "[FOFG] Wooden chest under the bridge after the drawgate",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Wooden chest under the bridge after the drawgate", "ref": "Forest of Fallen Giants/[FOFG] Wooden chest under the bridge after the drawgate"}]
+    },
+
+    {
+     "name": "[FOFG] Wooden chest under the bridge after the drawgate in NG+",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Wooden chest under the bridge after the drawgate in NG+", "ref": "Forest of Fallen Giants/[FOFG] Wooden chest under the bridge after the drawgate in NG+"}]
+    },
+
+    {
+     "name": "[FOFG] Metal chest in the side room under the ballista-trap",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Metal chest in the side room under the ballista-trap", "ref": "Forest of Fallen Giants/[FOFG] Metal chest in the side room under the ballista-trap"}]
+    },
+
+    {
+     "name": "[FOFG] Trapped wooden chest under the ballista-trap",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Trapped wooden chest under the ballista-trap", "ref": "Forest of Fallen Giants/[FOFG] Trapped wooden chest under the ballista-trap"}]
+    },
+
+    {
+     "name": "[FOFG] Trapped wooden chest under the ballista-trap in NG+",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Trapped wooden chest under the ballista-trap in NG+", "ref": "Forest of Fallen Giants/[FOFG] Trapped wooden chest under the ballista-trap in NG+"}]
+    },
+
+    {
+     "name": "[FOFG] Metal chest in upper floor of cardinal tower",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Metal chest in upper floor of cardinal tower", "ref": "Forest of Fallen Giants/[FOFG] Metal chest in upper floor of cardinal tower"}]
+    },
+
+    {
+     "name": "[FOFG] First metal chest behind Pharros contraption under the ballista-trap",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] First metal chest behind Pharros contraption under the ballista-trap", "ref": "Forest of Fallen Giants/[FOFG] First metal chest behind Pharros contraption under the ballista-trap"}]
+    },
+    {
+     "name": "[FOFG] Second metal chest behind Pharros contraption under the ballista-trap",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Second metal chest behind Pharros contraption under the ballista-trap", "ref": "Forest of Fallen Giants/[FOFG] Second metal chest behind Pharros contraption under the ballista-trap"}]
+    },
+
+    {
+     "name": "[FOFG] Metal chest in the guard room over the barrel courtyard",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Metal chest in the guard room over the barrel courtyard", "ref": "Forest of Fallen Giants/[FOFG] Metal chest in the guard room over the barrel courtyard"}]
+    },
+
+    {
+     "name": "[FOFG] Metal chest in the tunnel where you get fireballed by a salamander",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Metal chest in the tunnel where you get fireballed by a salamander", "ref": "Forest of Fallen Giants/[FOFG] Metal chest in the tunnel where you get fireballed by a salamander"}]
+    },
+
+    {
+     "name": "[FOFG] Metal chest behind a illusory wall after the gate trap room",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Metal chest behind a illusory wall after the gate trap room", "ref": "Forest of Fallen Giants/[FOFG] Metal chest behind a illusory wall after the gate trap room"}]
+    },
+
+    {
+     "name": "[FOFG] At the end of the small stream",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] At the end of the small stream", "ref": "Forest of Fallen Giants/[FOFG] At the end of the small stream"}]
+    },
+
+    {
+     "name": "[FOFG] At the right of the water stream right before the bonfire",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] At the right of the water stream right before the bonfire", "ref": "Forest of Fallen Giants/[FOFG] At the right of the water stream right before the bonfire"}]
+    },
+
+    {
+     "name": "[FOFG] Next to turtle in seashore hall",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Next to turtle in seashore hall", "ref": "Forest of Fallen Giants/[FOFG] Next to turtle in seashore hall"}]
+    },
+
+    {
+     "name": "[FOFG] Drop onto tree branch from upper floor of Cardinal Tower",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Drop onto tree branch from upper floor of Cardinal Tower", "ref": "Forest of Fallen Giants/[FOFG] Drop onto tree branch from upper floor of Cardinal Tower"}]
+    },
+
+    {
+     "name": "[FOFG] Behind a shelf in small side room after the first fog gate",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Behind a shelf in small side room after the first fog gate", "ref": "Forest of Fallen Giants/[FOFG] Behind a shelf in small side room after the first fog gate"}]
+    },
+
+    {
+     "name": "[FOFG] Behind a shelf in small side room after the first fog gate in NG+",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Behind a shelf in small side room after the first fog gate in NG+1", "ref": "Forest of Fallen Giants/[FOFG] Behind a shelf in small side room after the first fog gate in NG+1"}]
+    },
+
+    {
+     "name": "[FOFG] Above the door leading to Pursuer arena",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Above the door leading to Pursuer arena", "ref": "Forest of Fallen Giants/[FOFG] Above the door leading to Pursuer arena"}]
+    },
+
+    {
+     "name": "[FOFG] On the huge sword",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] On the huge sword", "ref": "Forest of Fallen Giants/[FOFG] On the huge sword"}]
+    },
+
+    {
+     "name": "[FOFG] Corpse in the watery cave in the beginning of the area",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Corpse in the watery cave in the beginning of the area", "ref": "Forest of Fallen Giants/[FOFG] Corpse in the watery cave in the beginning of the area"}]
+    },
+
+    {
+     "name": "[FOFG] Behind the soldier that stands on tree root and throws fire bombs just before Cardinal Tower",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Behind the soldier that stands on tree root and throws fire bombs just before Cardinal Tower", "ref": "Forest of Fallen Giants/[FOFG] Behind the soldier that stands on tree root and throws fire bombs just before Cardinal Tower"}]
+    },
+
+    {
+     "name": "[FOFG] Just before Cale on boulder path",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Just before Cale on boulder path", "ref": "Forest of Fallen Giants/[FOFG] Just before Cale on boulder path"}]
+    },
+
+    {
+     "name": "[FOFG] At corridor after the gate trap",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] At corridor after the gate trap", "ref": "Forest of Fallen Giants/[FOFG] At corridor after the gate trap"}]
+    },
+
+    {
+     "name": "[FOFG] On higher level requiring a jump from area before first fog gate",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] On higher level requiring a jump from area before first fog gate", "ref": "Forest of Fallen Giants/[FOFG] On higher level requiring a jump from area before first fog gate"}]
+    },
+
+    {
+     "name": "[FOFG] Behind the stairs outside the ballista trap room",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Behind the stairs outside the ballista trap room", "ref": "Forest of Fallen Giants/[FOFG] Behind the stairs outside the ballista trap room"}]
+    },
+
+    {
+     "name": "[FOFG] Behind the giant-tree in the middle courtyard",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Behind the giant-tree in the middle courtyard", "ref": "Forest of Fallen Giants/[FOFG] Behind the giant-tree in the middle courtyard"}]
+    },
+
+    {
+     "name": "[FOFG] On upper ledge of the circular room before the first fog gate",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] On upper ledge of the circular room before the first fog gate", "ref": "Forest of Fallen Giants/[FOFG] On upper ledge of the circular room before the first fog gate"}]
+    },
+
+    {
+     "name": "[FOFG] On a giant tree root",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] On a giant tree root", "ref": "Forest of Fallen Giants/[FOFG] On a giant tree root"}]
+    },
+
+    {
+     "name": "[FOFG] On the wall after climbing the ladder by Memory of Vammar",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] On the wall after climbing the ladder by Memory of Vammar", "ref": "Forest of Fallen Giants/[FOFG] On the wall after climbing the ladder by Memory of Vammar"}]
+    },
+
+    {
+     "name": "[FOFG] A corpse in the circular room before the first fog gate",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] A corpse in the circular room before the first fog gate", "ref": "Forest of Fallen Giants/[FOFG] A corpse in the circular room before the first fog gate"}]
+    },
+
+    {
+     "name": "[FOFG] In the round tower where you drop from a tree root",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] In the round tower where you drop from a tree root", "ref": "Forest of Fallen Giants/[FOFG] In the round tower where you drop from a tree root"}]
+    },
+
+    {
+     "name": "[FOFG] Lower end of dead end stairs near the seaside fog gate",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Lower end of dead end stairs near the seaside fog gate", "ref": "Forest of Fallen Giants/[FOFG] Lower end of dead end stairs near the seaside fog gate"}]
+    },
+
+    {
+     "name": "[FOFG] A corpse in the circular room before the first fog gate (2)",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] A corpse in the circular room before the first fog gate (2)", "ref": "Forest of Fallen Giants/[FOFG] A corpse in the circular room before the first fog gate (2)"}]
+    },
+
+    {
+     "name": "[FOFG] On ledge near the scaffolding in front of Cardinal Tower",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] On ledge near the scaffolding in front of Cardinal Tower", "ref": "Forest of Fallen Giants/[FOFG] On ledge near the scaffolding in front of Cardinal Tower"}]
+    },
+
+    {
+     "name": "[FOFG] A corpse in the circular room before the first fog gate (3)",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] A corpse in the circular room before the first fog gate (3)", "ref": "Forest of Fallen Giants/[FOFG] A corpse in the circular room before the first fog gate (3)"}]
+    },
+
+    {
+     "name": "[FOFG] On the other end of the small bridge going over the fire area",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] On the other end of the small bridge going over the fire area", "ref": "Forest of Fallen Giants/[FOFG] On the other end of the small bridge going over the fire area"}]
+    },
+
+    {
+     "name": "[FOFG] On ledge next to Cale",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] On ledge next to Cale", "ref": "Forest of Fallen Giants/[FOFG] On ledge next to Cale"}]
+    },
+
+    {
+     "name": "[FOFG] On ledge next to Cale in NG+",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] On ledge next to Cale in NG+", "ref": "Forest of Fallen Giants/[FOFG] On ledge next to Cale in NG+"}]
+    },
+
+    {
+     "name": "[FOFG] On floor just outside the lower Salamander pit exit",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] On floor just outside the lower Salamander pit exit", "ref": "Forest of Fallen Giants/[FOFG] On floor just outside the lower Salamander pit exit"}]
+    },
+
+    {
+     "name": "[FOFG] On topmost ledge of the circular room",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] On topmost ledge of the circular room", "ref": "Forest of Fallen Giants/[FOFG] On topmost ledge of the circular room"}]
+    },
+
+    {
+     "name": "[FOFG] Behind corner outside cardinal tower",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Behind corner outside cardinal tower", "ref": "Forest of Fallen Giants/[FOFG] Behind corner outside cardinal tower"}]
+    },
+
+    {
+     "name": "[FOFG] In front of the pile of garbage that blocks the big gate to the fire area",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] In front of the pile of garbage that blocks the big gate to the fire area", "ref": "Forest of Fallen Giants/[FOFG] In front of the pile of garbage that blocks the big gate to the fire area"}]
+    },
+
+    {
+     "name": "[FOFG] Next to upper level of the elevator",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Next to upper level of the elevator", "ref": "Forest of Fallen Giants/[FOFG] Next to upper level of the elevator"}]
+    },
+
+    {
+     "name": "[FOFG] In the middle of the ballista trap area",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] In the middle of the ballista trap area", "ref": "Forest of Fallen Giants/[FOFG] In the middle of the ballista trap area"}]
+    },
+
+    {
+     "name": "[FOFG] In the middle of the ballista trap area (2)",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] In the middle of the ballista trap area (2)", "ref": "Forest of Fallen Giants/[FOFG] In the middle of the ballista trap area (2)"}]
+    },
+
+    {
+     "name": "[FOFG] Behind the wagon at Cardinal Tower upper floor",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Behind the wagon at Cardinal Tower upper floor", "ref": "Forest of Fallen Giants/[FOFG] Behind the wagon at Cardinal Tower upper floor"}]
+    },
+
+    {
+     "name": "[FOFG] On wooden floor boards above the guard room over the courtyard",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] On wooden floor boards above the guard room over the courtyard", "ref": "Forest of Fallen Giants/[FOFG] On wooden floor boards above the guard room over the courtyard"}]
+    },
+
+    {
+     "name": "[FOFG] Second corpse on the platform where you meet pursuer for first time",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Second corpse on the platform where you meet pursuer for first time", "ref": "Forest of Fallen Giants/[FOFG] Second corpse on the platform where you meet pursuer for first time"}]
+    },
+
+    {
+     "name": "[FOFG] Third corpse on the platform where you meet pursuer for first time",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Third corpse on the platform where you meet pursuer for first time", "ref": "Forest of Fallen Giants/[FOFG] Third corpse on the platform where you meet pursuer for first time"}]
+    },
+
+    {
+     "name": "[FOFG] Fourth corpse on the platform where you meet pursuer for first time",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Fourth corpse on the platform where you meet pursuer for first time", "ref": "Forest of Fallen Giants/[FOFG] Fourth corpse on the platform where you meet pursuer for first time"}]
+    },
+
+    {
+     "name": "[FOFG] First corpse on the platform where you meet pursuer for first time",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] First corpse on the platform where you meet pursuer for first time", "ref": "Forest of Fallen Giants/[FOFG] First corpse on the platform where you meet pursuer for first time"}]
+    },
+
+    {
+     "name": "[FOFG] At the hole in the wall before cardinal tower",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] At the hole in the wall before cardinal tower", "ref": "Forest of Fallen Giants/[FOFG] At the hole in the wall before cardinal tower"}]
+    },
+
+    {
+     "name": "[FOFG] Behind a table at cardinal tower upper floor",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Behind a table at cardinal tower upper floor", "ref": "Forest of Fallen Giants/[FOFG] Behind a table at cardinal tower upper floor"}]
+    },
+
+    {
+     "name": "[FOFG] A corpse in the circular room before the first fog gate (4)",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] A corpse in the circular room before the first fog gate (4)", "ref": "Forest of Fallen Giants/[FOFG] A corpse in the circular room before the first fog gate (4)"}]
+    },
+
+    {
+     "name": "[FOFG] A corpse in the circular room before the first fog gate (5)",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] A corpse in the circular room before the first fog gate (5)", "ref": "Forest of Fallen Giants/[FOFG] A corpse in the circular room before the first fog gate (5)"}]
+    },
+
+    {
+     "name": "[FOFG] Under a tree above the small tunnel guarded by turtle",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Under a tree above the small tunnel guarded by turtle", "ref": "Forest of Fallen Giants/[FOFG] Under a tree above the small tunnel guarded by turtle"}]
+    },
+
+    {
+     "name": "[Merchant Hag Melentia] Broken Straight Sword",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[Merchant Hag Melentia] Broken Straight Sword", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Broken Straight Sword"}]
+    },
+
+    {
+     "name": "[Merchant Hag Melentia] Hand Axe",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[Merchant Hag Melentia] Hand Axe", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Hand Axe"}]
+    },
+
+    {
+     "name": "[Merchant Hag Melentia] Club",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[Merchant Hag Melentia] Club", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Club"}]
+    },
+
+    {
+     "name": "[Merchant Hag Melentia] Caestus",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[Merchant Hag Melentia] Caestus", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Caestus"}]
+    },
+
+    {
+     "name": "[Merchant Hag Melentia] Traveling Merchant Hat",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[Merchant Hag Melentia] Traveling Merchant Hat", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Traveling Merchant Hat"}]
+    },
+
+    {
+     "name": "[Merchant Hag Melentia] Traveling Merchant Coat",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[Merchant Hag Melentia] Traveling Merchant Coat", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Traveling Merchant Coat"}]
+    },
+
+    {
+     "name": "[Merchant Hag Melentia] Traveling Merchant Gloves",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[Merchant Hag Melentia] Traveling Merchant Gloves", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Traveling Merchant Gloves"}]
+    },
+
+    {
+     "name": "[Merchant Hag Melentia] Traveling Merchant Boots",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[Merchant Hag Melentia] Traveling Merchant Boots", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Traveling Merchant Boots"}]
+    },
+
+    {
+     "name": "[Merchant Hag Melentia] Soul Arrow",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[Merchant Hag Melentia] Soul Arrow", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Soul Arrow"}]
+    },
+
+    {
+     "name": "[Merchant Hag Melentia] Heal",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[Merchant Hag Melentia] Heal", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Heal"}]
+    },
+
+    {
+     "name": "[Merchant Hag Melentia] Lenigrasts Key",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[Merchant Hag Melentia] Lenigrasts Key", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Lenigrasts Key"}]
+    },
+
+    {
+     "name": "[Merchant Hag Melentia] Pharros Lockstone",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[Merchant Hag Melentia] Pharros Lockstone", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Pharros Lockstone"}]
+    },
+
+    {
+     "name": "[Merchant Hag Melentia] Fragrant Branch of Yore",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[Merchant Hag Melentia] Fragrant Branch of Yore", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Fragrant Branch of Yore"}]
+    },
+
+    {
+     "name": "[FOFG] Metal chest in the top-level of Salamander pit",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Metal chest in the top-level of Salamander pit", "ref": "Forest of Fallen Giants/[FOFG] Metal chest in the top-level of Salamander pit"}]
+    },
+
+    {
+     "name": "[FOFG] In small tunnel guarded by turtle",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] In small tunnel guarded by turtle", "ref": "Forest of Fallen Giants/[FOFG] In small tunnel guarded by turtle"}]
+    },
+
+    {
+     "name": "[FOFG] First corpse in the lower fire area",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] First corpse in the lower fire area", "ref": "Forest of Fallen Giants/[FOFG] First corpse in the lower fire area"}]
+    },
+
+    {
+     "name": "[FOFG] Second corpse in the lower fire area",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Second corpse in the lower fire area", "ref": "Forest of Fallen Giants/[FOFG] Second corpse in the lower fire area"}]
+    },
+
+    {
+     "name": "[FOFG] First corpse in the upper fire area",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] First corpse in the upper fire area", "ref": "Forest of Fallen Giants/[FOFG] First corpse in the upper fire area"}]
+    },
+
+    {
+     "name": "[FOFG] Second corpse in the upper fire area",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Second corpse in the upper fire area", "ref": "Forest of Fallen Giants/[FOFG] Second corpse in the upper fire area"}]
+    },
+
+    {
+     "name": "[FOFG] Third corpse in the upper fire area",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Third corpse in the upper fire area", "ref": "Forest of Fallen Giants/[FOFG] Third corpse in the upper fire area"}]
+    },
+
+    {
+     "name": "[FOFG] Pursuer (in the proper arena)/drop",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Pursuer (in the proper arena)/drop", "ref": "Forest of Fallen Giants/[FOFG] Pursuer (in the proper arena)/drop"}]
+    },
+
+    {
+     "name": "[FOFG] Wooden chest in a side corridor on the way to the kings door",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Wooden chest in a side corridor on the way to the kings door", "ref": "Forest of Fallen Giants/[FOFG] Wooden chest in a side corridor on the way to the kings door"}]
+    },
+
+    {
+     "name": "[FOFG] Wooden chest next to kings door",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Wooden chest next to kings door", "ref": "Forest of Fallen Giants/[FOFG] Wooden chest next to kings door"}]
+    },
+
+    {
+     "name": "[FOFG] Wooden chest near Soldiers Rest bonfire",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Wooden chest near Soldiers Rest bonfire", "ref": "Forest of Fallen Giants/[FOFG] Wooden chest near Soldiers Rest bonfire"}]
+    },
+
+    {
+     "name": "[FOFG] First corpse at rooftop near Soldiers Rest bonfire",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] First corpse at rooftop near Soldiers Rest bonfire", "ref": "Forest of Fallen Giants/[FOFG] First corpse at rooftop near Soldiers Rest bonfire"}]
+    },
+
+    {
+     "name": "[FOFG] In the beginning of the dark skeleton tunnel",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] In the beginning of the dark skeleton tunnel", "ref": "Forest of Fallen Giants/[FOFG] In the beginning of the dark skeleton tunnel"}]
+    },
+
+    {
+     "name": "[FOFG] At the end of the dark skeleton tunnel",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] At the end of the dark skeleton tunnel", "ref": "Forest of Fallen Giants/[FOFG] At the end of the dark skeleton tunnel"}]
+    },
+
+    {
+     "name": "[FOFG] In the small stone house near Soldiers Rest bonfire",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] In the small stone house near Soldiers Rest bonfire", "ref": "Forest of Fallen Giants/[FOFG] In the small stone house near Soldiers Rest bonfire"}]
+    },
+
+    {
+     "name": "[FOFG] Next to ruined house by water near Soldiers Rest",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Next to ruined house by water near Soldiers Rest", "ref": "Forest of Fallen Giants/[FOFG] Next to ruined house by water near Soldiers Rest"}]
+    },
+
+    {
+     "name": "[FOFG] In a crevasse in floor near the eagles nest",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] In a crevasse in floor near the eagles nest", "ref": "Forest of Fallen Giants/[FOFG] In a crevasse in floor near the eagles nest"}]
+    },
+
+    {
+     "name": "[FOFG] Just before pursuer arena",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Just before pursuer arena", "ref": "Forest of Fallen Giants/[FOFG] Just before pursuer arena"}]
+    },
+
+    {
+     "name": "[FOFG] Just before pursuer arena in NG+",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Just before pursuer arena in NG+", "ref": "Forest of Fallen Giants/[FOFG] Just before pursuer arena in NG+"}]
+    },
+
+    {
+     "name": "[FOFG] Next to portcullis near Soldiers rest bonfire",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Next to portcullis near Soldiers rest bonfire", "ref": "Forest of Fallen Giants/[FOFG] Next to portcullis near Soldiers rest bonfire"}]
+    },
+
+    {
+     "name": "[FOFG] Corpse next to kings door",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Corpse next to kings door", "ref": "Forest of Fallen Giants/[FOFG] Corpse next to kings door"}]
+    },
+
+    {
+     "name": "[FOFG] Second corpse at rooftop near Soldiers Rest bonfire",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Second corpse at rooftop near Soldiers Rest bonfire", "ref": "Forest of Fallen Giants/[FOFG] Second corpse at rooftop near Soldiers Rest bonfire"}]
+    },
+
+    {
+     "name": "[FOFG] Third corpse at rooftop near Soldiers Rest bonfire",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Third corpse at rooftop near Soldiers Rest bonfire", "ref": "Forest of Fallen Giants/[FOFG] Third corpse at rooftop near Soldiers Rest bonfire"}]
+    },
+
+    {
+     "name": "[FOFG] Fourth corpse at rooftop near Soldiers Rest bonfire",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] Fourth corpse at rooftop near Soldiers Rest bonfire", "ref": "Forest of Fallen Giants/[FOFG] Fourth corpse at rooftop near Soldiers Rest bonfire"}]
+    },
+
+    {
+     "name": "[FOFG] On scaffolding near the Place Unbeknownst bonfire",
+     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
+     "sections": [{"name": "[FOFG] On scaffolding near the Place Unbeknownst bonfire", "ref": "Forest of Fallen Giants/[FOFG] On scaffolding near the Place Unbeknownst bonfire"}]
+    }
+]

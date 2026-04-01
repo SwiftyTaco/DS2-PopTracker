@@ -1,0 +1,79 @@
+[
+    {
+        "name": "[SinnersRise] Lost Sinner drop",
+        "map_locations": [{"map": "Sinner's Rise", "x": 0, "y": 0}],
+        "sections": [{"name": "[SinnersRise] Lost Sinner drop", "ref": ""}]
+    },
+
+    {
+        "name": "[SinnersRise] Lost Sinner drop in NG+",
+        "map_locations": [{"map": "Sinner's Rise", "x": 0, "y": 0}],
+        "sections": [{"name": "[SinnersRise] Lost Sinner drop in NG+", "ref": ""}]
+    },
+
+    {
+        "name": "[SinnersRise] Metal chest after the lost sinner",
+        "map_locations": [{"map": "Sinner's Rise", "x": 0, "y": 0}],
+        "sections": [{"name": "[SinnersRise] Metal chest after the lost sinner", "ref": "Sinner's Rise/[SinnersRise] Metal chest after the lost sinner"}]
+    },
+
+    {
+        "name": "[SinnersRise] On small ledge very near bonfire",
+        "map_locations": [{"map": "Sinner's Rise", "x": 0, "y": 0}],
+        "sections": [{"name": "[SinnersRise] On small ledge very near bonfire", "ref": "Sinner's Rise/[SinnersRise] On small ledge very near bonfire"}]
+    },
+
+    {
+        "name": "[SinnersRise] Right side just after bottom of elevator",
+        "map_locations": [{"map": "Sinner's Rise", "x": 0, "y": 0}],
+        "sections": [{"name": "[SinnersRise] Right side just after bottom of elevator", "ref": "Sinner's Rise/[SinnersRise] Right side just after bottom of elevator"}]
+    },
+
+    {
+        "name": "[SinnersRise] Item in elevator shaft",
+        "map_locations": [{"map": "Sinner's Rise", "x": 0, "y": 0}],
+        "sections": [{"name": "[SinnersRise] Item in elevator shaft", "ref": "Sinner's Rise/[SinnersRise] Item in elevator shaft"}]
+    },
+
+    {
+        "name": "[SinnersRise] Left side just after bottom of elevator",
+        "map_locations": [{"map": "Sinner's Rise", "x": 0, "y": 0}],
+        "sections": [{"name": "[SinnersRise] Left side just after bottom of elevator", "ref": "Sinner's Rise/[SinnersRise] Left side just after bottom of elevator"}]
+    },
+
+    {
+        "name": "[SinnersRise] Behind illusory wall at right side just after elevator",
+        "map_locations": [{"map": "Sinner's Rise", "x": 0, "y": 0}],
+        "sections": [{"name": "[SinnersRise] Behind illusory wall at right side just after elevator", "ref": "Sinner's Rise/[SinnersRise] Behind illusory wall at right side just after elevator"}]
+    },
+
+    {
+        "name": "[SinnersRise] In open cell left side lower level",
+        "map_locations": [{"map": "Sinner's Rise", "x": 0, "y": 0}],
+        "sections": [{"name": "[SinnersRise] In open cell left side lower level", "ref": "Sinner's Rise/[SinnersRise] In open cell left side lower level"}]
+    },
+
+    {
+        "name": "[SinnersRise] In locked cell left side upper level",
+        "map_locations": [{"map": "Sinner's Rise", "x": 0, "y": 0}],
+        "sections": [{"name": "[SinnersRise] In locked cell left side upper level", "ref": "Sinner's Rise/[SinnersRise] In locked cell left side upper level"}]
+    },
+
+    {
+        "name": "[SinnersRise] In right side oil-sconce room just before the Sinner",
+        "map_locations": [{"map": "Sinner's Rise", "x": 0, "y": 0}],
+        "sections": [{"name": "[SinnersRise] In right side oil-sconce room just before the Sinner", "ref": "Sinner's Rise/[SinnersRise] In right side oil-sconce room just before the Sinner"}]
+    },
+
+    {
+        "name": "[SinnersRise] Left side just before the Sinner",
+        "map_locations": [{"map": "Sinner's Rise", "x": 0, "y": 0}],
+        "sections": [{"name": "[SinnersRise] Left side just before the Sinner", "ref": "Sinner's Rise/[SinnersRise] Left side just before the Sinner"}]
+    },
+
+    {
+        "name": "[SinnersRise] On ledge outside tower at top of elevator",
+        "map_locations": [{"map": "Sinner's Rise", "x": 0, "y": 0}],
+        "sections": [{"name": "[SinnersRise] On ledge outside tower at top of elevator", "ref": "Sinner's Rise/[SinnersRise] On ledge outside tower at top of elevator"}]
+    }
+]

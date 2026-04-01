@@ -1,0 +1,85 @@
+[
+    {
+        "name": "[Gulch] The Rotten drop",
+        "map_locations": [{"map": "Black Gulch", "x": "0", "y": 0}],
+        "sections": [{"name": "[Gulch] The Rotten drop", "ref": "Black Gulch/[Gulch] The Rotten drop"}]
+    },
+        
+    {
+        "name": "[Gulch] The Rotten drop in NG+",
+        "map_locations": [{"map": "Black Gulch", "x": "0", "y": 0}],
+        "sections": [{"name": "[Gulch] The Rotten drop in NG+", "ref": "Black Gulch/[Gulch] The Rotten drop in NG+"}]
+    },
+        
+    {
+        "name": "[Gulch] Wooden chest in the side tunnel after the worms",
+        "map_locations": [{"map": "Black Gulch", "x": "0", "y": 0}],
+        "sections": [{"name": "[Gulch] Wooden chest in the side tunnel after the worms", "ref": "Black Gulch/[Gulch] Wooden chest in the side tunnel after the worms"}]
+    },
+        
+    {
+        "name": "[Gulch] Metal chest in side room next to Gulch Giants",
+        "map_locations": [{"map": "Black Gulch", "x": "0", "y": 0}],
+        "sections": [{"name": "[Gulch] Metal chest in side room next to Gulch Giants", "ref": "Black Gulch/[Gulch] Metal chest in side room next to Gulch Giants"}]
+    },
+        
+    {
+        "name": "[Gulch] Metal chest after the Rotten",
+        "map_locations": [{"map": "Black Gulch", "x": "0", "y": 0}],
+        "sections": [{"name": "[Gulch] Metal chest after the Rotten", "ref": "Black Gulch/[Gulch] Metal chest after the Rotten"}]
+    },
+        
+    {
+        "name": "[Gulch] Metal chest in the side tunnel before the worms",
+        "map_locations": [{"map": "Black Gulch", "x": "0", "y": 0}],
+        "sections": [{"name": "[Gulch] Metal chest in the side tunnel before the worms", "ref": "Black Gulch/[Gulch] Metal chest in the side tunnel before the worms"}]
+    },
+        
+    {
+        "name": "[Gulch] In the fire in the Rotten arena",
+        "map_locations": [{"map": "Black Gulch", "x": "0", "y": 0}],
+        "sections": [{"name": "[Gulch] In the fire in the Rotten arena", "ref": "Black Gulch/[Gulch] In the fire in the Rotten arena"}]
+    },
+        
+    {
+        "name": "[Gulch] Urn at the bottom of the elevator near Gulch Giants",
+        "map_locations": [{"map": "Black Gulch", "x": "0", "y": 0}],
+        "sections": [{"name": "[Gulch] Urn at the bottom of the elevator near Gulch Giants", "ref": "Black Gulch/[Gulch] Urn at the bottom of the elevator near Gulch Giants"}]
+    },
+        
+    {
+        "name": "[Gulch] Urn next to the second bonfire",
+        "map_locations": [{"map": "Black Gulch", "x": "0", "y": 0}],
+        "sections": [{"name": "[Gulch] Urn next to the second bonfire", "ref": "Black Gulch/[Gulch] Urn next to the second bonfire"}]
+    },
+        
+    {
+        "name": "[Gulch] First urn in the front of the worms",
+        "map_locations": [{"map": "Black Gulch", "x": "0", "y": 0}],
+        "sections": [{"name": "[Gulch] First urn in the front of the worms", "ref": "Black Gulch/[Gulch] First urn in the front of the worms"}]
+    },
+        
+    {
+        "name": "[Gulch] Second urn in the front of the worms",
+        "map_locations": [{"map": "Black Gulch", "x": "0", "y": 0}],
+        "sections": [{"name": "[Gulch] Second urn in the front of the worms", "ref": "Black Gulch/[Gulch] Second urn in the front of the worms"}]
+    },
+        
+    {
+        "name": "[Gulch] Urn in the wide area before the rotten",
+        "map_locations": [{"map": "Black Gulch", "x": "0", "y": 0}],
+        "sections": [{"name": "[Gulch] Urn in the wide area before the rotten", "ref": "Black Gulch/[Gulch] Urn in the wide area before the rotten"}]
+    },
+        
+    {
+        "name": "[Gulch] Dropped from rottens arm",
+        "map_locations": [{"map": "Black Gulch", "x": "0", "y": 0}],
+        "sections": [{"name": "[Gulch] Dropped from rottens arm", "ref": "Black Gulch/[Gulch] Dropped from rottens arm"}]
+    },
+        
+    {
+        "name": "[Gulch] Reward for killing Gulch Giants",
+        "map_locations": [{"map": "Black Gulch", "x": "0", "y": 0}],
+        "sections": [{"name": "[Gulch] Reward for killing Gulch Giants", "ref": "Black Gulch/[Gulch] Reward for killing Gulch Giants"}]
+    }
+]

@@ -1,0 +1,446 @@
+[
+    {
+        "name": "[DLC3] Aava drop",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Ivory King drop",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On altar",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest on roof of a house near the square with a fountain",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest on roof of a house near the square with a fountain (2)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest behind the elevator full of coffins",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest on roof of a house near the square with a fountain (3)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest at the end of the main ballista bridge",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest on upper level of the Lower Garrison courtyard",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest in round room with mimic near Expulsion Chamber bonfire",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest in round room with mimic near Expulsion Chamber bonfire (2)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest in round room with mimic near Expulsion Chamber bonfire (3)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest in round room with mimic near Expulsion Chamber bonfire (4)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest on top floor of the tower with the invisible ladder",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest behind inner wall illusory wall and up stairs",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest behind Inner Wall illusory near route back to bonfire",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Wooden chest on bottom floor of (wooden) multi-level area down the middle ballista bridge stairs",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest under ice in the first room of Inner Wall",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest surrounded by three Frozen Golems on upper floor of Inner Wall",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest after aava",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest in the corridor where Holy Knight Aurheim invades",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Metal chest behind Pharros contraption on the ballista bridge",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Near vanilla dark clutch on snowy ledge accessed by dropping from the roof before fountain square",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Behind ice just before the square with a fountain",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Under the stairs before the square with a fountain",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Under ice in the square with a fountain",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In small room right after the square with a fountain",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Under a tree accessed by dropping from the roof before fountain square",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On ledge at the end of the path on left side before abandoned dwelling bonfire",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On the courtyard after Abandoned Dwelling bonfire",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Next to a rampart golem by the lever to outer wall",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On the main ballista bridge",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On the main ballista bridge (2)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On the main ballista bridge (3)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Next to a Rampart Golem near the tower with the invisible ladder",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Just before the fog gate leading to the Inner Wall bonfire",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Just before the fog gate leading to the Inner Wall bonfire (2)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Before Hexer Nicolai invades behind a pillar near hedgehogs",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Where Hexer Nicolai invades guarded by a hedgehog",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Hanging from ledge near Lower Garrison bonfire",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Guarded by flexile sentry in the cave opened by lighting torches",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Guarded by three hedgehogs at the start of the Lower Garrison area",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Guarded by three hedgehogs just at the start of the Lower Garrison area",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In a corner of the first room right from the Outer Wall bonfire",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In an area with ice dogs in the beginning",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On middle floor balcony of the tower with the invisible ladder",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In small room between stairs leading to the Eye of the Priestess",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In a dead end corridor in Inner Wall near the Eleum Knight and by the illusory wall",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On lower-middle floor balcony of the (wooden) multi-level area down the middle ballista bridge stairs",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In a narrow corridor in the beginning of the area",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On the broken where the snowball finishes",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On the broken where the snowball finishes (2)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On the broken where the snowball finishes (3)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On upper floor balcony of the (wooden) multi-level area down the middle ballista bridge stairs",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Hanging from the ledge outside the tower of the Eleum Knight near snowball start",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On a higher part of the courtyard after Abandoned Dwelling bonfire",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On a snow ledge after a narrow gap between buildings after abandoned dwelling bonfire",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On upper floor behind the elevator full of coffins",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Behind illusory wall in the left side of the cave opened by lighting torches",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In the right side of the cave opened by lighting torches",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On lower floor of the tower with the invisible ladder",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In the large empty room in the middle floor of Inner Wall",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In Covetous Demons cave",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In Covetous Demons cave (2)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In Covetous Demons cave (3)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On a corpse by hedgehogs and frozen golems on the way to snowball",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] On a corpse by hedgehogs and frozen golems on the way to snowball (2)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Where Hexer Nicolai invades",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In Covetous Demons cave (4)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In Covetous Demons cave (5)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] In Covetous Demons cave (6)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Behind ice just before the square with a fountain (2)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Behind ice just before the square with a fountain (3)",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[DLC3] Next to the shortcut door up a ladder in multi-level area down the middle ballista bridge stairs",
+        "map_locations": [{"map": "Frozen Eleum Loyce", "x": "", "y": ""}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+]

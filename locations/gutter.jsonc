@@ -1,0 +1,194 @@
+[
+    {
+        "name": "[Gutter] Wooden chest on top of small structure in the end of the first long bridge",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Wooden chest on the middle floor of an wooden building near where Melinda the Butcher invades",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Wooden chest on ledge in multiple ladders area",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Metal chest near where Melinda the Butcher invades",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Metal chest in the cave with corrosive bugs",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Metal chest in the base of the tower where the zip-line starts",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Urn behind the forgotten door",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Urn inside a small structure on top of the tower where the zip-line starts",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Urn in top level near the three torches side by side",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Urn in lower level of the structure where second long bridge ends",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Second urn at the bottom of the multiple ladders area",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Before the entrance to the Black Gulch",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] First urn behind the ant queen",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Urn next to upper gutter bonfire",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Urn in area with tar pits",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Urn next to upper gutter bonfire on a little bit higher ledge",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Urn in lower level near the ring of torches",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Urn in the 2nd floor of the tower where the zip-line starts",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Urn next to hanging poison statue in the base of the tower where the zip-line starts",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Urn on top of the tower where the zip-line starts",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Urn in tight corner on middle level of the tower where the zip-line starts",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Second urn behind the ant queen",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Urn in between the fog gate and the ant queen",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Urn in the area with multiple ladders",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Urn in wooden floor in multiple ladders area",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] First urn at the bottom of the multiple ladders area",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Corpse on top of the tower where the zip-line starts",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] First corpse in top level; near Jeff jump",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Second corpse in top level; near Jeff jump",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Third corpse in top level; near Jeff jump",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Fourth corpse in top level; near Jeff jump",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    },
+
+    {
+        "name": "[Gutter] Fifth corpse in top level; near Jeff jump",
+        "map_locations": [{"map": "The Gutter", "x": 0, "y": 0}],
+        "sections": [{"name": "", "ref": ""}]
+    }
+
+]

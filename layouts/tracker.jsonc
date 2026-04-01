@@ -1,0 +1,436 @@
+{
+  "tracker_horizontal": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "content": [
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "left",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "shared_item_grid"
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Full Map",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Full Map"
+                ]
+              } 
+            },
+            {
+              "title": "Thing's Betwixt",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Thing's Betwixt"
+                ]
+              }
+            },
+            {
+              "title": "Majula",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Majula"
+                ]
+              }
+            },
+            {
+              "title": "Forest of Fallen Giants",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Forest of Fallen Giants"
+                ]
+              }
+            },
+            {
+              "title": "Heide's Tower",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Heide's Tower of Flame"
+                ]
+              }
+            },
+            {
+              "title": "No Man's Wharf",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "No Man's Wharf"
+                ]
+              }
+            },
+            {
+              "title": "Lost Bastille",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Lost Bastille"
+                ]
+              }
+            },
+            {
+              "title": "Sinner's Rise",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Sinner's Rise"
+                ]
+              }
+            },
+            {
+              "title": "Belfry Luna",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Belfry Luna"
+                ]
+              }
+            },
+            {
+              "title": "Shaded Woods",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Shaded Woods"
+                ]
+              }
+            },
+            {
+              "title": "Doors of Pharros",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Doors of Pharros"
+                ]
+              }
+            },
+            {
+              "title": "Brightstone Cove Tseldora",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Brightstone Cove Tseldora"
+                ]
+              }
+            },
+            {
+              "title": "Huntsman's Copse",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Huntsman's Copse"
+                ]
+              }
+            },
+            {
+              "title": "Harvest Valley",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Harvest Valley"
+                ]
+              }
+            },
+            {
+              "title": "Earthen Peak",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Earthen Peak"
+                ]
+              }
+            },
+            {
+              "title": "Iron Keep",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Iron Keep"
+                ]
+              }
+            },
+            {
+              "title": "Belfry Sol",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Belfry Sol"
+                ]
+              }
+            },
+            {
+              "title": "Grave of Saints",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Grave of Saints"
+                ]
+              }
+            },
+            {
+              "title": "The Gutter",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "The Gutter"
+                ]
+              }
+            },
+            {
+              "title": "Black Gulch",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Black Gulch"
+                ]
+              }
+            },
+            {
+              "title": "Drangleic Castle",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Drangleic Castle"
+                ]
+              }
+            },
+            {
+              "title": "Shrine of Amana",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Shrine of Amana"
+                ]
+              }
+            },
+            {
+              "title": "Undead Crypt",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Undead Crypt"
+                ]
+              }
+            },
+            {
+              "title": "Aldia's Keep",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Aldia's Keep"
+                ]
+              }
+            },
+            {
+              "title": "Dragon Aerie",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Dragon Aerie"
+                ]
+              }
+            },
+            {
+              "title": "Dragon Shrine",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Dragon Shrine"
+                ]
+              }
+            },
+            {
+              "title": "Memories",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Memory of Jeigh",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Memory of Jeigh"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Memory of Orro",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Memory of Orro"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Memory of Vammar",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Memory of Vammar"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Dragon Memories",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Dragon Memories"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Sunken King DLC",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Shulva, Sanctum City",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Shulva, Sanctum City"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Dragon's Sanctum",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Dragon's Sanctum"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Dragon's Rest",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Dragon's Rest"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Cave of the Dead",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Cave of the Dead"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Old Iron King DLC",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Brume Tower",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Brume Tower"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Iron Passage",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Iron Passage"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Memory of the Iron King",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Memory of the Iron King"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Ivory King DLC",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Frozen Eleum Loyce",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Frozen Eleum Loyce"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Grand Cathedral",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Grand Cathedral"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Old Chaos",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Old Chaos"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Frigid Outskirts",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Frigid Outskirts"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,187 @@
+[
+    {
+        "name": "[AldiasKeep] Guardian Dragon drop",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Guardian Dragon drop", "ref": "Aldia's Keep/[AldiasKeep] Guardian Dragon drop"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Drop from Petrified Undead Traveller just before Giant Basilisk",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Drop from Petrified Undead Traveller just before Giant Basilisk", "ref": "Aldia's Keep/[AldiasKeep] Drop from Petrified Undead Traveller just before Giant Basilisk"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Drop from Centre petrified Undead Traveller just before Giant Basilisk",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Drop from Centre petrified Undead Traveller just before Giant Basilisk", "ref": "Aldia's Keep/[AldiasKeep] Drop from Centre petrified Undead Traveller just before Giant Basilisk"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Drop from Petrified Ogre blocking stairway near Bone Dragon",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Drop from Petrified Ogre blocking stairway near Bone Dragon", "ref": "Aldia's Keep/[AldiasKeep] Drop from Petrified Ogre blocking stairway near Bone Dragon"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Drop from Mimic trapped in final hanging cage in corridor with paintings",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Drop from Mimic trapped in final hanging cage in corridor with paintings", "ref": "Aldia's Keep/[AldiasKeep] Drop from Mimic trapped in final hanging cage in corridor with paintings"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Metal chest in a side corridor next to the mirror room",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Metal chest in a side corridor next to the mirror room", "ref": "Aldia's Keep/[AldiasKeep] Metal chest in a side corridor next to the mirror room"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Metal chest in a side corridor next to the giant basilisk",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Metal chest in a side corridor next to the giant basilisk", "ref": "Aldia's Keep/[AldiasKeep] Metal chest in a side corridor next to the giant basilisk"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Metal chest behind the breakable chained door",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Metal chest behind the breakable chained door", "ref": "Aldia's Keep/[AldiasKeep] Metal chest behind the breakable chained door"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Metal chest in the mirror room",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Metal chest in the mirror room", "ref": "Aldia's Keep/[AldiasKeep] Metal chest in the mirror room"}]
+    },
+
+	{
+        "name": "[AldiasKeep] In front of the skeleton dragon",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] In front of the skeleton dragon", "ref": "Aldia's Keep/[AldiasKeep] In front of the skeleton dragon"}]
+    },
+
+	{
+        "name": "[AldiasKeep] In the mirror room",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] In the mirror room", "ref": "Aldia's Keep/[AldiasKeep] In the mirror room"}]
+    },
+
+	{
+        "name": "[AldiasKeep] In the foregarden courtyard",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] In the foregarden courtyard", "ref": "Aldia's Keep/[AldiasKeep] In the foregarden courtyard"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Under a table in the long corridor",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Under a table in the long corridor", "ref": "Aldia's Keep/[AldiasKeep] Under a table in the long corridor"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Under a table in the long corridor in NG+",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Under a table in the long corridor in NG+", "ref": "Aldia's Keep/[AldiasKeep] Under a table in the long corridor in NG+"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Inside a barrel in the corner in side room with caged Gargoyle",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Inside a barrel in the corner in side room with caged Gargoyle", "ref": "Aldia's Keep/[AldiasKeep] Inside a barrel in the corner in side room with caged Gargoyle"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Room just before Guardian dragon",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Room just before Guardian dragon", "ref": "Aldia's Keep/[AldiasKeep] Room just before Guardian dragon"}]
+    },
+
+	{
+        "name": "[AldiasKeep] In front of the giant basilisk",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] In front of the giant basilisk", "ref": "Aldia's Keep/[AldiasKeep] In front of the giant basilisk"}]
+    },
+
+	{
+        "name": "[AldiasKeep] In the acid pool",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] In the acid pool", "ref": "Aldia's Keep/[AldiasKeep] In the acid pool"}]
+    },
+
+	{
+        "name": "[AldiasKeep] In the Foregarden courtyard",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] In the Foregarden courtyard", "ref": "Aldia's Keep/[AldiasKeep] In the Foregarden courtyard"}]
+    },
+
+	{
+        "name": "[AldiasKeep] To the right at the start of the Foregarden courtyard stairs",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] To the right at the start of the Foregarden courtyard stairs", "ref": "Aldia's Keep/[AldiasKeep] To the right at the start of the Foregarden courtyard stairs"}]
+    },
+
+	{
+        "name": "[AldiasKeep] In the acid pool (2)",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] In the acid pool (2)", "ref": "Aldia's Keep/[AldiasKeep] In the acid pool (2)"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Behind a shelf in the potion room",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Behind a shelf in the potion room", "ref": "Aldia's Keep/[AldiasKeep] Behind a shelf in the potion room"}]
+    },
+
+	{
+        "name": "[AldiasKeep] On table in side room with caged Gargoyle",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] On table in side room with caged Gargoyle", "ref": "Aldia's Keep/[AldiasKeep] On table in side room with caged Gargoyle"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Just before the elevator to the dragon aerie",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Just before the elevator to the dragon aerie", "ref": "Aldia's Keep/[AldiasKeep] Just before the elevator to the dragon aerie"}]
+    },
+
+	{
+        "name": "[AldiasKeep] In the acid pool (3)",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] In the acid pool (3)", "ref": "Aldia's Keep/[AldiasKeep] In the acid pool (3)"}]
+    },
+
+	{
+        "name": "[AldiasKeep] In the acid pool in NG+",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] In the acid pool in NG+", "ref": "Aldia's Keep/[AldiasKeep] In the acid pool in NG+"}]
+    },
+
+	{
+        "name": "[AldiasKeep] In the Foregarden courtyard (2)",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] In the Foregarden courtyard (2)", "ref": "Aldia's Keep/[AldiasKeep] In the Foregarden courtyard (2)"}]
+    },
+
+	{
+        "name": "[AldiasKeep] In the water-feature in the middle of the stairs approaching Aslatiel",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] In the water-feature in the middle of the stairs approaching Aslatiel", "ref": "Aldia's Keep/[AldiasKeep] In the water-feature in the middle of the stairs approaching Aslatiel"}]
+    },
+
+	{
+        "name": "[AldiasKeep] In the left side of the front door",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] In the left side of the front door", "ref": "Aldia's Keep/[AldiasKeep] In the left side of the front door"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Stuck in a mirror in the mirror room",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Stuck in a mirror in the mirror room", "ref": "Aldia's Keep/[AldiasKeep] Stuck in a mirror in the mirror room"}]
+    },
+
+	{
+        "name": "[AldiasKeep] Drop from the Skeleton Dragon after defeating four Forlorns",
+        "map_locations": [{"map": "Aldia's Keep", "x": "", "y": ""}],
+        "sections": [{"name": "[AldiasKeep] Drop from the Skeleton Dragon after defeating four Forlorns", "ref": "Aldia's Keep/[AldiasKeep] Drop from the Skeleton Dragon after defeating four Forlorns"}]
+    }
+]

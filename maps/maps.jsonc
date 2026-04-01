@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Aldia's Keep",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/aldia.png"
+  },
+  {
+    "name": "Black Gulch",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/gulch.png"
+  },
+  {
+    "name": "Brightstone Cove Tseldora",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/cove.png"
+  },
+  {
+    "name": "Belfry Luna",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/luna.png"
+  },
+  {
+    "name": "Belfry Sol",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/sol.png"
+  },
+  {
+    "name": "Brume Tower",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/brume.png"
+  },
+  {
+    "name": "Cave of the Dead",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/deadCave.png"
+  },
+  {
+    "name": "Dark Chasm of Old",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/darkChasm.png"
+  },
+  {
+    "name": "Doors of Pharros",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/pharros.png"
+  },
+  {
+    "name": "Dragon Aerie",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/aerie.png"
+  },
+  {
+    "name": "Dragon Memories",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/dragonMem.png"
+  },
+  {
+    "name": "Dragon's Rest",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/dragRest.png"
+  },
+  {
+    "name": "Dragon Shrine",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/dragShrine.png"
+  },
+  {
+    "name": "Dragon's Sanctum",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/dragSanct.png"
+  },
+  {
+    "name": "Drangleic Castle",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/drangCastle.png"
+  },
+  {
+    "name": "Earthen Peak",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/earthPeak.png"
+  },
+  {
+    "name": "Forest of Fallen Giants",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/fofg.png"
+  },
+  {
+    "name": "Frigid Outskirts",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/outskirts.png"
+  },
+  {
+    "name": "Frozen Eleum Loyce",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/loyce.png" 
+  },
+  {
+    "name": "Full Map",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/fullMap.png"
+  },
+  {
+    "name": "Grand Cathedral",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/cathedral.png"
+  },
+  {
+    "name": "Grave of Saints",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/grave.png"
+  },
+  {
+    "name": "Harvest Valley",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/valley.png"
+  },
+  {
+    "name": "Heide's Tower of Flame",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/heide.png"
+  },
+  {
+    "name": "Huntsman's Copse",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/copse.png"
+  },
+  {
+    "name": "Iron Keep",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/ironKeep.png"
+  },
+  {
+    "name": "Majula",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/majula.png"
+  },
+  {
+    "name": "Memory of the Iron King",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/ironKingMem.png"
+  },
+  {
+    "name": "Iron Passage",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/passage.png"
+  },
+  {
+    "name": "Lost Bastille",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/bastille.png"
+  },
+  {
+    "name": "Memory of Jeigh",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/jeighMem.png"
+  },
+  {
+    "name": "Memory of Orro",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/orroMem.png"
+  },
+  {
+    "name": "Memory of Vammar",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/vammarMem.png"
+  },
+  {
+    "name": "No Man's Wharf",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/wharf.png"
+  },
+  {
+    "name": "Old Chaos",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/chaos.png"
+  },
+  {
+    "name": "Shaded Woods",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/woods.png"
+  },
+  {
+    "name": "Shrine of Amana",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/amana.png"
+  },
+  {
+    "name": "Shulva, Sanctum City",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/shulva.png"
+  },
+  {
+    "name": "Sinner's Rise",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/sinCity.png"
+  },
+  {
+    "name": "The Gutter",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/gutter.png"
+  },
+  {
+    "name": "Thing's Betwixt",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/betwixt.png"
+  },
+  {
+    "name": "Undead Crypt",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/crypt.png"
+  }
+]

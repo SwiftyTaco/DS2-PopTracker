@@ -1,0 +1,67 @@
+[
+    {
+        "name": "[BelfryLuna] Belfry Gargoyles drop",
+        "map_locations": [{"map": "Belfry Luna", "x": 0, "y": 0}],
+        "sections": [{"name": "[BelfryLuna] Belfry Gargoyles drop", "ref": "Belfry Luna/[BelfryLuna] Belfry Gargoyles drop"}]
+    },
+
+	{
+        "name": "[BelfryLuna] Belfry Gargoyles drop in NG+",
+        "map_locations": [{"map": "Belfry Luna", "x": 0, "y": 0}],
+        "sections": [{"name": "[BelfryLuna] Belfry Gargoyles drop in NG+", "ref": "Belfry Luna/[BelfryLuna] Belfry Gargoyles drop in NG+"}]
+    },
+
+	{
+        "name": "[BelfryLuna] Wooden chest at topmost floor",
+        "map_locations": [{"map": "Belfry Luna", "x": 0, "y": 0}],
+        "sections": [{"name": "[BelfryLuna] Wooden chest at topmost floor", "ref": "Belfry Luna/[BelfryLuna] Wooden chest at topmost floor"}]
+    },
+
+	{
+        "name": "[BelfryLuna] Metal chest after dropping through hole from 2nd floor",
+        "map_locations": [{"map": "Belfry Luna", "x": 0, "y": 0}],
+        "sections": [{"name": "[BelfryLuna] Metal chest after dropping through hole from 2nd floor", "ref": "Belfry Luna/[BelfryLuna] Metal chest after dropping through hole from 2nd floor"}]
+    },
+
+	{
+        "name": "[BelfryLuna] Metal chest after Gargoyles",
+        "map_locations": [{"map": "Belfry Luna", "x": 0, "y": 0}],
+        "sections": [{"name": "[BelfryLuna] Metal chest after Gargoyles", "ref": "Belfry Luna/[BelfryLuna] Metal chest after Gargoyles"}]
+    },
+
+	{
+        "name": "[BelfryLuna] On railing 2nd floor",
+        "map_locations": [{"map": "Belfry Luna", "x": 0, "y": 0}],
+        "sections": [{"name": "[BelfryLuna] On railing 2nd floor", "ref": "Belfry Luna/[BelfryLuna] On railing 2nd floor"}]
+    },
+
+	{
+        "name": "[BelfryLuna] Corpse after dropping through hole from 2nd floor",
+        "map_locations": [{"map": "Belfry Luna", "x": 0, "y": 0}],
+        "sections": [{"name": "[BelfryLuna] Corpse after dropping through hole from 2nd floor", "ref": "Belfry Luna/[BelfryLuna] Corpse after dropping through hole from 2nd floor"}]
+    },
+
+	{
+        "name": "[BelfryLuna] Corpse on topmost floor",
+        "map_locations": [{"map": "Belfry Luna", "x": 0, "y": 0}],
+        "sections": [{"name": "[BelfryLuna] Corpse on topmost floor", "ref": "Belfry Luna/[BelfryLuna] Corpse on topmost floor"}]
+    },
+
+	{
+        "name": "[BelfryLuna] At lower level in pit after Gargoyles",
+        "map_locations": [{"map": "Belfry Luna", "x": 0, "y": 0}],
+        "sections": [{"name": "[BelfryLuna] At lower level in pit after Gargoyles", "ref": "Belfry Luna/[BelfryLuna] At lower level in pit after Gargoyles"}]
+    },
+
+	{
+        "name": "[BelfryLuna] At upper level in pit after Gargoyles",
+        "map_locations": [{"map": "Belfry Luna", "x": 0, "y": 0}],
+        "sections": [{"name": "[BelfryLuna] At upper level in pit after Gargoyles", "ref": "Belfry Luna/[BelfryLuna] At upper level in pit after Gargoyles"}]
+    },
+
+	{
+        "name": "[BelfryLuna] On ledge at Gargoyle arena",
+        "map_locations": [{"map": "Belfry Luna", "x": 0, "y": 0}],
+        "sections": [{"name": "[BelfryLuna] On ledge at Gargoyle arena", "ref": "Belfry Luna/[BelfryLuna] On ledge at Gargoyle arena"}]
+    }
+]

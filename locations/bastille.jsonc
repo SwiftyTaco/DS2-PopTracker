@@ -1,0 +1,464 @@
+[
+    {
+        "name": "[Bastille] Metal chest behind in the dog/pursuer courtyard",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Metal chest behind in the dog/pursuer courtyard", "ref": "Lost Bastille/[Bastille] Metal chest behind in the dog/pursuer courtyard"}]
+    },
+        
+    {
+        "name": "[Bastille] On top of the scaffolding in dog courtyard",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] On top of the scaffolding in dog courtyard", "ref": "Lost Bastille/[Bastille] On top of the scaffolding in dog courtyard"}]
+    },
+        
+    {
+        "name": "[Bastille] End of the rubble path",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] End of the rubble path", "ref": "Lost Bastille/[Bastille] End of the rubble path"}]
+    },
+        
+    {
+        "name": "[Bastille] Cell near Exile Holding Cells bonfire",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Cell near Exile Holding Cells bonfire", "ref": "Lost Bastille/[Bastille] Cell near Exile Holding Cells bonfire"}]
+    },
+        
+    {
+        "name": "[Bastille] In a room with explosive hollows near Antiquated door",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] In a room with explosive hollows near Antiquated door", "ref": "Lost Bastille/[Bastille] In a room with explosive hollows near Antiquated door"}]
+    },
+        
+    {
+        "name": "[Bastille] In a cell at top of elevator ride after Flexile",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] In a cell at top of elevator ride after Flexile", "ref": "Lost Bastille/[Bastille] In a cell at top of elevator ride after Flexile"}]
+    },
+        
+    {
+        "name": "[Bastille] In hidden tunnel after riding down on top of the elevator after Flexile",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] In hidden tunnel after riding down on top of the elevator after Flexile", "ref": "Lost Bastille/[Bastille] In hidden tunnel after riding down on top of the elevator after Flexile"}]
+    },
+        
+    {
+        "name": "[Bastille] Metal chest where Pursuer attacks near the Tower Apart",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Metal chest where Pursuer attacks near the Tower Apart", "ref": "Lost Bastille/[Bastille] Metal chest where Pursuer attacks near the Tower Apart"}]
+    },
+        
+    {
+        "name": "[Bastille] Metal chest next to tower apart bonfire",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Metal chest next to tower apart bonfire", "ref": "Lost Bastille/[Bastille] Metal chest next to tower apart bonfire"}]
+    },
+        
+    {
+        "name": "[Bastille] Metal chest next to tower apart bonfire (2)",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Metal chest next to tower apart bonfire (2)", "ref": "Lost Bastille/[Bastille] Metal chest next to tower apart bonfire (2)"}]
+    },
+        
+    {
+        "name": "[Bastille] On ledge near tower apart bonfire",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] On ledge near tower apart bonfire", "ref": "Lost Bastille/[Bastille] On ledge near tower apart bonfire"}]
+    },
+        
+    {
+        "name": "[Bastille] Metal chest in McDuffs workshop",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Metal chest in McDuffs workshop", "ref": "Lost Bastille/[Bastille] Metal chest in McDuffs workshop"}]
+    },
+        
+    {
+        "name": "[Bastille] First wooden chest in McDuffs workshop",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] First wooden chest in McDuffs workshop", "ref": "Lost Bastille/[Bastille] First wooden chest in McDuffs workshop"}]
+    },
+        
+    {
+        "name": "[Bastille] Second wooden chest in McDuffs workshop",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Second wooden chest in McDuffs workshop", "ref": "Lost Bastille/[Bastille] Second wooden chest in McDuffs workshop"}]
+    },
+        
+    {
+        "name": "[Bastille] Third wooden chest in McDuffs workshop",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Third wooden chest in McDuffs workshop", "ref": "Lost Bastille/[Bastille] Third wooden chest in McDuffs workshop"}]
+    },
+        
+    {
+        "name": "[Bastille] Fourth wooden chest in McDuffs workshop",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Fourth wooden chest in McDuffs workshop", "ref": "Lost Bastille/[Bastille] Fourth wooden chest in McDuffs workshop"}]
+    },
+        
+    {
+        "name": "[Bastille] Metal chest next to Lucatiel",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Metal chest next to Lucatiel", "ref": "Lost Bastille/[Bastille] Metal chest next to Lucatiel"}]
+    },
+        
+    {
+        "name": "[Bastille] On the left-hand-side on the way to mcduff",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] On the left-hand-side on the way to mcduff", "ref": "Lost Bastille/[Bastille] On the left-hand-side on the way to mcduff"}]
+    },
+        
+    {
+        "name": "[Bastille] Upper floor of tower above Lucatiel",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Upper floor of tower above Lucatiel", "ref": "Lost Bastille/[Bastille] Upper floor of tower above Lucatiel"}]
+    },
+        
+    {
+        "name": "[Bastille] Upper floor of tower above Lucatiel in NG+",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Upper floor of tower above Lucatiel in NG+", "ref": "Lost Bastille/[Bastille] Upper floor of tower above Lucatiel in NG+"}]
+    },
+        
+    {
+        "name": "[Steady Hand McDuff] Uchigatana",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Steady Hand McDuff] Uchigatana", "ref": "Lost Bastille/[Steady Hand McDuff] Uchigatana"}]
+    },
+        
+    {
+        "name": "[Steady Hand McDuff] Bastard Sword",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Steady Hand McDuff] Bastard Sword", "ref": "Lost Bastille/[Steady Hand McDuff] Bastard Sword"}]
+    },
+        
+    {
+        "name": "[Steady Hand McDuff] Greataxe",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Steady Hand McDuff] Greataxe", "ref": "Lost Bastille/[Steady Hand McDuff] Greataxe"}]
+    },
+        
+    {
+        "name": "[Steady Hand McDuff] Winged Spear",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Steady Hand McDuff] Winged Spear", "ref": "Lost Bastille/[Steady Hand McDuff] Winged Spear"}]
+    },
+        
+    {
+        "name": "[Steady Hand McDuff] Scythe",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Steady Hand McDuff] Scythe", "ref": "Lost Bastille/[Steady Hand McDuff] Scythe"}]
+    },
+        
+    {
+        "name": "[Steady Hand McDuff] Long Bow",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Steady Hand McDuff] Long Bow", "ref": "Lost Bastille/[Steady Hand McDuff] Long Bow"}]
+    },
+        
+    {
+        "name": "[Steady Hand McDuff] Light Crossbow",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Steady Hand McDuff] Light Crossbow", "ref": "Lost Bastille/[Steady Hand McDuff] Light Crossbow"}]
+    },
+        
+    {
+        "name": "[Steady Hand McDuff] Royal Kite Shield",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Steady Hand McDuff] Royal Kite Shield", "ref": "Lost Bastille/[Steady Hand McDuff] Royal Kite Shield"}]
+    },
+        
+    {
+        "name": "[Steady Hand McDuff] Repair Powder",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Steady Hand McDuff] Repair Powder", "ref": "Lost Bastille/[Steady Hand McDuff] Repair Powder"}]
+    },
+        
+    {
+        "name": "[Bastille] Ruin sentinels drop",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Ruin sentinels drop", "ref": "Lost Bastille/[Bastille] Ruin sentinels drop"}]
+    },
+        
+    {
+        "name": "[Bastille] Wooden chest behind illusory wall from stairs after Sentinels",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Wooden chest behind illusory wall from stairs after Sentinels", "ref": "Lost Bastille/[Bastille] Wooden chest behind illusory wall from stairs after Sentinels"}]
+    },
+        
+    {
+        "name": "[Bastille] Wooden chest behind illusory wall from stairs after Sentinels in NG+",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Wooden chest behind illusory wall from stairs after Sentinels in NG+", "ref": "Lost Bastille/[Bastille] Wooden chest behind illusory wall from stairs after Sentinels in NG+"}]
+    },
+        
+    {
+        "name": "[Bastille] Wooden chest behind illusory wall from Sentinels room",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Wooden chest behind illusory wall from Sentinels room", "ref": "Lost Bastille/[Bastille] Wooden chest behind illusory wall from Sentinels room"}]
+    },
+        
+    {
+        "name": "[Bastille] Metal chest in the room under Servants Quarters bonfire",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Metal chest in the room under Servants Quarters bonfire", "ref": "Lost Bastille/[Bastille] Metal chest in the room under Servants Quarters bonfire"}]
+    },
+        
+    {
+        "name": "[Bastille] Metal chest behind illusory wall in sentinels room",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Metal chest behind illusory wall in sentinels room", "ref": "Lost Bastille/[Bastille] Metal chest behind illusory wall in sentinels room"}]
+    },
+        
+    {
+        "name": "[Bastille] On upper ledge in Sentinels room",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] On upper ledge in Sentinels room", "ref": "Lost Bastille/[Bastille] On upper ledge in Sentinels room"}]
+    },
+        
+    {
+        "name": "[Bastille] Item hidden immediately behind door after Servants Quarters bonfire",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Item hidden immediately behind door after Servants Quarters bonfire", "ref": "Lost Bastille/[Bastille] Item hidden immediately behind door after Servants Quarters bonfire"}]
+    },
+        
+    {
+        "name": "[Bastille] Corpse behind illusory wall in Sentinels room",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Corpse behind illusory wall in Sentinels room", "ref": "Lost Bastille/[Bastille] Corpse behind illusory wall in Sentinels room"}]
+    },
+        
+    {
+        "name": "[Bastille] In a cell in the narrow corridor after Sentinels",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] In a cell in the narrow corridor after Sentinels", "ref": "Lost Bastille/[Bastille] In a cell in the narrow corridor after Sentinels"}]
+    },
+        
+    {
+        "name": "[Bastille] On ledge behind boxes",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] On ledge behind boxes", "ref": "Lost Bastille/[Bastille] On ledge behind boxes"}]
+    },
+        
+    {
+        "name": "[Bastille] At bottom of ladder before ruin sentinels",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] At bottom of ladder before ruin sentinels", "ref": "Lost Bastille/[Bastille] At bottom of ladder before ruin sentinels"}]
+    },
+        
+    {
+        "name": "[Bastille] On roof after servants quarters",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] On roof after servants quarters", "ref": "Lost Bastille/[Bastille] On roof after servants quarters"}]
+    },
+        
+    {
+        "name": "[Bastille] In a cell before Sentinels",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] In a cell before Sentinels", "ref": "Lost Bastille/[Bastille] In a cell before Sentinels"}]
+    },
+        
+    {
+        "name": "[Bastille] On opposite roof (jump)/after Servants Quarters",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] On opposite roof (jump)/after Servants Quarters", "ref": "Lost Bastille/[Bastille] On opposite roof (jump)/after Servants Quarters"}]
+    },
+        
+    {
+        "name": "[Bastille] In the room under the Servants Quarters bonfire",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] In the room under the Servants Quarters bonfire", "ref": "Lost Bastille/[Bastille] In the room under the Servants Quarters bonfire"}]
+    },
+        
+    {
+        "name": "[Bastille] First metal chest in Pharros/elevator room",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] First metal chest in Pharros/elevator room", "ref": "Lost Bastille/[Bastille] First metal chest in Pharros/elevator room"}]
+    },
+        
+    {
+        "name": "[Bastille] Wooden chest behind Pharros contraption in Pharros/elevator room",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Wooden chest behind Pharros contraption in Pharros/elevator room", "ref": "Lost Bastille/[Bastille] Wooden chest behind Pharros contraption in Pharros/elevator room"}]
+    },
+        
+    {
+        "name": "[Bastille] Second metal chest near in Pharros/elevator room",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Second metal chest near in Pharros/elevator room", "ref": "Lost Bastille/[Bastille] Second metal chest near in Pharros/elevator room"}]
+    },
+        
+    {
+        "name": "[Bastille] Third metal chest in Pharros/elevator room",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Third metal chest in Pharros/elevator room", "ref": "Lost Bastille/[Bastille] Third metal chest in Pharros/elevator room"}]
+    },
+        
+    {
+        "name": "[Bastille] Metal chest next to elevator in Pharros/elevator room",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Metal chest next to elevator in Pharros/elevator room", "ref": "Lost Bastille/[Bastille] Metal chest next to elevator in Pharros/elevator room"}]
+    },
+        
+    {
+        "name": "[Bastille] Corpse up the ladder",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Corpse up the ladder", "ref": "Lost Bastille/[Bastille] Corpse up the ladder"}]
+    },
+        
+    {
+        "name": "[Bastille] Blow up wall by pharros/elevator room",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Blow up wall by pharros/elevator room", "ref": "Lost Bastille/[Bastille] Blow up wall by pharros/elevator room"}]
+    },
+        
+    {
+        "name": "[Bastille] In the well",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] In the well", "ref": "Lost Bastille/[Bastille] In the well"}]
+    },
+        
+    {
+        "name": "[Bastille] On a corpse at the end of a long thin ledge above Mcduffs workshop",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] On a corpse at the end of a long thin ledge above Mcduffs workshop", "ref": "Lost Bastille/[Bastille] On a corpse at the end of a long thin ledge above Mcduffs workshop"}]
+    },
+        
+    {
+        "name": "[Bastille] Corpse at top of elevator",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Corpse at top of elevator", "ref": "Lost Bastille/[Bastille] Corpse at top of elevator"}]
+    },
+        
+    {
+        "name": "[Bastille] Behind the corner at beginning of the bridge to Sinners Rise",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Behind the corner at beginning of the bridge to Sinners Rise", "ref": "Lost Bastille/[Bastille] Behind the corner at beginning of the bridge to Sinners Rise"}]
+    },
+        
+    {
+        "name": "[Bastille] Behind the corner at beginning of the bridge to Sinners Rise in NG+",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] Behind the corner at beginning of the bridge to Sinners Rise in NG+", "ref": "Lost Bastille/[Bastille] Behind the corner at beginning of the bridge to Sinners Rise in NG+"}]
+    },
+        
+    {
+        "name": "[Bastille] End of the path after double illusory wall above dog/Pursuer courtyard",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] End of the path after double illusory wall above dog/Pursuer courtyard", "ref": "Lost Bastille/[Bastille] End of the path after double illusory wall above dog/Pursuer courtyard"}]
+    },
+        
+    {
+        "name": "[Bastille] On corpse after jumping gap after the illusory wall",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] On corpse after jumping gap after the illusory wall", "ref": "Lost Bastille/[Bastille] On corpse after jumping gap after the illusory wall"}]
+    },
+        
+    {
+        "name": "[Bastille] On ledge halfway up elevator shaft",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] On ledge halfway up elevator shaft", "ref": "Lost Bastille/[Bastille] On ledge halfway up elevator shaft"}]
+    },
+        
+    {
+        "name": "[Bastille] In a cell next to Straids cell",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] In a cell next to Straids cell", "ref": "Lost Bastille/[Bastille] In a cell next to Straids cell"}]
+    },
+        
+    {
+        "name": "[Bastille] In a cell next to Straids cell in NG+",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] In a cell next to Straids cell in NG+", "ref": "Lost Bastille/[Bastille] In a cell next to Straids cell in NG+"}]
+    },
+        
+    {
+        "name": "[Bastille] In the corridor after one illusory wall",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Bastille] In the corridor after one illusory wall", "ref": "Lost Bastille/[Bastille] In the corridor after one illusory wall"}]
+    },
+        
+    {
+        "name": "[Straid of Olaphis] Homing Soul Arrow",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Straid of Olaphis] Homing Soul Arrow", "ref": "Lost Bastille/[Straid of Olaphis] Homing Soul Arrow"}]
+    },
+        
+    {
+        "name": "[Straid of Olaphis] Resplendent Life",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Straid of Olaphis] Resplendent Life", "ref": "Lost Bastille/[Straid of Olaphis] Resplendent Life"}]
+    },
+        
+    {
+        "name": "[Straid of Olaphis] Unveil",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Straid of Olaphis] Unveil", "ref": "Lost Bastille/[Straid of Olaphis] Unveil"}]
+    },
+        
+    {
+        "name": "[Straid of Olaphis] Lingering Flame",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Straid of Olaphis] Lingering Flame", "ref": "Lost Bastille/[Straid of Olaphis] Lingering Flame"}]
+    },
+        
+    {
+        "name": "[Straid of Olaphis] Flame Swathe",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Straid of Olaphis] Flame Swathe", "ref": "Lost Bastille/[Straid of Olaphis] Flame Swathe"}]
+    },
+        
+    {
+        "name": "[Straid of Olaphis] Dark Orb",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Straid of Olaphis] Dark Orb", "ref": "Lost Bastille/[Straid of Olaphis] Dark Orb"}]
+    },
+        
+    {
+        "name": "[Straid of Olaphis] Dark Hail",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Straid of Olaphis] Dark Hail", "ref": "Lost Bastille/[Straid of Olaphis] Dark Hail"}]
+    },
+        
+    {
+        "name": "[Straid of Olaphis] Dark Fog",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Straid of Olaphis] Dark Fog", "ref": "Lost Bastille/[Straid of Olaphis] Dark Fog"}]
+    },
+        
+    {
+        "name": "[Straid of Olaphis] Affinity",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Straid of Olaphis] Affinity", "ref": "Lost Bastille/[Straid of Olaphis] Affinity"}]
+    },
+        
+    {
+        "name": "[Straid of Olaphis] Strong Magic Shield",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Straid of Olaphis] Strong Magic Shield", "ref": "Lost Bastille/[Straid of Olaphis] Strong Magic Shield"}]
+    },
+        
+    {
+        "name": "[Straid of Olaphis] Cast Light",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Straid of Olaphis] Cast Light", "ref": "Lost Bastille/[Straid of Olaphis] Cast Light"}]
+    },
+        
+    {
+        "name": "[Straid of Olaphis] Ring of Knowledge",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Straid of Olaphis] Ring of Knowledge", "ref": "Lost Bastille/[Straid of Olaphis] Ring of Knowledge"}]
+    },
+        
+    {
+        "name": "[Straid of Olaphis] Lingering Dragoncrest Ring",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Straid of Olaphis] Lingering Dragoncrest Ring", "ref": "Lost Bastille/[Straid of Olaphis] Lingering Dragoncrest Ring"}]
+    },
+        
+    {
+        "name": "[Straid of Olaphis] Agape Ring",
+        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
+        "sections": [{"name": "[Straid of Olaphis] Agape Ring", "ref": "Lost Bastille/[Straid of Olaphis] Agape Ring"}]
+    }
+        
+]
