@@ -162,12 +162,6 @@
     "codes": "pharStone"
   },
   {
-    "name": "Unpetrify Rosabeth",
-    "type": "toggle",
-    "img": "images/items/rosa",
-    "codes": "rosa"
-  },
-  {
     "name": "Rotunda Lockstone",
     "type": "toggle",
     "img": "images/items/Rotunda_Lockstone.png",
@@ -208,5 +202,86 @@
     "type": "toggle",
     "img": "images/items/GoMode.png",
     "codes": "goMode"
+  },
+
+  //petrified losers
+
+  {
+    "name": "Unpetrify Rosabeth",
+    "type": "toggle",
+    "img": "images/items/fragrantBranch.png",
+    "codes": "rosa"
+  },
+  {
+    "name": "Unpetrify Thing's Betwixt Man",
+    "type": "toggle",
+    "img": "images/items/fragrantBranch.png",
+    "codes": "betwixtMan"
+  },
+  {
+    "name": "Unpetrify Heide's Tower Man",
+    "type": "toggle",
+    "img": "images/items/fragrantBranch.png",
+    "codes": "heideMan"
+  },
+  {
+    "name": "Unpetrify Lost Bastille Man",
+    "type": "toggle",
+    "img": "images/items/fragrantBranch.png",
+    "codes": "bastilleMan"
+  },
+  {
+    "name": "Unpetrify Straide",
+    "type": "toggle",
+    "img": "images/items/fragrantBranch.png",
+    "codes": "straide"
+  },
+  {
+    "name": "Unpetrify Black Gulch Man",
+    "type": "toggle",
+    "img": "images/items/fragrantBranch.png",
+    "codes": "gulchMan"
+  },
+  {
+    "name": "Unpetrify Near Mantark Man",
+    "type": "toggle",
+    "img": "images/items/fragrantBranch.png",
+    "codes": "mantarkMan"
+  },
+  {
+    "name": "Unpetrify Near Black Knight Halberd",
+    "type": "toggle",
+    "img": "images/items/fragrantBranch.png",
+    "codes": "halberdMan"
+  },
+  {
+    "name": "Unpetrify Shaded Woods Chest Man",
+    "type": "toggle",
+    "img": "images/items/fragrantBranch.png",
+    "codes": "chestMan"
+  },
+  {
+    "name": "Unpetrify Lion Mage Set Man",
+    "type": "toggle",
+    "img": "images/items/fragrantBranch.png",
+    "codes": "lionMan"
+  },
+  {
+    "name": "Unpetrify Shaded Ruins (Fang Key) Man",
+    "type": "toggle",
+    "img": "images/items/fragrantBranch.png",
+    "codes": "fangMan"
+  },
+  {
+    "name": "Unpetrify Shaded Ruins (Warlock Mask)",
+    "type": "toggle",
+    "img": "images/items/fragrantBranch.png",
+    "codes": "maskMan"
+  },
+  {
+    "name": "Unpetrify Milfanito",
+    "type": "toggle",
+    "img": "images/items/fragrantBranch.png",
+    "codes": "milfanito"
   }
 ]

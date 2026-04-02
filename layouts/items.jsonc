@@ -55,11 +55,28 @@
                 "scepter",
                 "garyKey",
                 "eye"
+              ],
+              [
+                "rosa",
+                "betwixtMan",
+                "heideMan",
+                "bastilleMan",
+                "straide",
+                "gulchMan",
+                "mantarkMan"
+              ],
+              [
+                "halberdMan",
+                "chestMan",
+                "lionMan",
+                "fangMan",
+                "maskMan",
+                "milfanto"
               ]
             ]
           }
         ]
       }
     ]
-  }
+  },
 }
