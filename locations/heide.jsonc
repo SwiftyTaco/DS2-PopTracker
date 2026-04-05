@@ -112,61 +112,19 @@
     {
         "name": "[Licia of Lindeldt] Clerics Sacred Chime",
         "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
-        "sections": [{"name": "[Licia of Lindeldt] Clerics Sacred Chime", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Clerics Sacred Chime"}]
-    },
-    {
-        "name": "[Licia of Lindeldt] Heal",
-        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
-        "sections": [{"name": "[Licia of Lindeldt] Heal", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Heal"}]
-    },
-    {
-        "name": "[Licia of Lindeldt] Med Heal",
-        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
-        "sections": [{"name": "[Licia of Lindeldt] Med Heal", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Med Heal"}]
-    },
-    {
-        "name": "[Licia of Lindeldt] Great Heal Excerpt",
-        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
-        "sections": [{"name": "[Licia of Lindeldt] Great Heal Excerpt", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Great Heal Excerpt"}]
-    },
-    {
-        "name": "[Licia of Lindeldt] Replenishment",
-        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
-        "sections": [{"name": "[Licia of Lindeldt] Replenishment", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Replenishment"}]
-    },
-    {
-        "name": "[Licia of Lindeldt] Resplendent Life",
-        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
-        "sections": [{"name": "[Licia of Lindeldt] Resplendent Life", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Resplendent Life"}]
-    },
-    {
-        "name": "[Licia of Lindeldt] Caressing Prayer",
-        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
-        "sections": [{"name": "[Licia of Lindeldt] Caressing Prayer", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Caressing Prayer"}]
-    },
-    {
-        "name": "[Licia of Lindeldt] Force",
-        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
-        "sections": [{"name": "[Licia of Lindeldt] Force", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Force"}]
-    },
-    {
-        "name": "[Licia of Lindeldt] Lightning Spear",
-        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
-        "sections": [{"name": "[Licia of Lindeldt] Lightning Spear", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Lightning Spear"}]
-    },
-    {
-        "name": "[Licia of Lindeldt] Homeward",
-        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
-        "sections": [{"name": "[Licia of Lindeldt] Homeward", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Homeward"}]
-    },
-    {
-        "name": "[Licia of Lindeldt] Guidance",
-        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
-        "sections": [{"name": "[Licia of Lindeldt] Guidance", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Guidance"}]
-    },
-    {
-        "name": "[Licia of Lindeldt] Ring of Prayer",
-        "map_locations": [{"map": "Heide's Tower of Flame", "x": 0, "y": 0}],
-        "sections": [{"name": "[Licia of Lindeldt] Ring of Prayer", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Ring of Prayer"}]
+        "sections": [
+            {"name": "[Licia of Lindeldt] Clerics Sacred Chime", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Clerics Sacred Chime"},
+            {"name": "[Licia of Lindeldt] Heal", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Heal"},
+            {"name": "[Licia of Lindeldt] Med Heal", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Med Heal"},
+            {"name": "[Licia of Lindeldt] Great Heal Excerpt", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Great Heal Excerpt"},
+            {"name": "[Licia of Lindeldt] Replenishment", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Replenishment"},
+            {"name": "[Licia of Lindeldt] Resplendent Life", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Resplendent Life"},
+            {"name": "[Licia of Lindeldt] Caressing Prayer", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Caressing Prayer"},
+            {"name": "[Licia of Lindeldt] Force", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Force"},
+            {"name": "[Licia of Lindeldt] Lightning Spear", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Lightning Spear"},
+            {"name": "[Licia of Lindeldt] Homeward", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Homeward"},
+            {"name": "[Licia of Lindeldt] Guidance", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Guidance"},
+            {"name": "[Licia of Lindeldt] Ring of Prayer", "ref": "Heide's Tower of Flame/[Licia of Lindeldt] Ring of Prayer"}
+        ]
     }
 ]

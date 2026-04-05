@@ -198,164 +198,34 @@
     },
     
     {
-        "name": "[Magerold of Lanafir] Spiked Bandit Helm",
+        "name": "[Magerold of Lanafir]",
         "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Spiked Bandit Helm", "ref": "Iron Keep/[Magerold of Lanafir] Spiked Bandit Helm"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Bandit Armor",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Bandit Armor", "ref": "Iron Keep/[Magerold of Lanafir] Bandit Armor"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Bandit Gauntlets",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Bandit Gauntlets", "ref": "Iron Keep/[Magerold of Lanafir] Bandit Gauntlets"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Bandit Boots",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Bandit Boots", "ref": "Iron Keep/[Magerold of Lanafir] Bandit Boots"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Jesters Cap",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Jesters Cap", "ref": "Iron Keep/[Magerold of Lanafir] Jesters Cap"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Jesters Robes",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Jesters Robes", "ref": "Iron Keep/[Magerold of Lanafir] Jesters Robes"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Jesters Gloves",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Jesters Gloves", "ref": "Iron Keep/[Magerold of Lanafir] Jesters Gloves"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Jesters Tights",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Jesters Tights", "ref": "Iron Keep/[Magerold of Lanafir] Jesters Tights"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir/NG+2] Dragonrider Helm",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir/NG+2] Dragonrider Helm", "ref": "Iron Keep/[Magerold of Lanafir/NG+2] Dragonrider Helm"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir/NG+2] Dragonrider Armor",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir/NG+2] Dragonrider Armor", "ref": "Iron Keep/[Magerold of Lanafir/NG+2] Dragonrider Armor"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir/NG+2] Dragonrider Gauntlets",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir/NG+2] Dragonrider Gauntlets", "ref": "Iron Keep/[Magerold of Lanafir/NG+2] Dragonrider Gauntlets"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir/NG+2] Dragonrider Leggings",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir/NG+2] Dragonrider Leggings", "ref": "Iron Keep/[Magerold of Lanafir/NG+2] Dragonrider Leggings"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Soul Arrow",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Soul Arrow", "ref": "Iron Keep/[Magerold of Lanafir] Soul Arrow"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Great Soul Arrow",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Great Soul Arrow", "ref": "Iron Keep/[Magerold of Lanafir] Great Soul Arrow"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Heavy Soul Arrow",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Heavy Soul Arrow", "ref": "Iron Keep/[Magerold of Lanafir] Heavy Soul Arrow"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Great Heavy Soul Arrow",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Great Heavy Soul Arrow", "ref": "Iron Keep/[Magerold of Lanafir] Great Heavy Soul Arrow"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Dark Hail",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Dark Hail", "ref": "Iron Keep/[Magerold of Lanafir] Dark Hail"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Darkstorm",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Darkstorm", "ref": "Iron Keep/[Magerold of Lanafir] Darkstorm"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Fall Control",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Fall Control", "ref": "Iron Keep/[Magerold of Lanafir] Fall Control"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Cursebite Ring",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Cursebite Ring", "ref": "Iron Keep/[Magerold of Lanafir] Cursebite Ring"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Hello Carving",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Hello Carving", "ref": "Iron Keep/[Magerold of Lanafir] Hello Carving"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Thank You Carving",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Thank You Carving", "ref": "Iron Keep/[Magerold of Lanafir] Thank You Carving"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Im Sorry Carving",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Im Sorry Carving", "ref": "Iron Keep/[Magerold of Lanafir] Im Sorry Carving"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Very Good! Carving",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Very Good! Carving", "ref": "Iron Keep/[Magerold of Lanafir] Very Good! Carving"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Repair Powder",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Repair Powder", "ref": "Iron Keep/[Magerold of Lanafir] Repair Powder"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Human Effigy",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Human Effigy", "ref": "Iron Keep/[Magerold of Lanafir] Human Effigy"}]
-    },
-    
-    {
-        "name": "[Magerold of Lanafir] Fragrant Branch of Yore",
-        "map_locations": [{"map": "Iron Keep", "x": "0", "y": 0}],
-        "sections": [{"name": "[Magerold of Lanafir] Fragrant Branch of Yore", "ref": "Iron Keep/[Magerold of Lanafir] Fragrant Branch of Yore"}]
+        "sections": [
+            {"name": "[Magerold of Lanafir] Spiked Bandit Helm", "ref": "Iron Keep/[Magerold of Lanafir] Spiked Bandit Helm"},
+            {"name": "[Magerold of Lanafir] Bandit Armor", "ref": "Iron Keep/[Magerold of Lanafir] Bandit Armor"},
+            {"name": "[Magerold of Lanafir] Bandit Gauntlets", "ref": "Iron Keep/[Magerold of Lanafir] Bandit Gauntlets"},
+            {"name": "[Magerold of Lanafir] Bandit Boots", "ref": "Iron Keep/[Magerold of Lanafir] Bandit Boots"},
+            {"name": "[Magerold of Lanafir] Jesters Cap", "ref": "Iron Keep/[Magerold of Lanafir] Jesters Cap"},
+            {"name": "[Magerold of Lanafir] Jesters Robes", "ref": "Iron Keep/[Magerold of Lanafir] Jesters Robes"},
+            {"name": "[Magerold of Lanafir] Jesters Gloves", "ref": "Iron Keep/[Magerold of Lanafir] Jesters Gloves"},
+            {"name": "[Magerold of Lanafir] Jesters Tights", "ref": "Iron Keep/[Magerold of Lanafir] Jesters Tights"},
+            {"name": "[Magerold of Lanafir/NG+2] Dragonrider Helm", "ref": "Iron Keep/[Magerold of Lanafir/NG+2] Dragonrider Helm"},
+            {"name": "[Magerold of Lanafir/NG+2] Dragonrider Armor", "ref": "Iron Keep/[Magerold of Lanafir/NG+2] Dragonrider Armor"},
+            {"name": "[Magerold of Lanafir/NG+2] Dragonrider Gauntlets", "ref": "Iron Keep/[Magerold of Lanafir/NG+2] Dragonrider Gauntlets"},
+            {"name": "[Magerold of Lanafir/NG+2] Dragonrider Leggings", "ref": "Iron Keep/[Magerold of Lanafir/NG+2] Dragonrider Leggings"},
+            {"name": "[Magerold of Lanafir] Soul Arrow", "ref": "Iron Keep/[Magerold of Lanafir] Soul Arrow"},
+            {"name": "[Magerold of Lanafir] Great Soul Arrow", "ref": "Iron Keep/[Magerold of Lanafir] Great Soul Arrow"},
+            {"name": "[Magerold of Lanafir] Heavy Soul Arrow", "ref": "Iron Keep/[Magerold of Lanafir] Heavy Soul Arrow"},
+            {"name": "[Magerold of Lanafir] Great Heavy Soul Arrow", "ref": "Iron Keep/[Magerold of Lanafir] Great Heavy Soul Arrow"},
+            {"name": "[Magerold of Lanafir] Dark Hail", "ref": "Iron Keep/[Magerold of Lanafir] Dark Hail"},
+            {"name": "[Magerold of Lanafir] Darkstorm", "ref": "Iron Keep/[Magerold of Lanafir] Darkstorm"},
+            {"name": "[Magerold of Lanafir] Fall Control", "ref": "Iron Keep/[Magerold of Lanafir] Fall Control"},
+            {"name": "[Magerold of Lanafir] Cursebite Ring", "ref": "Iron Keep/[Magerold of Lanafir] Cursebite Ring"},
+            {"name": "[Magerold of Lanafir] Hello Carving", "ref": "Iron Keep/[Magerold of Lanafir] Hello Carving"},
+            {"name": "[Magerold of Lanafir] Thank You Carving", "ref": "Iron Keep/[Magerold of Lanafir] Thank You Carving"},
+            {"name": "[Magerold of Lanafir] Im Sorry Carving", "ref": "Iron Keep/[Magerold of Lanafir] Im Sorry Carving"},
+            {"name": "[Magerold of Lanafir] Very Good! Carving", "ref": "Iron Keep/[Magerold of Lanafir] Very Good! Carving"},
+            {"name": "[Magerold of Lanafir] Repair Powder", "ref": "Iron Keep/[Magerold of Lanafir] Repair Powder"},
+        ]
     }
 ]

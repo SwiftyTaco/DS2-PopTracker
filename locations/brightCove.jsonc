@@ -384,93 +384,24 @@
     },
 
 	{
-        "name": "[Cromwell the Pardoner] White Priest Headpiece",
+        "name": "[Cromwell the Pardoner]",
         "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
-        "sections": [{"name": "[Cromwell the Pardoner] White Priest Headpiece", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] White Priest Headpiece"}]
-    },
-
-	{
-        "name": "[Cromwell the Pardoner] White Priest Robe",
-        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
-        "sections": [{"name": "[Cromwell the Pardoner] White Priest Robe", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] White Priest Robe"}]
-    },
-
-	{
-        "name": "[Cromwell the Pardoner] White Priest Gloves",
-        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
-        "sections": [{"name": "[Cromwell the Pardoner] White Priest Gloves", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] White Priest Gloves"}]
-    },
-
-	{
-        "name": "[Cromwell the Pardoner] White Priest Skirt",
-        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
-        "sections": [{"name": "[Cromwell the Pardoner] White Priest Skirt", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] White Priest Skirt"}]
-    },
-
-	{
-        "name": "[Cromwell the Pardoner] Great Heal",
-        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
-        "sections": [{"name": "[Cromwell the Pardoner] Great Heal", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Great Heal"}]
-    },
-
-	{
-        "name": "[Cromwell the Pardoner] Replenishment",
-        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
-        "sections": [{"name": "[Cromwell the Pardoner] Replenishment", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Replenishment"}]
-    },
-
-	{
-        "name": "[Cromwell the Pardoner] Caressing Prayer",
-        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
-        "sections": [{"name": "[Cromwell the Pardoner] Caressing Prayer", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Caressing Prayer"}]
-    },
-
-	{
-        "name": "[Cromwell the Pardoner] Force",
-        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
-        "sections": [{"name": "[Cromwell the Pardoner] Force", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Force"}]
-    },
-
-	{
-        "name": "[Cromwell the Pardoner] Emit Force",
-        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
-        "sections": [{"name": "[Cromwell the Pardoner] Emit Force", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Emit Force"}]
-    },
-
-	{
-        "name": "[Cromwell the Pardoner] Heavenly Thunder",
-        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
-        "sections": [{"name": "[Cromwell the Pardoner] Heavenly Thunder", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Heavenly Thunder"}]
-    },
-
-	{
-        "name": "[Cromwell the Pardoner] Perseverance",
-        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
-        "sections": [{"name": "[Cromwell the Pardoner] Perseverance", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Perseverance"}]
-    },
-
-	{
-        "name": "[Cromwell the Pardoner] Scraps of Life",
-        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
-        "sections": [{"name": "[Cromwell the Pardoner] Scraps of Life", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Scraps of Life"}]
-    },
-
-	{
-        "name": "[Cromwell the Pardoner] Poisonbite Ring",
-        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
-        "sections": [{"name": "[Cromwell the Pardoner] Poisonbite Ring", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Poisonbite Ring"}]
-    },
-
-	{
-        "name": "[Cromwell the Pardoner] Bloodbite Ring",
-        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
-        "sections": [{"name": "[Cromwell the Pardoner] Bloodbite Ring", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Bloodbite Ring"}]
-    },
-
-	{
-        "name": "[Cromwell the Pardoner] Cursebite Ring",
-        "map_locations": [{"map": "Brightstone Cove Tseldora", "x": "0", "y": 0}],
-        "sections": [{"name": "[Cromwell the Pardoner] Cursebite Ring", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Cursebite Ring"}]
+        "sections": [
+            {"name": "[Cromwell the Pardoner] White Priest Headpiece", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] White Priest Headpiece"},
+            {"name": "[Cromwell the Pardoner] White Priest Robe", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] White Priest Robe"},
+            {"name": "[Cromwell the Pardoner] White Priest Gloves", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] White Priest Gloves"},
+            {"name": "[Cromwell the Pardoner] White Priest Skirt", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] White Priest Skirt"},
+            {"name": "[Cromwell the Pardoner] Great Heal", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Great Heal"},
+            {"name": "[Cromwell the Pardoner] Replenishment", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Replenishment"},
+            {"name": "[Cromwell the Pardoner] Caressing Prayer", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Caressing Prayer"},
+            {"name": "[Cromwell the Pardoner] Force", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Force"},
+            {"name": "[Cromwell the Pardoner] Emit Force", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Emit Force"},
+            {"name": "[Cromwell the Pardoner] Heavenly Thunder", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Heavenly Thunder"},
+            {"name": "[Cromwell the Pardoner] Perseverance", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Perseverance"},
+            {"name": "[Cromwell the Pardoner] Scraps of Life", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Scraps of Life"},
+            {"name": "[Cromwell the Pardoner] Poisonbite Ring", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Poisonbite Ring"},
+            {"name": "[Cromwell the Pardoner] Bloodbite Ring", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Bloodbite Ring"},
+            {"name": "[Cromwell the Pardoner] Cursebite Ring", "ref": "Brightstone Cove Tseldora/[Cromwell the Pardoner] Cursebite Ring"}
+        ]
     }
-
 ]

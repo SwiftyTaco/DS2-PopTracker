@@ -306,38 +306,15 @@
     },
         
     {
-        "name": "[Head of Vengarl] Claymore",
+        "name": "[Head of Vengarl]",
         "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
-        "sections": [{"name": "[Head of Vengarl] Claymore", "ref": "Shaded Woods/[Head of Vengarl] Claymore"}]
-    },
-        
-    {
-        "name": "[Head of Vengarl] Greatsword",
-        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
-        "sections": [{"name": "[Head of Vengarl] Greatsword", "ref": "Shaded Woods/[Head of Vengarl] Greatsword"}]
-    },
-        
-    {
-        "name": "[Head of Vengarl] Red Rust Sword",
-        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
-        "sections": [{"name": "[Head of Vengarl] Red Rust Sword", "ref": "Shaded Woods/[Head of Vengarl] Red Rust Sword"}]
-    },
-        
-    {
-        "name": "[Head of Vengarl] Red Rust Scimitar",
-        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
-        "sections": [{"name": "[Head of Vengarl] Red Rust Scimitar", "ref": "Shaded Woods/[Head of Vengarl] Red Rust Scimitar"}]
-    },
-        
-    {
-        "name": "[Head of Vengarl] Red Rust Shield",
-        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
-        "sections": [{"name": "[Head of Vengarl] Red Rust Shield", "ref": "Shaded Woods/[Head of Vengarl] Red Rust Shield"}]
-    },
-        
-    {
-        "name": "[Head of Vengarl] Magic Barrier",
-        "map_locations": [{"map": "Shaded Woods", "x": 0, "y": 0}],
-        "sections": [{"name": "[Head of Vengarl] Magic Barrier", "ref": "Shaded Woods/[Head of Vengarl] Magic Barrier"}]
-    }   
+        "sections": [
+            {"name": "[Head of Vengarl] Claymore", "ref": "Shaded Woods/[Head of Vengarl] Claymore"},
+            {"name": "[Head of Vengarl] Greatsword", "ref": "Shaded Woods/[Head of Vengarl] Greatsword"},
+            {"name": "[Head of Vengarl] Red Rust Sword", "ref": "Shaded Woods/[Head of Vengarl] Red Rust Sword"},
+            {"name": "[Head of Vengarl] Red Rust Scimitar", "ref": "Shaded Woods/[Head of Vengarl] Red Rust Scimitar"},
+            {"name": "[Head of Vengarl] Red Rust Shield", "ref": "Shaded Woods/[Head of Vengarl] Red Rust Shield"},
+            {"name": "[Head of Vengarl] Magic Barrier", "ref": "Shaded Woods/[Head of Vengarl] Magic Barrier"}
+        ]
+    }
 ]

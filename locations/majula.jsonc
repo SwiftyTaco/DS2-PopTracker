@@ -38,7 +38,8 @@
     {
         "name": "[Majula] Metal chest in staircase towards Heides Tower of Flame", 
         "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Majula] Metal chest in staircase towards Heides Tower of Flame", "ref": "Majula/[Majula] Metal chest in staircase towards Heides Tower of Flame"}]
+        "sections": 
+        [{"name": "[Majula] Metal chest in staircase towards Heides Tower of Flame", "ref": "Majula/[Majula] Metal chest in staircase towards Heides Tower of Flame"}]
     },
 
     {
@@ -114,374 +115,101 @@
     },
 
     {
-        "name": "[Laddersmith Gilligan/Majula] Reinforced Club", 
+        "name": "[Laddersmith Gilligan/Majula]", 
         "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Laddersmith Gilligan/Majula] Reinforced Club", "ref": "Majula/[Laddersmith Gilligan/Majula] Reinforced Club"}]
+        "sections": [
+            {"name": "[Laddersmith Gilligan/Majula] Reinforced Club", "ref": "Majula/[Laddersmith Gilligan/Majula] Reinforced Club"},
+            {"name": "[Laddersmith Gilligan/Majula] Claws", "ref": "Majula/[Laddersmith Gilligan/Majula] Claws"},
+            {"name": "[Laddersmith Gilligan/Majula] Whip", "ref": "Majula/[Laddersmith Gilligan/Majula] Whip"},
+            {"name": "[Laddersmith Gilligan/Majula] Wooden Shield", "ref": "Majula/[Laddersmith Gilligan/Majula] Wooden Shield"},
+            {"name": "[Laddersmith Gilligan/Majula] Thief Mask", "ref": "Majula/[Laddersmith Gilligan/Majula] Thief Mask"},
+            {"name": "[Laddersmith Gilligan/Majula] Black Leather Armor", "ref": "Majula/[Laddersmith Gilligan/Majula] Black Leather Armor"},
+            {"name": "[Laddersmith Gilligan/Majula] Black Leather Gloves", "ref": "Majula/[Laddersmith Gilligan/Majula] Black Leather Gloves"},
+            {"name": "[Laddersmith Gilligan/Majula] Black Leather Boots", "ref": "Majula/[Laddersmith Gilligan/Majula] Black Leather Boots"},
+            {"name": "[Laddersmith Gilligan/Majula] Ladder Miniature", "ref": "Majula/[Laddersmith Gilligan/Majula] Ladder Miniature"}
+        ]
     },
 
     {
-        "name": "[Laddersmith Gilligan/Majula] Claws", 
+        "name": "[Sweet Shalquoir]", 
         "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Laddersmith Gilligan/Majula] Claws", "ref": "Majula/[Laddersmith Gilligan/Majula] Claws"}]
+        "sections": [
+            {"name": "[Sweet Shalquoir] Silvercat Ring", "ref": "Majula/[Sweet Shalquoir] Silvercat Ring"},
+            {"name": "[Sweet Shalquoir] Redeye ring", "ref": "Majula/[Sweet Shalquoir] Redeye ring"},
+            {"name": "[Sweet Shalquoir] Name-engraved Ring", "ref": "Majula/[Sweet Shalquoir] Name-engraved Ring"},
+            {"name": "[Sweet Shalquoir] Ring of Whispers", "ref": "Majula/[Sweet Shalquoir] Ring of Whispers"},
+            {"name": "[Sweet Shalquoir] Ring of the Evil Eye", "ref": "Majula/[Sweet Shalquoir] Ring of the Evil Eye"}
+
+        ]
     },
 
     {
-        "name": "[Laddersmith Gilligan/Majula] Whip", 
+        "name": "[Maughlin the Armourer]", 
         "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Laddersmith Gilligan/Majula] Whip", "ref": "Majula/[Laddersmith Gilligan/Majula] Whip"}]
+        "sections": [
+            {"name": "[Maughlin the Armourer] Iron Parma", "ref": "Majula/[Maughlin the Armourer] Iron Parma"},
+            {"name": "[Maughlin the Armourer] Silver Eagle Kite Shield", "ref": "Majula/[Maughlin the Armourer] Silver Eagle Kite Shield"},
+            {"name": "[Maughlin the Armourer] Twin Dragon Greatshield", "ref": "Majula/[Maughlin the Armourer] Twin Dragon Greatshield"},
+            {"name": "[Maughlin the Armourer] Standard Helm", "ref": "Majula/[Maughlin the Armourer] Standard Helm"},
+            {"name": "[Maughlin the Armourer] Hard Leather Armor", "ref": "Majula/[Maughlin the Armourer] Hard Leather Armor"},
+            {"name": "[Maughlin the Armourer] Hard Leather Gauntlets", "ref": "Majula/[Maughlin the Armourer] Hard Leather Gauntlets"},
+            {"name": "[Maughlin the Armourer] Hard Leather Boots", "ref": "Majula/[Maughlin the Armourer] Hard Leather Boots"},
+            {"name": "[Maughlin the Armourer] Falconer Helm", "ref": "Majula/[Maughlin the Armourer] Falconer Helm"},
+            {"name": "[Maughlin the Armourer] Falconer Armor", "ref": "Majula/[Maughlin the Armourer] Falconer Armor"},
+            {"name": "[Maughlin the Armourer] Falconer Gloves", "ref": "Majula/[Maughlin the Armourer] Falconer Gloves"},
+            {"name": "[Maughlin the Armourer] Falconer Boots", "ref": "Majula/[Maughlin the Armourer] Falconer Boots"},
+            {"name": "[Maughlin the Armourer] Infantry Armor", "ref": "Majula/[Maughlin the Armourer] Infantry Armor"},
+            {"name": "[Maughlin the Armourer] Infantry Gloves", "ref": "Majula/[Maughlin the Armourer] Infantry Gloves"},
+            {"name": "[Maughlin the Armourer] Infantry Boots", "ref": "Majula/[Maughlin the Armourer] Infantry Boots"},
+            {"name": "[Maughlin the Armourer/Lost Sinner] Penal Mask", "ref": "Majula/[Maughlin the Armourer/Lost Sinner] Penal Mask"},
+            {"name": "[Maughlin the Armourer/Lost Sinner] Penal Straightjacket", "ref": "Majula/[Maughlin the Armourer/Lost Sinner] Penal Straightjacket"},
+            {"name": "[Maughlin the Armourer/Lost Sinner] Penal Handcuffs", "ref": "Majula/[Maughlin the Armourer/Lost Sinner] Penal Handcuffs"},
+            {"name": "[Maughlin the Armourer/Lost Sinner] Penal Skirt", "ref": "Majula/[Maughlin the Armourer/Lost Sinner] Penal Skirt"},
+            {"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Helm", "ref": "Majula/[Maughlin the Armourer/Smelter Demon] Smelter Demon Helm"},
+            {"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Armor", "ref": "Majula/[Maughlin the Armourer/Smelter Demon] Smelter Demon Armor"},
+            {"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Gauntlets", "ref": "Majula/[Maughlin the Armourer/Smelter Demon] Smelter Demon Gauntlets"},
+            {"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Leggings", "ref": "Majula/[Maughlin the Armourer/Smelter Demon] Smelter Demon Leggings"},
+            {"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Mask", "ref": "Majula/[Maughlin the Armourer/Looking Glass Knight] Looking Glass Mask"},
+            {"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Armor", "ref": "Majula/[Maughlin the Armourer/Looking Glass Knight] Looking Glass Armor"},
+            {"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Gauntlets", "ref": "Majula/[Maughlin the Armourer/Looking Glass Knight] Looking Glass Gauntlets"},
+            {"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Leggings", "ref": "Majula/[Maughlin the Armourer/Looking Glass Knight] Looking Glass Leggings"},
+            {"name": "[Maughlin the Armourer/Velstadt] Velstadts Helm", "ref": "Majula/[Maughlin the Armourer/Velstadt] Velstadts Helm"},
+            {"name": "[Maughlin the Armourer/Velstadt] Velstadts Armor", "ref": "Majula/[Maughlin the Armourer/Velstadt] Velstadts Armor"},
+            {"name": "[Maughlin the Armourer/Velstadt] Velstadts Gauntlets", "ref": "Majula/[Maughlin the Armourer/Velstadt] Velstadts Gauntlets"},
+            {"name": "[Maughlin the Armourer/Velstadt] Velstadts Leggings", "ref": "Majula/[Maughlin the Armourer/Velstadt] Velstadts Leggings"}
+        ]
     },
 
     {
-        "name": "[Laddersmith Gilligan/Majula] Wooden Shield", 
+        "name": "[Rosabeth of Melfia]", 
         "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Laddersmith Gilligan/Majula] Wooden Shield", "ref": "Majula/[Laddersmith Gilligan/Majula] Wooden Shield"}]
-    },
+        "sections": [
+            {"name": "[Rosabeth of Melfia] Fireball", "ref": "Majula/[Rosabeth of Melfia] Fireball"},
+            {"name": "[Rosabeth of Melfia] Fire Orb", "ref": "Majula/[Rosabeth of Melfia] Fire Orb"},
+            {"name": "[Rosabeth of Melfia] Combustion", "ref": "Majula/[Rosabeth of Melfia] Combustion"},
+            {"name": "[Rosabeth of Melfia] Poison Mist", "ref": "Majula/[Rosabeth of Melfia] Poison Mist"},
+            {"name": "[Rosabeth of Melfia] Flash Sweat", "ref": "Majula/[Rosabeth of Melfia] Flash Sweat"},
+            {"name": "[Rosabeth of Melfia] Iron Flesh", "ref": "Majula/[Rosabeth of Melfia] Iron Flesh"},
+            {"name": "[Rosabeth of Melfia] Flame Quartz Ring", "ref": "Majula/[Rosabeth of Melfia] Flame Quartz Ring"},
+            {"name": "[Rosabeth of Melfia] Thunder Quartz Ring", "ref": "Majula/[Rosabeth of Melfia] Thunder Quartz Ring"},
+            {"name": "[Rosabeth of Melfia] Dark Quartz Ring", "ref": "Majula/[Rosabeth of Melfia] Dark Quartz Ring"}
 
-    {
-        "name": "[Laddersmith Gilligan/Majula] Thief Mask", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Laddersmith Gilligan/Majula] Thief Mask", "ref": "Majula/[Laddersmith Gilligan/Majula] Thief Mask"}]
-    },
-
-    {
-        "name": "[Laddersmith Gilligan/Majula] Black Leather Armor", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Laddersmith Gilligan/Majula] Black Leather Armor", "ref": "Majula/[Laddersmith Gilligan/Majula] Black Leather Armor"}]
-    },
-
-    {
-        "name": "[Laddersmith Gilligan/Majula] Black Leather Gloves", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Laddersmith Gilligan/Majula] Black Leather Gloves", "ref": "Majula/[Laddersmith Gilligan/Majula] Black Leather Gloves"}]
-    },
-
-    {
-        "name": "[Laddersmith Gilligan/Majula] Black Leather Boots", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Laddersmith Gilligan/Majula] Black Leather Boots", "ref": "Majula/[Laddersmith Gilligan/Majula] Black Leather Boots"}]
-    },
-
-    {
-        "name": "[Laddersmith Gilligan/Majula] Ladder Miniature", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Laddersmith Gilligan/Majula] Ladder Miniature", "ref": "Majula/[Laddersmith Gilligan/Majula] Ladder Miniature"}]
-    },
-
-    {
-        "name": "[Sweet Shalquoir] Silvercat Ring", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Sweet Shalquoir] Silvercat Ring", "ref": "Majula/[Sweet Shalquoir] Silvercat Ring"}]
-    },
-
-    {
-        "name": "[Sweet Shalquoir] Redeye ring", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Sweet Shalquoir] Redeye ring", "ref": "Majula/[Sweet Shalquoir] Redeye ring"}]
-    },
-
-    {
-        "name": "[Sweet Shalquoir] Name-engraved Ring", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Sweet Shalquoir] Name-engraved Ring", "ref": "Majula/[Sweet Shalquoir] Name-engraved Ring"}]
-    },
-
-    {
-        "name": "[Sweet Shalquoir] Ring of Whispers", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Sweet Shalquoir] Ring of Whispers", "ref": "Majula/[Sweet Shalquoir] Ring of Whispers"}]
-    },
-
-    {
-        "name": "[Sweet Shalquoir] Ring of the Evil Eye", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Sweet Shalquoir] Ring of the Evil Eye", "ref": "Majula/[Sweet Shalquoir] Ring of the Evil Eye"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer] Iron Parma", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer] Iron Parma", "ref": "Majula/[Maughlin the Armourer] Iron Parma"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer] Silver Eagle Kite Shield", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer] Silver Eagle Kite Shield", "ref": "Majula/[Maughlin the Armourer] Silver Eagle Kite Shield"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer] Twin Dragon Greatshield", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer] Twin Dragon Greatshield", "ref": "Majula/[Maughlin the Armourer] Twin Dragon Greatshield"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer] Standard Helm", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer] Standard Helm", "ref": "Majula/[Maughlin the Armourer] Standard Helm"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer] Hard Leather Armor", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer] Hard Leather Armor", "ref": "Majula/[Maughlin the Armourer] Hard Leather Armor"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer] Hard Leather Gauntlets", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer] Hard Leather Gauntlets", "ref": "Majula/[Maughlin the Armourer] Hard Leather Gauntlets"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer] Hard Leather Boots", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer] Hard Leather Boots", "ref": "Majula/[Maughlin the Armourer] Hard Leather Boots"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer] Falconer Helm", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer] Falconer Helm", "ref": "Majula/[Maughlin the Armourer] Falconer Helm"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer] Falconer Armor", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer] Falconer Armor", "ref": "Majula/[Maughlin the Armourer] Falconer Armor"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer] Falconer Gloves", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer] Falconer Gloves", "ref": "Majula/[Maughlin the Armourer] Falconer Gloves"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer] Falconer Boots", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer] Falconer Boots", "ref": "Majula/[Maughlin the Armourer] Falconer Boots"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer] Infantry Armor", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer] Infantry Armor", "ref": "Majula/[Maughlin the Armourer] Infantry Armor"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer] Infantry Gloves", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer] Infantry Gloves", "ref": "Majula/[Maughlin the Armourer] Infantry Gloves"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer] Infantry Boots", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer] Infantry Boots", "ref": "Majula/[Maughlin the Armourer] Infantry Boots"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Lost Sinner] Penal Mask", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Lost Sinner] Penal Mask", "ref": "Majula/[Maughlin the Armourer/Lost Sinner] Penal Mask"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Lost Sinner] Penal Straightjacket", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Lost Sinner] Penal Straightjacket", "ref": "Majula/[Maughlin the Armourer/Lost Sinner] Penal Straightjacket"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Lost Sinner] Penal Handcuffs", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Lost Sinner] Penal Handcuffs", "ref": "Majula/[Maughlin the Armourer/Lost Sinner] Penal Handcuffs"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Lost Sinner] Penal Skirt", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Lost Sinner] Penal Skirt", "ref": "Majula/[Maughlin the Armourer/Lost Sinner] Penal Skirt"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Helm", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Helm", "ref": "Majula/[Maughlin the Armourer/Smelter Demon] Smelter Demon Helm"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Armor", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Armor", "ref": "Majula/[Maughlin the Armourer/Smelter Demon] Smelter Demon Armor"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Gauntlets", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Gauntlets", "ref": "Majula/[Maughlin the Armourer/Smelter Demon] Smelter Demon Gauntlets"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Leggings", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Smelter Demon] Smelter Demon Leggings", "ref": "Majula/[Maughlin the Armourer/Smelter Demon] Smelter Demon Leggings"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Mask", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Mask", "ref": "Majula/[Maughlin the Armourer/Looking Glass Knight] Looking Glass Mask"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Armor", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Armor", "ref": "Majula/[Maughlin the Armourer/Looking Glass Knight] Looking Glass Armor"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Gauntlets", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Gauntlets", "ref": "Majula/[Maughlin the Armourer/Looking Glass Knight] Looking Glass Gauntlets"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Leggings", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Looking Glass Knight] Looking Glass Leggings", "ref": "Majula/[Maughlin the Armourer/Looking Glass Knight] Looking Glass Leggings"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Velstadt] Velstadts Helm", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Velstadt] Velstadts Helm", "ref": "Majula/[Maughlin the Armourer/Velstadt] Velstadts Helm"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Velstadt] Velstadts Armor", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Velstadt] Velstadts Armor", "ref": "Majula/[Maughlin the Armourer/Velstadt] Velstadts Armor"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Velstadt] Velstadts Gauntlets", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Velstadt] Velstadts Gauntlets", "ref": "Majula/[Maughlin the Armourer/Velstadt] Velstadts Gauntlets"}]
-    },
-
-    {
-        "name": "[Maughlin the Armourer/Velstadt] Velstadts Leggings", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Maughlin the Armourer/Velstadt] Velstadts Leggings", "ref": "Majula/[Maughlin the Armourer/Velstadt] Velstadts Leggings"}]
-    },
-
-    {
-        "name": "[Rosabeth of Melfia] Fireball", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Rosabeth of Melfia] Fireball", "ref": "Majula/[Rosabeth of Melfia] Fireball"}]
-    },
-
-    {
-        "name": "[Rosabeth of Melfia] Fire Orb", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Rosabeth of Melfia] Fire Orb", "ref": "Majula/[Rosabeth of Melfia] Fire Orb"}]
-    },
-
-    {
-        "name": "[Rosabeth of Melfia] Combustion", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Rosabeth of Melfia] Combustion", "ref": "Majula/[Rosabeth of Melfia] Combustion"}]
-    },
-
-    {
-        "name": "[Rosabeth of Melfia] Poison Mist", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Rosabeth of Melfia] Poison Mist", "ref": "Majula/[Rosabeth of Melfia] Poison Mist"}]
-    },
-
-    {
-        "name": "[Rosabeth of Melfia] Flash Sweat", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Rosabeth of Melfia] Flash Sweat", "ref": "Majula/[Rosabeth of Melfia] Flash Sweat"}]
-    },
-
-    {
-        "name": "[Rosabeth of Melfia] Iron Flesh", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Rosabeth of Melfia] Iron Flesh", "ref": "Majula/[Rosabeth of Melfia] Iron Flesh"}]
-    
-    },
-    {
-        "name": "[Rosabeth of Melfia] Flame Quartz Ring", 
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}], 
-        "sections": [{"name": "[Rosabeth of Melfia] Flame Quartz Ring", "ref": "Majula/[Rosabeth of Melfia] Flame Quartz Ring"}]
-    },
-    {
-        "name": "[Rosabeth of Melfia] Thunder Quartz Ring",
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}],
-        "sections": [{"name": "[Rosabeth of Melfia] Thunder Quartz Ring", "ref": "Majula/[Rosabeth of Melfia] Thunder Quartz Ring"}]
+        ]
     },
         
 	{
-        "name": "[Rosabeth of Melfia] Dark Quartz Ring",
+        "name": "[Blacksmith Lenigrast]",
         "map_locations": [{"map": "Majula", "x": 0, "y": 0}],
-        "sections": [{"name": "[Rosabeth of Melfia] Dark Quartz Ring", "ref": "Majula/[Rosabeth of Melfia] Dark Quartz Ring"}]
-    },
-        
-	{
-        "name": "[Blacksmith Lenigrast] Longsword",
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}],
-        "sections": [{"name": "[Blacksmith Lenigrast] Longsword", "ref": "Majula/[Blacksmith Lenigrast] Longsword"}]
-    },
-        
-	{
-        "name": "[Blacksmith Lenigrast] Broadsword",
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}],
-        "sections": [{"name": "[Blacksmith Lenigrast] Broadsword", "ref": "Majula/[Blacksmith Lenigrast] Broadsword"}]
-    },
-        
-	{
-        "name": "[Blacksmith Lenigrast] Estoc",
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}],
-        "sections": [{"name": "[Blacksmith Lenigrast] Estoc", "ref": "Majula/[Blacksmith Lenigrast] Estoc"}]
-    },
-        
-	{
-        "name": "[Blacksmith Lenigrast] Rapier",
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}],
-        "sections": [{"name": "[Blacksmith Lenigrast] Rapier", "ref": "Majula/[Blacksmith Lenigrast] Rapier"}]
-    },
-        
-	{
-        "name": "[Blacksmith Lenigrast] Falchion",
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}],
-        "sections": [{"name": "[Blacksmith Lenigrast] Falchion", "ref": "Majula/[Blacksmith Lenigrast] Falchion"}]
-    },
-        
-	{
-        "name": "[Blacksmith Lenigrast] Battle Axe",
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}],
-        "sections": [{"name": "[Blacksmith Lenigrast] Battle Axe", "ref": "Majula/[Blacksmith Lenigrast] Battle Axe"}]
-    },
-        
-	{
-        "name": "[Blacksmith Lenigrast] Mace",
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}],
-        "sections": [{"name": "[Blacksmith Lenigrast] Mace", "ref": "Majula/[Blacksmith Lenigrast] Mace"}]
-    },
-        
-	{
-        "name": "[Blacksmith Lenigrast] Spear",
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}],
-        "sections": [{"name": "[Blacksmith Lenigrast] Spear", "ref": "Majula/[Blacksmith Lenigrast] Spear"}]
-    },
-        
-	{
-        "name": "[Blacksmith Lenigrast] Repair Powder",
-        "map_locations": [{"map": "Majula", "x": 0, "y": 0}],
-        "sections": [{"name": "[Blacksmith Lenigrast] Repair Powder", "ref": "Majula/[Blacksmith Lenigrast] Repair Powder"}]
+        "sections": [
+            {"name": "[Blacksmith Lenigrast] Longsword", "ref": "Majula/[Blacksmith Lenigrast] Longsword"},
+            {"name": "[Blacksmith Lenigrast] Broadsword", "ref": "Majula/[Blacksmith Lenigrast] Broadsword"},
+            {"name": "[Blacksmith Lenigrast] Estoc", "ref": "Majula/[Blacksmith Lenigrast] Estoc"},
+            {"name": "[Blacksmith Lenigrast] Rapier", "ref": "Majula/[Blacksmith Lenigrast] Rapier"},
+            {"name": "[Blacksmith Lenigrast] Falchion", "ref": "Majula/[Blacksmith Lenigrast] Falchion"},
+            {"name": "[Blacksmith Lenigrast] Battle Axe", "ref": "Majula/[Blacksmith Lenigrast] Battle Axe"},
+            {"name": "[Blacksmith Lenigrast] Mace", "ref": "Majula/[Blacksmith Lenigrast] Mace"},
+            {"name": "[Blacksmith Lenigrast] Spear", "ref": "Majula/[Blacksmith Lenigrast] Spear"},
+            {"name": "[Blacksmith Lenigrast] Repair Powder", "ref": "Majula/[Blacksmith Lenigrast] Repair Powder"}
+        ]
     }
-        
 ]

@@ -353,81 +353,23 @@
     },
 
     {
-     "name": "[Merchant Hag Melentia] Broken Straight Sword",
+     "name": "[Merchant Hag Melentia]",
      "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
-     "sections": [{"name": "[Merchant Hag Melentia] Broken Straight Sword", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Broken Straight Sword"}]
-    },
-
-    {
-     "name": "[Merchant Hag Melentia] Hand Axe",
-     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
-     "sections": [{"name": "[Merchant Hag Melentia] Hand Axe", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Hand Axe"}]
-    },
-
-    {
-     "name": "[Merchant Hag Melentia] Club",
-     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
-     "sections": [{"name": "[Merchant Hag Melentia] Club", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Club"}]
-    },
-
-    {
-     "name": "[Merchant Hag Melentia] Caestus",
-     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
-     "sections": [{"name": "[Merchant Hag Melentia] Caestus", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Caestus"}]
-    },
-
-    {
-     "name": "[Merchant Hag Melentia] Traveling Merchant Hat",
-     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
-     "sections": [{"name": "[Merchant Hag Melentia] Traveling Merchant Hat", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Traveling Merchant Hat"}]
-    },
-
-    {
-     "name": "[Merchant Hag Melentia] Traveling Merchant Coat",
-     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
-     "sections": [{"name": "[Merchant Hag Melentia] Traveling Merchant Coat", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Traveling Merchant Coat"}]
-    },
-
-    {
-     "name": "[Merchant Hag Melentia] Traveling Merchant Gloves",
-     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
-     "sections": [{"name": "[Merchant Hag Melentia] Traveling Merchant Gloves", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Traveling Merchant Gloves"}]
-    },
-
-    {
-     "name": "[Merchant Hag Melentia] Traveling Merchant Boots",
-     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
-     "sections": [{"name": "[Merchant Hag Melentia] Traveling Merchant Boots", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Traveling Merchant Boots"}]
-    },
-
-    {
-     "name": "[Merchant Hag Melentia] Soul Arrow",
-     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
-     "sections": [{"name": "[Merchant Hag Melentia] Soul Arrow", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Soul Arrow"}]
-    },
-
-    {
-     "name": "[Merchant Hag Melentia] Heal",
-     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
-     "sections": [{"name": "[Merchant Hag Melentia] Heal", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Heal"}]
-    },
-
-    {
-     "name": "[Merchant Hag Melentia] Lenigrasts Key",
-     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
-     "sections": [{"name": "[Merchant Hag Melentia] Lenigrasts Key", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Lenigrasts Key"}]
-    },
-
-    {
-     "name": "[Merchant Hag Melentia] Pharros Lockstone",
-     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
-     "sections": [{"name": "[Merchant Hag Melentia] Pharros Lockstone", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Pharros Lockstone"}]
-    },
-
-    {
-     "name": "[Merchant Hag Melentia] Fragrant Branch of Yore",
-     "map_locations": [{"map": "Forest of Fallen Giants", "x": 0, "y": 0}],
-     "sections": [{"name": "[Merchant Hag Melentia] Fragrant Branch of Yore", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Fragrant Branch of Yore"}]
+     "sections": [
+            {"name": "[Merchant Hag Melentia] Broken Straight Sword", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Broken Straight Sword"},
+            {"name": "[Merchant Hag Melentia] Hand Axe", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Hand Axe"},
+            {"name": "[Merchant Hag Melentia] Club", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Club"},
+            {"name": "[Merchant Hag Melentia] Caestus", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Caestus"},
+            {"name": "[Merchant Hag Melentia] Traveling Merchant Hat", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Traveling Merchant Hat"},
+            {"name": "[Merchant Hag Melentia] Traveling Merchant Coat", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Traveling Merchant Coat"},
+            {"name": "[Merchant Hag Melentia] Traveling Merchant Gloves", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Traveling Merchant Gloves"},
+            {"name": "[Merchant Hag Melentia] Traveling Merchant Boots", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Traveling Merchant Boots"},
+            {"name": "[Merchant Hag Melentia] Soul Arrow", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Soul Arrow"},
+            {"name": "[Merchant Hag Melentia] Heal", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Heal"},
+            {"name": "[Merchant Hag Melentia] Lenigrasts Key", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Lenigrasts Key"},
+            {"name": "[Merchant Hag Melentia] Pharros Lockstone", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Pharros Lockstone"},
+            {"name": "[Merchant Hag Melentia] Fragrant Branch of Yore", "ref": "Forest of Fallen Giants/[Merchant Hag Melentia] Fragrant Branch of Yore"}
+        ]
     },
 
     {

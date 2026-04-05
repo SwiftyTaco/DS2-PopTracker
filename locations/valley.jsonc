@@ -300,26 +300,13 @@
     },
     
     {
-        "name": "[Stone Trader Chloanne] Soul Appease",
+        "name": "[Stone Trader Chloanne]",
         "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
-        "sections": [{"name": "[Stone Trader Chloanne] Soul Appease", "ref": "Harvest Valley/[Stone Trader Chloanne] Soul Appease"}]
-    },
-    
-    {
-        "name": "[Stone Trader Chloanne] Dead Again",
-        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
-        "sections": [{"name": "[Stone Trader Chloanne] Dead Again", "ref": "Harvest Valley/[Stone Trader Chloanne] Dead Again"}]
-    },
-    
-    {
-        "name": "[Stone Trader Chloanne] Bonfire Ascetic",
-        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
-        "sections": [{"name": "[Stone Trader Chloanne] Bonfire Ascetic", "ref": "Harvest Valley/[Stone Trader Chloanne] Bonfire Ascetic"}]
-    },
-    
-    {
-        "name": "[Stone Trader Chloanne/Velstadt] Titanite Slab",
-        "map_locations": [{"map": "Harvest Valley", "x": "0", "y": 0}],
-        "sections": [{"name": "[Stone Trader Chloanne/Velstadt] Titanite Slab", "ref": "Harvest Valley/[Stone Trader Chloanne/Velstadt] Titanite Slab"}]
+        "sections": [
+            {"name": "[Stone Trader Chloanne] Soul Appease", "ref": "Harvest Valley/[Stone Trader Chloanne] Soul Appease"},
+            {"name": "[Stone Trader Chloanne] Dead Again", "ref": "Harvest Valley/[Stone Trader Chloanne] Dead Again"},
+            {"name": "[Stone Trader Chloanne] Bonfire Ascetic", "ref": "Harvest Valley/[Stone Trader Chloanne] Bonfire Ascetic"},
+            {"name": "[Stone Trader Chloanne/Velstadt] Titanite Slab", "ref": "Harvest Valley/[Stone Trader Chloanne/Velstadt] Titanite Slab"}
+        ]
     }
 ]

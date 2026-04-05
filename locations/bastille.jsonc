@@ -120,57 +120,19 @@
     },
         
     {
-        "name": "[Steady Hand McDuff] Uchigatana",
+        "name": "[Steady Hand McDuff]",
         "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Steady Hand McDuff] Uchigatana", "ref": "Lost Bastille/[Steady Hand McDuff] Uchigatana"}]
-    },
-        
-    {
-        "name": "[Steady Hand McDuff] Bastard Sword",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Steady Hand McDuff] Bastard Sword", "ref": "Lost Bastille/[Steady Hand McDuff] Bastard Sword"}]
-    },
-        
-    {
-        "name": "[Steady Hand McDuff] Greataxe",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Steady Hand McDuff] Greataxe", "ref": "Lost Bastille/[Steady Hand McDuff] Greataxe"}]
-    },
-        
-    {
-        "name": "[Steady Hand McDuff] Winged Spear",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Steady Hand McDuff] Winged Spear", "ref": "Lost Bastille/[Steady Hand McDuff] Winged Spear"}]
-    },
-        
-    {
-        "name": "[Steady Hand McDuff] Scythe",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Steady Hand McDuff] Scythe", "ref": "Lost Bastille/[Steady Hand McDuff] Scythe"}]
-    },
-        
-    {
-        "name": "[Steady Hand McDuff] Long Bow",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Steady Hand McDuff] Long Bow", "ref": "Lost Bastille/[Steady Hand McDuff] Long Bow"}]
-    },
-        
-    {
-        "name": "[Steady Hand McDuff] Light Crossbow",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Steady Hand McDuff] Light Crossbow", "ref": "Lost Bastille/[Steady Hand McDuff] Light Crossbow"}]
-    },
-        
-    {
-        "name": "[Steady Hand McDuff] Royal Kite Shield",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Steady Hand McDuff] Royal Kite Shield", "ref": "Lost Bastille/[Steady Hand McDuff] Royal Kite Shield"}]
-    },
-        
-    {
-        "name": "[Steady Hand McDuff] Repair Powder",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Steady Hand McDuff] Repair Powder", "ref": "Lost Bastille/[Steady Hand McDuff] Repair Powder"}]
+        "sections": [
+            {"name": "[Steady Hand McDuff] Uchigatana", "ref": "Lost Bastille/[Steady Hand McDuff] Uchigatana"},
+            {"name": "[Steady Hand McDuff] Bastard Sword", "ref": "Lost Bastille/[Steady Hand McDuff] Bastard Sword"},
+            {"name": "[Steady Hand McDuff] Greataxe", "ref": "Lost Bastille/[Steady Hand McDuff] Greataxe"},
+            {"name": "[Steady Hand McDuff] Winged Spear", "ref": "Lost Bastille/[Steady Hand McDuff] Winged Spear"},
+            {"name": "[Steady Hand McDuff] Scythe", "ref": "Lost Bastille/[Steady Hand McDuff] Scythe"},
+            {"name": "[Steady Hand McDuff] Long Bow", "ref": "Lost Bastille/[Steady Hand McDuff] Long Bow"},
+            {"name": "[Steady Hand McDuff] Light Crossbow", "ref": "Lost Bastille/[Steady Hand McDuff] Light Crossbow"},
+            {"name": "[Steady Hand McDuff] Royal Kite Shield", "ref": "Lost Bastille/[Steady Hand McDuff] Royal Kite Shield"},
+            {"name": "[Steady Hand McDuff] Repair Powder", "ref": "Lost Bastille/[Steady Hand McDuff] Repair Powder"}      
+        ]
     },
         
     {
@@ -378,87 +340,23 @@
     },
         
     {
-        "name": "[Straid of Olaphis] Homing Soul Arrow",
+        "name": "[Straid of Olaphis]",
         "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Straid of Olaphis] Homing Soul Arrow", "ref": "Lost Bastille/[Straid of Olaphis] Homing Soul Arrow"}]
-    },
-        
-    {
-        "name": "[Straid of Olaphis] Resplendent Life",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Straid of Olaphis] Resplendent Life", "ref": "Lost Bastille/[Straid of Olaphis] Resplendent Life"}]
-    },
-        
-    {
-        "name": "[Straid of Olaphis] Unveil",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Straid of Olaphis] Unveil", "ref": "Lost Bastille/[Straid of Olaphis] Unveil"}]
-    },
-        
-    {
-        "name": "[Straid of Olaphis] Lingering Flame",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Straid of Olaphis] Lingering Flame", "ref": "Lost Bastille/[Straid of Olaphis] Lingering Flame"}]
-    },
-        
-    {
-        "name": "[Straid of Olaphis] Flame Swathe",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Straid of Olaphis] Flame Swathe", "ref": "Lost Bastille/[Straid of Olaphis] Flame Swathe"}]
-    },
-        
-    {
-        "name": "[Straid of Olaphis] Dark Orb",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Straid of Olaphis] Dark Orb", "ref": "Lost Bastille/[Straid of Olaphis] Dark Orb"}]
-    },
-        
-    {
-        "name": "[Straid of Olaphis] Dark Hail",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Straid of Olaphis] Dark Hail", "ref": "Lost Bastille/[Straid of Olaphis] Dark Hail"}]
-    },
-        
-    {
-        "name": "[Straid of Olaphis] Dark Fog",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Straid of Olaphis] Dark Fog", "ref": "Lost Bastille/[Straid of Olaphis] Dark Fog"}]
-    },
-        
-    {
-        "name": "[Straid of Olaphis] Affinity",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Straid of Olaphis] Affinity", "ref": "Lost Bastille/[Straid of Olaphis] Affinity"}]
-    },
-        
-    {
-        "name": "[Straid of Olaphis] Strong Magic Shield",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Straid of Olaphis] Strong Magic Shield", "ref": "Lost Bastille/[Straid of Olaphis] Strong Magic Shield"}]
-    },
-        
-    {
-        "name": "[Straid of Olaphis] Cast Light",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Straid of Olaphis] Cast Light", "ref": "Lost Bastille/[Straid of Olaphis] Cast Light"}]
-    },
-        
-    {
-        "name": "[Straid of Olaphis] Ring of Knowledge",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Straid of Olaphis] Ring of Knowledge", "ref": "Lost Bastille/[Straid of Olaphis] Ring of Knowledge"}]
-    },
-        
-    {
-        "name": "[Straid of Olaphis] Lingering Dragoncrest Ring",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Straid of Olaphis] Lingering Dragoncrest Ring", "ref": "Lost Bastille/[Straid of Olaphis] Lingering Dragoncrest Ring"}]
-    },
-        
-    {
-        "name": "[Straid of Olaphis] Agape Ring",
-        "map_locations": [{"map": "Lost Bastille", "x": 0, "y": 0}],
-        "sections": [{"name": "[Straid of Olaphis] Agape Ring", "ref": "Lost Bastille/[Straid of Olaphis] Agape Ring"}]
-    }
-        
+        "sections": [
+            {"name": "[Straid of Olaphis] Homing Soul Arrow", "ref": "Lost Bastille/[Straid of Olaphis] Homing Soul Arrow"},
+            {"name": "[Straid of Olaphis] Resplendent Life", "ref": "Lost Bastille/[Straid of Olaphis] Resplendent Life"},
+            {"name": "[Straid of Olaphis] Unveil", "ref": "Lost Bastille/[Straid of Olaphis] Unveil"},
+            {"name": "[Straid of Olaphis] Lingering Flame", "ref": "Lost Bastille/[Straid of Olaphis] Lingering Flame"},
+            {"name": "[Straid of Olaphis] Flame Swathe", "ref": "Lost Bastille/[Straid of Olaphis] Flame Swathe"},
+            {"name": "[Straid of Olaphis] Dark Orb", "ref": "Lost Bastille/[Straid of Olaphis] Dark Orb"},
+            {"name": "[Straid of Olaphis] Dark Hail", "ref": "Lost Bastille/[Straid of Olaphis] Dark Hail"},
+            {"name": "[Straid of Olaphis] Dark Fog", "ref": "Lost Bastille/[Straid of Olaphis] Dark Fog"},
+            {"name": "[Straid of Olaphis] Affinity", "ref": "Lost Bastille/[Straid of Olaphis] Affinity"},
+            {"name": "[Straid of Olaphis] Strong Magic Shield", "ref": "Lost Bastille/[Straid of Olaphis] Strong Magic Shield"},
+            {"name": "[Straid of Olaphis] Cast Light", "ref": "Lost Bastille/[Straid of Olaphis] Cast Light"},
+            {"name": "[Straid of Olaphis] Ring of Knowledge", "ref": "Lost Bastille/[Straid of Olaphis] Ring of Knowledge"},
+            {"name": "[Straid of Olaphis] Lingering Dragoncrest Ring", "ref": "Lost Bastille/[Straid of Olaphis] Lingering Dragoncrest Ring"},
+            {"name": "[Straid of Olaphis] Agape Ring", "ref": "Lost Bastille/[Straid of Olaphis] Agape Ring"}
+        ]
+    }  
 ]
